@@ -1,0 +1,555 @@
+{
+  "the-invite-52060": {
+    "title": "The Invite",
+    "slug": "the-invite-52060",
+    "releaseAt": "2026-07-09",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ]
+  },
+  "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566": {
+    "title": "Sound Sessions: Eefje de Visser - Heimwee en Vlijmscherp",
+    "slug": "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566",
+    "releaseAt": "2026-07-16",
+    "genres": [
+      "Music"
+    ]
+  },
+  "the-princess-diaries-54524": {
+    "title": "The Princess Diaries",
+    "slug": "the-princess-diaries-54524",
+    "releaseAt": "2001-12-13",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "dhamaal-4-54478": {
+    "title": "Dhamaal 4",
+    "slug": "dhamaal-4-54478",
+    "releaseAt": "2026-07-10",
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  "legally-blonde-54519": {
+    "title": "Legally Blonde",
+    "slug": "legally-blonde-54519",
+    "releaseAt": "2001-11-08",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "hokum-53402": {
+    "title": "Hokum",
+    "slug": "hokum-53402",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Horror"
+    ]
+  },
+  "130-jaar-film-in-den-haag-cineac-54824": {
+    "title": "130 jaar film in Den Haag: Cineac",
+    "slug": "130-jaar-film-in-den-haag-cineac-54824",
+    "releaseAt": "2026-07-30",
+    "genres": [
+      "Documentary",
+      "Dutch"
+    ]
+  },
+  "abba-gold-europe-xmas-show-51959": {
+    "title": "Abba Gold Europe Xmas Show",
+    "slug": "abba-gold-europe-xmas-show-51959",
+    "releaseAt": "2026-12-17",
+    "genres": []
+  },
+  "alicia-keys-girl-from-hell-s-kitchen-54471": {
+    "title": "Alicia Keys: Girl from Hell's Kitchen",
+    "slug": "alicia-keys-girl-from-hell-s-kitchen-54471",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Music"
+    ]
+  },
+  "andre-rieu-s-2026-summer-concert-viva-maastricht-52931": {
+    "title": "Andr\u00e9 Rieu's 2026 Summer Concert: Viva Maastricht!",
+    "slug": "andre-rieu-s-2026-summer-concert-viva-maastricht-52931",
+    "releaseAt": "2026-08-29",
+    "genres": [
+      "Music"
+    ]
+  },
+  "a-pink-floyd-experience-2027-52617": {
+    "title": "A Pink Floyd experience 2027",
+    "slug": "a-pink-floyd-experience-2027-52617",
+    "releaseAt": "2027-02-06",
+    "genres": []
+  },
+  "ateez-light-the-way-in-cinemas-54725": {
+    "title": "ATEEZ : LIGHT THE WAY IN CINEMAS",
+    "slug": "ateez-light-the-way-in-cinemas-54725",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Music"
+    ]
+  },
+  "ballet-la-bayadere-52960": {
+    "title": "Ballet: La Bayadere",
+    "slug": "ballet-la-bayadere-52960",
+    "releaseAt": "2027-01-28",
+    "genres": []
+  },
+  "ballet-notre-dame-de-paris-52961": {
+    "title": "Ballet: Notre-Dame de Paris",
+    "slug": "ballet-notre-dame-de-paris-52961",
+    "releaseAt": "2027-03-11",
+    "genres": []
+  },
+  "ballet-romeo-and-juliet-52959": {
+    "title": "Ballet: Romeo and Juliet",
+    "slug": "ballet-romeo-and-juliet-52959",
+    "releaseAt": "2026-11-05",
+    "genres": []
+  },
+  "ballet-swan-lake-41949": {
+    "title": "Ballet: Swan Lake",
+    "slug": "ballet-swan-lake-41949",
+    "releaseAt": "2026-12-13",
+    "genres": []
+  },
+  "beatlestory-2027-the-fabulous-tribute-show-52621": {
+    "title": "BeatleStory 2027 - The Fabulous Tribute Show",
+    "slug": "beatlestory-2027-the-fabulous-tribute-show-52621",
+    "releaseAt": "2027-04-15",
+    "genres": [
+      "Music"
+    ]
+  },
+  "blood-diamond-54695": {
+    "title": "Blood Diamond",
+    "slug": "blood-diamond-54695",
+    "releaseAt": "2007-01-25",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "body-of-lies-54694": {
+    "title": "Body of Lies",
+    "slug": "body-of-lies-54694",
+    "releaseAt": "2008-11-20",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "bumba-het-circusorkest-54613": {
+    "title": "Bumba: Het Circusorkest",
+    "slug": "bumba-het-circusorkest-54613",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ]
+  },
+  "catch-me-if-you-can-38581": {
+    "title": "Catch Me If You Can",
+    "slug": "catch-me-if-you-can-38581",
+    "releaseAt": "2003-02-06",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "ccr-all-stars-band-creedance-clearwater-revival-tribute-usa-50868": {
+    "title": "CCR All Stars Band - Creedance Clearwater Revival tribute (USA)",
+    "slug": "ccr-all-stars-band-creedance-clearwater-revival-tribute-usa-50868",
+    "releaseAt": "2026-10-03",
+    "genres": [
+      "Music"
+    ]
+  },
+  "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
+    "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
+    "slug": "coldplace-tribute-to-coldplay-parachutes-tour-50872",
+    "releaseAt": "2026-12-18",
+    "genres": [
+      "Music"
+    ]
+  },
+  "copeland-54472": {
+    "title": "Copeland",
+    "slug": "copeland-54472",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Music"
+    ]
+  },
+  "de-k3-tributeband-alle-kleuren-51608": {
+    "title": "De K3 tributeband \u2013 ALLE KLEUREN",
+    "slug": "de-k3-tributeband-alle-kleuren-51608",
+    "releaseAt": "2026-12-12",
+    "genres": []
+  },
+  "el-sett-54473": {
+    "title": "El Sett",
+    "slug": "el-sett-54473",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Music"
+    ]
+  },
+  "giant-the-play-54701": {
+    "title": "GIANT \u2013 The Play",
+    "slug": "giant-the-play-54701",
+    "releaseAt": "2026-11-19",
+    "genres": []
+  },
+  "golden-earring-live-54476": {
+    "title": "Golden Earring Live",
+    "slug": "golden-earring-live-54476",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Music"
+    ]
+  },
+  "jimpa-51369": {
+    "title": "Jimpa",
+    "slug": "jimpa-51369",
+    "releaseAt": "2026-06-25",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "jim-queen-52921": {
+    "title": "Jim Queen",
+    "slug": "jim-queen-52921",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "just-like-elton-2026-48783": {
+    "title": "Just Like Elton 2026",
+    "slug": "just-like-elton-2026-48783",
+    "releaseAt": "2026-12-11",
+    "genres": [
+      "Music"
+    ]
+  },
+  "katseye-wild-hearts-54766": {
+    "title": "KATSEYE: WILD HEARTS",
+    "slug": "katseye-wild-hearts-54766",
+    "releaseAt": "2026-08-12",
+    "genres": [
+      "Music"
+    ]
+  },
+  "kreator-hate-hope-54475": {
+    "title": "Kreator - Hate & Hope",
+    "slug": "kreator-hate-hope-54475",
+    "releaseAt": "2026-09-19",
+    "genres": [
+      "Music"
+    ]
+  },
+  "lo-sound-desert-54474": {
+    "title": "Lo Sound Desert",
+    "slug": "lo-sound-desert-54474",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Music"
+    ]
+  },
+  "maximapark-49920": {
+    "title": "Maximapark",
+    "slug": "maximapark-49920",
+    "releaseAt": "2025-10-16",
+    "genres": [
+      "Documentary"
+    ]
+  },
+  "met-opera-2026-27-cosi-fan-tutte-52695": {
+    "title": "Met Opera 2026-27: Cos\u00ec fan tutte",
+    "slug": "met-opera-2026-27-cosi-fan-tutte-52695",
+    "releaseAt": "2026-10-03",
+    "genres": []
+  },
+  "motor-city-52612": {
+    "title": "Motor City",
+    "slug": "motor-city-52612",
+    "releaseAt": "2026-07-30",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  "nimrods-a-green-day-comedy-54803": {
+    "title": "Nimrods: A Green Day Comedy",
+    "slug": "nimrods-a-green-day-comedy-54803",
+    "releaseAt": "2026-08-11",
+    "genres": [
+      "Music",
+      "Romance"
+    ]
+  },
+  "nt-live-2026-the-audience-51720": {
+    "title": "NT Live 2026 \u2013 The Audience",
+    "slug": "nt-live-2026-the-audience-51720",
+    "releaseAt": "2026-08-13",
+    "genres": []
+  },
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "opera-aida-38675": {
+    "title": "Opera: Aida",
+    "slug": "opera-aida-38675",
+    "releaseAt": "2025-01-25",
+    "genres": []
+  },
+  "opera-carmen-36956": {
+    "title": "Opera: Carmen",
+    "slug": "opera-carmen-36956",
+    "releaseAt": "2024-01-27",
+    "genres": []
+  },
+  "opera-la-fanciulla-del-west-52698": {
+    "title": "Opera: La Fanciulla del West",
+    "slug": "opera-la-fanciulla-del-west-52698",
+    "releaseAt": "2027-01-23",
+    "genres": []
+  },
+  "opera-macbeth-52696": {
+    "title": "Opera: Macbeth",
+    "slug": "opera-macbeth-52696",
+    "releaseAt": "2026-10-17",
+    "genres": []
+  },
+  "opera-manon-52700": {
+    "title": "Opera: Manon",
+    "slug": "opera-manon-52700",
+    "releaseAt": "2027-04-03",
+    "genres": []
+  },
+  "opera-othello-52701": {
+    "title": "Opera: Othello",
+    "slug": "opera-othello-52701",
+    "releaseAt": "2027-04-24",
+    "genres": []
+  },
+  "opera-parsifal-52702": {
+    "title": "Opera: Parsifal",
+    "slug": "opera-parsifal-52702",
+    "releaseAt": "2027-06-05",
+    "genres": []
+  },
+  "opera-samson-et-dalila-52697": {
+    "title": "Opera: Samson et Dalila",
+    "slug": "opera-samson-et-dalila-52697",
+    "releaseAt": "2026-12-03",
+    "genres": []
+  },
+  "opera-silent-night-52699": {
+    "title": "Opera: Silent Night",
+    "slug": "opera-silent-night-52699",
+    "releaseAt": "2027-03-20",
+    "genres": []
+  },
+  "opera-tosca-38674": {
+    "title": "Opera: Tosca",
+    "slug": "opera-tosca-38674",
+    "releaseAt": "2024-11-23",
+    "genres": []
+  },
+  "pathe-presents-julie-huard-let-s-go-hollywood-47077": {
+    "title": "Path\u00e9 Presents Julie Huard: Let's Go Hollywood!",
+    "slug": "pathe-presents-julie-huard-let-s-go-hollywood-47077",
+    "releaseAt": "2025-04-23",
+    "genres": [
+      "Music"
+    ]
+  },
+  "pubquiz-live-49314": {
+    "title": "PubQuiz Live",
+    "slug": "pubquiz-live-49314",
+    "releaseAt": "2026-11-06",
+    "genres": []
+  },
+  "puur-de-nijs-ode-aan-rob-de-nijs-52143": {
+    "title": "PUUR DE NIJS \u2013 Ode aan Rob de Nijs",
+    "slug": "puur-de-nijs-ode-aan-rob-de-nijs-52143",
+    "releaseAt": "2027-01-23",
+    "genres": [
+      "Music"
+    ]
+  },
+  "shutter-island-36381": {
+    "title": "Shutter Island",
+    "slug": "shutter-island-36381",
+    "releaseAt": "2010-02-18",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "sound-sessions-olivia-dean-the-art-of-loving-53424": {
+    "title": "Sound Sessions: Olivia Dean - The Art of Loving",
+    "slug": "sound-sessions-olivia-dean-the-art-of-loving-53424",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Music"
+    ]
+  },
+  "sound-sessions-rosalia-lux-53568": {
+    "title": "Sound Sessions: Rosal\u00eda - Lux",
+    "slug": "sound-sessions-rosalia-lux-53568",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Music"
+    ]
+  },
+  "sound-sessions-the-beatles-abbey-road-53567": {
+    "title": "Sound Sessions: The Beatles - Abbey Road",
+    "slug": "sound-sessions-the-beatles-abbey-road-53567",
+    "releaseAt": "2026-08-20",
+    "genres": [
+      "Music"
+    ]
+  },
+  "sound-sessions-u2-the-joshua-tree-54630": {
+    "title": "Sound Sessions: U2 - The Joshua Tree",
+    "slug": "sound-sessions-u2-the-joshua-tree-54630",
+    "releaseAt": "2026-10-15",
+    "genres": [
+      "Music"
+    ]
+  },
+  "spider-man-brand-new-day-48103": {
+    "title": "Spider-Man: Brand New Day",
+    "slug": "spider-man-brand-new-day-48103",
+    "releaseAt": "2026-07-30",
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  "the-animals-friends-last-farewell-tour-2027-52622": {
+    "title": "The Animals & Friends: Last Farewell Tour 2027",
+    "slug": "the-animals-friends-last-farewell-tour-2027-52622",
+    "releaseAt": "2027-05-22",
+    "genres": [
+      "Music"
+    ]
+  },
+  "the-departed-20th-anniversary-52061": {
+    "title": "The Departed (20th Anniversary)",
+    "slug": "the-departed-20th-anniversary-52061",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "the-elo-encounter-face-the-music-50869": {
+    "title": "The Elo Encounter - Face the Music",
+    "slug": "the-elo-encounter-face-the-music-50869",
+    "releaseAt": "2026-10-24",
+    "genres": [
+      "Music"
+    ]
+  },
+  "the-merry-widow-met-summer-encore-2026-41308": {
+    "title": "The Merry Widow: Met Summer Encore 2026",
+    "slug": "the-merry-widow-met-summer-encore-2026-41308",
+    "releaseAt": "2026-07-26",
+    "genres": []
+  },
+  "the-music-of-live-aid-2027-52618": {
+    "title": "The Music Of Live Aid 2027",
+    "slug": "the-music-of-live-aid-2027-52618",
+    "releaseAt": "2027-01-16",
+    "genres": []
+  },
+  "thunder-from-down-under-2027-52619": {
+    "title": "Thunder from Down Under 2027",
+    "slug": "thunder-from-down-under-2027-52619",
+    "releaseAt": "2027-03-05",
+    "genres": []
+  },
+  "tony-christie-great-farewell-up-close-unplugged-50871": {
+    "title": "Tony Christie - Great Farewell 'Up Close & Unplugged'",
+    "slug": "tony-christie-great-farewell-up-close-unplugged-50871",
+    "releaseAt": "2026-11-07",
+    "genres": [
+      "Music"
+    ]
+  },
+  "tribute-to-the-cats-band-51963": {
+    "title": "Tribute To The Cats Band",
+    "slug": "tribute-to-the-cats-band-51963",
+    "releaseAt": "2026-11-13",
+    "genres": [
+      "Music"
+    ]
+  },
+  "tribute-to-toto-2027-a-toto-live-experience-52620": {
+    "title": "Tribute to TOTO 2027 \u2013 A TOTO Live Experience",
+    "slug": "tribute-to-toto-2027-a-toto-live-experience-52620",
+    "releaseAt": "2027-03-20",
+    "genres": [
+      "Music"
+    ]
+  },
+  "twenty-years-of-the-met-in-cinemas-an-anniversary-celebration-52703": {
+    "title": "Twenty Years of the Met in Cinemas: An Anniversary Celebration",
+    "slug": "twenty-years-of-the-met-in-cinemas-an-anniversary-celebration-52703",
+    "releaseAt": "2026-09-27",
+    "genres": []
+  },
+  "u2two-u2-theatershow-boy-to-surrender-deel-3-51606": {
+    "title": "U2two: U2 theatershow \u2018Boy to Surrender\u2019- deel 3",
+    "slug": "u2two-u2-theatershow-boy-to-surrender-deel-3-51606",
+    "releaseAt": "2026-11-14",
+    "genres": []
+  },
+  "wham-10-days-in-china-54511": {
+    "title": "WHAM! 10 Days in China",
+    "slug": "wham-10-days-in-china-54511",
+    "releaseAt": "2026-07-28",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  "wk-2026-finale-54790": {
+    "title": "WK 2026 Finale",
+    "slug": "wk-2026-finale-54790",
+    "releaseAt": "2026-07-19",
+    "genres": [
+      "Sport"
+    ]
+  }
+}

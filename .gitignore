@@ -1,0 +1,9 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project local data (logs and caches)
+*.log
+data/*
+!data/specials_cache.json

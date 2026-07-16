@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pathe-checker"
+version = "1.0.0"
+description = "A scraper and notifier tool for Pathé Netherlands special event screenings."
+readme = "read.me"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Franklin Amorim" }
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: MacOS",
+]
+dependencies = []
+
+[project.scripts]
+pathe-checker = "pathe_checker:main"
+
+[tool.setuptools]
+py-modules = ["pathe_checker"]

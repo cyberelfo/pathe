@@ -1,0 +1,36 @@
+name: Pathé Specials Monitor
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Runs every 3 hours
+  workflow_dispatch:      # Allows manual triggering from the GitHub Actions tab
+
+permissions:
+  contents: write         # Required to push changes back to the repository
+
+jobs:
+  check-specials:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run checker script
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          python pathe_checker.py
+
+      - name: Commit and push cache updates
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/specials_cache.json
+          git commit -m "Automated cache update: new specials detected" || echo "No changes to commit"
+          git push

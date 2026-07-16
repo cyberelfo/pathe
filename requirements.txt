@@ -1,0 +1,5 @@
+# Standard library dependencies only.
+# No third-party modules are required to run the core script.
+#
+# To install development tools (testing/linting), run:
+# pip install pytest
