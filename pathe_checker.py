@@ -4,7 +4,6 @@ import re
 import json
 import urllib.request
 import urllib.parse
-import subprocess
 import datetime
 import sys
 
@@ -30,34 +29,26 @@ def log(message, log_file=None, data_dir=None):
             print(f"Failed to write to log file: {e}", file=sys.stderr)
 
 def send_notification(title, subtitle, log_file=None, data_dir=None, ntfy_topic=None):
-    if ntfy_topic:
-        url = f"https://ntfy.sh/{ntfy_topic}"
-        body = f"{subtitle}".encode('utf-8')
-        req = urllib.request.Request(
-            url,
-            data=body,
-            headers={
-                "Title": f"New Pathé Special: {title}",
-                "Priority": "high",
-                "Tags": "movie_camera,popcorn"
-            },
-            method="POST"
-        )
-        try:
-            with urllib.request.urlopen(req, timeout=10) as response:
-                log(f"ntfy.sh notification sent: {title} ({subtitle})", log_file, data_dir)
-        except Exception as e:
-            log(f"Failed to send ntfy.sh notification: {e}", log_file, data_dir)
-    else:
-        # Escape quotes for AppleScript
-        escaped_title = title.replace('"', '\\"').replace("'", "\\'")
-        escaped_subtitle = subtitle.replace('"', '\\"').replace("'", "\\'")
-        applescript_cmd = f'display notification "{escaped_title}" with title "Pathé Specials Alert" subtitle "{escaped_subtitle}"'
-        try:
-            subprocess.run(['osascript', '-e', applescript_cmd], check=True)
-            log(f"Notification sent: {title} ({subtitle})", log_file, data_dir)
-        except Exception as e:
-            log(f"Failed to send notification: {e}", log_file, data_dir)
+    if not ntfy_topic:
+        log("No ntfy topic configured. Skipping notification.", log_file, data_dir)
+        return
+    url = f"https://ntfy.sh/{ntfy_topic}"
+    body = f"{subtitle}".encode('utf-8')
+    req = urllib.request.Request(
+        url,
+        data=body,
+        headers={
+            "Title": f"New Pathé Special: {title}",
+            "Priority": "high",
+            "Tags": "movie_camera,popcorn"
+        },
+        method="POST"
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=10) as response:
+            log(f"ntfy.sh notification sent: {title} ({subtitle})", log_file, data_dir)
+    except Exception as e:
+        log(f"Failed to send ntfy.sh notification: {e}", log_file, data_dir)
 
 def find_shows_recursive(obj, shows_dict):
     """Recursively search for show-like objects inside the parsed state JSON."""

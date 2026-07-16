@@ -193,23 +193,19 @@ class TestPatheChecker(unittest.TestCase):
             mock_file.assert_any_call("/tmp/mock_data/specials_cache.json", "w", encoding="utf-8")
 
     @patch("urllib.request.urlopen")
-    @patch("subprocess.run")
-    def test_send_notification_applescript(self, mock_subrun, mock_urlopen):
-        # When ntfy_topic is NOT provided
+    def test_send_notification_no_topic(self, mock_urlopen):
+        # When ntfy_topic is NOT provided, it should skip sending
         pathe_checker.send_notification("Title", "Subtitle", ntfy_topic=None)
-        mock_subrun.assert_called_once()
         mock_urlopen.assert_not_called()
 
     @patch("urllib.request.urlopen")
-    @patch("subprocess.run")
-    def test_send_notification_ntfy(self, mock_subrun, mock_urlopen):
+    def test_send_notification_ntfy(self, mock_urlopen):
         # Mock response from urlopen
         mock_response = MagicMock()
         mock_response.status = 200
         mock_urlopen.return_value.__enter__.return_value = mock_response
 
         pathe_checker.send_notification("Title", "Subtitle", ntfy_topic="my-test-topic")
-        mock_subrun.assert_not_called()
         mock_urlopen.assert_called_once()
         
         # Verify the request passed to urlopen

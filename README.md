@@ -1,6 +1,6 @@
 # Pathé Specials Checker
 
-A robust Python script that monitors the Pathé Netherlands (English) website for special event movie releases, caches current offerings, and sends macOS desktop notifications when new specials are detected.
+A robust Python script that monitors the Pathé Netherlands (English) website for special event movie releases, caches current offerings, and sends push notifications via ntfy.sh when new specials are detected.
 
 ---
 
@@ -10,7 +10,7 @@ A robust Python script that monitors the Pathé Netherlands (English) website fo
 - **Recursive Movie Search**: Dynamically extracts show details from the nested state tree.
 - **Specials Filtering**: Screens movies using `isEventSpecial` and `specialEvent` attributes.
 - **Local Caching**: Saves detected specials to a cache JSON to prevent duplicate alerts.
-- **macOS Desktop Notifications**: Uses AppleScript (`osascript`) to send native desktop alerts for newly found specials.
+- **Push Notifications**: Uses [ntfy.sh](https://ntfy.sh) to send alerts to your mobile devices or desktop when newly found specials are detected.
 - **Flexible Configuration**: Supports custom workspace paths, dry runs, cache clearing, and custom URLs via a robust CLI.
 - **Testing**: Includes a comprehensive test suite to verify HTML parsing, recursive filtering, and dry-run boundaries.
 
@@ -18,13 +18,12 @@ A robust Python script that monitors the Pathé Netherlands (English) website fo
 
 ## Requirements
 
-- **Operating System**: macOS (required for desktop notifications via AppleScript/`osascript`).
+- **Operating System**: OS-independent (runs on Linux, macOS, and Windows).
 - **Python Version**: Python 3.8 or higher.
 - **Dependencies**: Only Python standard library modules are used:
   - `urllib.request` (fetching the website)
   - `re` (extracting JSON state block)
   - `json` (parsing and storing data)
-  - `subprocess` (executing AppleScript notifications)
   - `datetime` / `sys` / `os` / `argparse` (logging, CLI handling, and file path manipulation)
 
 ---
@@ -62,7 +61,7 @@ graph TD
     H -->|Yes| J[Compare current specials with cache]
     J --> K{Any new specials?}
     K -->|No| L[Log 'No new specials' & Exit]
-    K -->|Yes| M[Log details & Send macOS Notification]
+    K -->|Yes| M[Log details & Send Push Notification]
     M --> N[Update specials_cache.json]
     N --> O[Exit]
 ```
@@ -108,7 +107,7 @@ options:
 
 ### Automation (Crontab)
 
-To check for specials automatically (e.g., every 3 hours), you can add a cron job locally on macOS:
+To check for specials automatically (e.g., every 3 hours), you can add a cron job locally:
 
 1. Open your crontab manager:
    ```bash
