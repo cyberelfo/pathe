@@ -33,10 +33,13 @@ A robust Python script that monitors the Pathé Netherlands (English) website fo
 
 ```text
 pathe/
+├── .github/
+│   └── workflows/
+│       └── pathe_checker.yml # GitHub Actions workflow automation
 ├── .gitignore          # Ignores local data cache, logs, and python bytecode
 ├── pyproject.toml      # Package setup and metadata (PEP 621 compliant)
 ├── requirements.txt    # Lists dependencies (development dependencies)
-├── read.me             # Documentation
+├── README.md           # Documentation
 ├── pathe_checker.py    # Main script executable
 └── tests/
     └── test_pathe_checker.py   # Unit tests with mock HTML/JSON state data
@@ -105,7 +108,7 @@ options:
 
 ### Automation (Crontab)
 
-To check for specials automatically (e.g., every 3 hours), you can add a cron job on macOS:
+To check for specials automatically (e.g., every 3 hours), you can add a cron job locally on macOS:
 
 1. Open your crontab manager:
    ```bash
@@ -115,6 +118,15 @@ To check for specials automatically (e.g., every 3 hours), you can add a cron jo
    ```cron
    0 */3 * * * /usr/bin/python3 /Users/franklinamorim/Antigravity/pathe/pathe_checker.py
    ```
+
+### Automation (GitHub Actions & ntfy.sh)
+
+The project includes a pre-configured GitHub Actions workflow in `.github/workflows/pathe_checker.yml` that runs every 3 hours. It uses `ntfy.sh` to send push notifications to your phone/desktop.
+
+#### Configuration:
+1. **GitHub Secret:** Add your custom ntfy.sh topic name as a repository secret named `NTFY_TOPIC`.
+2. **Cloudflare Bypass:** Add a free ScraperAPI key as a repository secret named `SCRAPERAPI_KEY` to bypass Cloudflare protection.
+3. **Cache Persistence:** The workflow automatically commits the updated `data/specials_cache.json` cache file back to the repository branch when new releases are detected.
 
 ---
 
