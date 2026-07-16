@@ -17,23 +17,6 @@
       "Kids film"
     ]
   },
-  "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566": {
-    "title": "Sound Sessions: Eefje de Visser - Heimwee en Vlijmscherp",
-    "slug": "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Music"
-    ]
-  },
-  "the-princess-diaries-54524": {
-    "title": "The Princess Diaries",
-    "slug": "the-princess-diaries-54524",
-    "releaseAt": "2001-12-13",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ]
-  },
   "dhamaal-4-54478": {
     "title": "Dhamaal 4",
     "slug": "dhamaal-4-54478",
@@ -47,6 +30,15 @@
     "title": "Legally Blonde",
     "slug": "legally-blonde-54519",
     "releaseAt": "2001-11-08",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  "the-princess-diaries-54524": {
+    "title": "The Princess Diaries",
+    "slug": "the-princess-diaries-54524",
+    "releaseAt": "2001-12-13",
     "genres": [
       "Comedy",
       "Romance"
@@ -74,14 +66,6 @@
     "slug": "abba-gold-europe-xmas-show-51959",
     "releaseAt": "2026-12-17",
     "genres": []
-  },
-  "alicia-keys-girl-from-hell-s-kitchen-54471": {
-    "title": "Alicia Keys: Girl from Hell's Kitchen",
-    "slug": "alicia-keys-girl-from-hell-s-kitchen-54471",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Music"
-    ]
   },
   "andre-rieu-s-2026-summer-concert-viva-maastricht-52931": {
     "title": "Andr\u00e9 Rieu's 2026 Summer Concert: Viva Maastricht!",
@@ -241,6 +225,16 @@
     "genres": [
       "Comedy",
       "Romance"
+    ]
+  },
+  "jurassic-park-41468": {
+    "title": "Jurassic Park",
+    "slug": "jurassic-park-41468",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
     ]
   },
   "just-like-elton-2026-48783": {
@@ -413,6 +407,14 @@
     "genres": [
       "Mystery",
       "Thriller"
+    ]
+  },
+  "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566": {
+    "title": "Sound Sessions: Eefje de Visser - Heimwee en Vlijmscherp",
+    "slug": "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566",
+    "releaseAt": "2026-07-16",
+    "genres": [
+      "Music"
     ]
   },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
