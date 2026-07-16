@@ -220,5 +220,31 @@ class TestPatheChecker(unittest.TestCase):
         self.assertEqual(req.get_header("Priority"), "high")
         self.assertEqual(req.get_header("Tags"), "movie_camera,popcorn")
 
+    @patch("urllib.request.urlopen")
+    def test_fetch_html_direct(self, mock_urlopen):
+        mock_response = MagicMock()
+        mock_response.status = 200
+        mock_response.read.return_value = b"<html></html>"
+        mock_urlopen.return_value.__enter__.return_value = mock_response
+
+        html = pathe_checker.fetch_html("https://example.com/films")
+        self.assertEqual(html, "<html></html>")
+        
+        req = mock_urlopen.call_args[0][0]
+        self.assertEqual(req.full_url, "https://example.com/films")
+
+    @patch("urllib.request.urlopen")
+    def test_fetch_html_scraperapi(self, mock_urlopen):
+        mock_response = MagicMock()
+        mock_response.status = 200
+        mock_response.read.return_value = b"<html></html>"
+        mock_urlopen.return_value.__enter__.return_value = mock_response
+
+        html = pathe_checker.fetch_html("https://example.com/films", scraperapi_key="my-key")
+        self.assertEqual(html, "<html></html>")
+        
+        req = mock_urlopen.call_args[0][0]
+        self.assertEqual(req.full_url, "http://api.scraperapi.com?api_key=my-key&url=https%3A//example.com/films")
+
 if __name__ == "__main__":
     unittest.main()

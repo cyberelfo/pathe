@@ -3,6 +3,7 @@ import os
 import re
 import json
 import urllib.request
+import urllib.parse
 import subprocess
 import datetime
 import sys
@@ -70,8 +71,11 @@ def find_shows_recursive(obj, shows_dict):
         for v in obj:
             find_shows_recursive(v, shows_dict)
 
-def fetch_html(url=URL, headers=HEADERS):
+def fetch_html(url=URL, headers=HEADERS, scraperapi_key=None):
     """Fetches raw HTML content from the specified URL."""
+    if scraperapi_key:
+        encoded_url = urllib.parse.quote(url)
+        url = f"http://api.scraperapi.com?api_key={scraperapi_key}&url={encoded_url}"
     req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=15) as response:
         if response.status != 200:
@@ -127,7 +131,7 @@ def check_for_specials(args):
     
     # 1. Fetch HTML page
     try:
-        html = fetch_html(args.url, HEADERS)
+        html = fetch_html(args.url, HEADERS, scraperapi_key=args.scraperapi_key)
     except Exception as e:
         log(f"HTTP request error: {e}", log_file, args.data_dir)
         return
@@ -231,6 +235,11 @@ def main():
         "--ntfy-topic",
         default=os.environ.get("NTFY_TOPIC"),
         help="ntfy.sh topic to send push notifications to (defaults to NTFY_TOPIC environment variable)"
+    )
+    parser.add_argument(
+        "--scraperapi-key",
+        default=os.environ.get("SCRAPERAPI_KEY"),
+        help="ScraperAPI key to bypass Cloudflare protection"
     )
     
     args = parser.parse_args()

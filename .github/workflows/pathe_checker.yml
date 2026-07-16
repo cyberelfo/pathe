@@ -24,6 +24,7 @@ jobs:
       - name: Run checker script
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
         run: |
           python pathe_checker.py
 
