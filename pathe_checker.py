@@ -28,27 +28,31 @@ def log(message, log_file=None, data_dir=None):
         except Exception as e:
             print(f"Failed to write to log file: {e}", file=sys.stderr)
 
-def send_notification(title, subtitle, log_file=None, data_dir=None, ntfy_topic=None):
-    if not ntfy_topic:
-        log("No ntfy topic configured. Skipping notification.", log_file, data_dir)
+def send_notification(title, subtitle, log_file=None, data_dir=None, telegram_token=None, telegram_chat_id=None):
+    if not telegram_token or not telegram_chat_id:
+        log("No Telegram credentials configured. Skipping notification.", log_file, data_dir)
         return
-    url = f"https://ntfy.sh/{ntfy_topic}"
-    body = f"{subtitle}".encode('utf-8')
+    url = f"https://api.telegram.org/bot{telegram_token}/sendMessage"
+    text = f"🎥 *New Pathé Special: {title}*\n_{subtitle}_"
+    payload = {
+        "chat_id": telegram_chat_id,
+        "text": text,
+        "parse_mode": "Markdown"
+    }
+    body = json.dumps(payload).encode('utf-8')
     req = urllib.request.Request(
         url,
         data=body,
         headers={
-            "Title": f"New Pathé Special: {title}",
-            "Priority": "high",
-            "Tags": "movie_camera,popcorn"
+            "Content-Type": "application/json"
         },
         method="POST"
     )
     try:
         with urllib.request.urlopen(req, timeout=10) as response:
-            log(f"ntfy.sh notification sent: {title} ({subtitle})", log_file, data_dir)
+            log(f"Telegram notification sent: {title} ({subtitle})", log_file, data_dir)
     except Exception as e:
-        log(f"Failed to send ntfy.sh notification: {e}", log_file, data_dir)
+        log(f"Failed to send Telegram notification: {e}", log_file, data_dir)
 
 def find_shows_recursive(obj, shows_dict):
     """Recursively search for show-like objects inside the parsed state JSON."""
@@ -181,7 +185,7 @@ def check_for_specials(args):
             
             if not args.dry_run:
                 # Send notification
-                send_notification(title, subtitle, log_file, args.data_dir, ntfy_topic=args.ntfy_topic)
+                send_notification(title, subtitle, log_file, args.data_dir, telegram_token=args.telegram_token, telegram_chat_id=args.telegram_chat_id)
                 log(f"New Special: '{title}' (Slug: {show['slug']}, Release: {release})", log_file, args.data_dir)
             else:
                 log(f"[Dry Run] Would send notification for: '{title}' (Slug: {show['slug']}, Release: {release})", log_file, args.data_dir)
@@ -223,9 +227,14 @@ def main():
         help="Pathé URL to scrape"
     )
     parser.add_argument(
-        "--ntfy-topic",
-        default=os.environ.get("NTFY_TOPIC"),
-        help="ntfy.sh topic to send push notifications to (defaults to NTFY_TOPIC environment variable)"
+        "--telegram-token",
+        default=os.environ.get("TELEGRAM_BOT_TOKEN"),
+        help="Telegram Bot API Token (defaults to TELEGRAM_BOT_TOKEN environment variable)"
+    )
+    parser.add_argument(
+        "--telegram-chat-id",
+        default=os.environ.get("TELEGRAM_CHAT_ID"),
+        help="Telegram Chat ID (defaults to TELEGRAM_CHAT_ID environment variable)"
     )
     parser.add_argument(
         "--scraperapi-key",

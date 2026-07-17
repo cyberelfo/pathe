@@ -1,6 +1,6 @@
 # Pathé Specials Checker
 
-A robust Python script that monitors the Pathé Netherlands (English) website for special event movie releases, caches current offerings, and sends push notifications via ntfy.sh when new specials are detected.
+A robust Python script that monitors the Pathé Netherlands (English) website for special event movie releases, caches current offerings, and sends push notifications via a Telegram Bot when new specials are detected.
 
 ---
 
@@ -10,7 +10,7 @@ A robust Python script that monitors the Pathé Netherlands (English) website fo
 - **Recursive Movie Search**: Dynamically extracts show details from the nested state tree.
 - **Specials Filtering**: Screens movies using `isEventSpecial` and `specialEvent` attributes.
 - **Local Caching**: Saves detected specials to a cache JSON to prevent duplicate alerts.
-- **Push Notifications**: Uses [ntfy.sh](https://ntfy.sh) to send alerts to your mobile devices or desktop when newly found specials are detected.
+- **Push Notifications**: Uses a Telegram Bot to send alerts to your mobile device or desktop when newly found specials are detected.
 - **Flexible Configuration**: Supports custom workspace paths, dry runs, cache clearing, and custom URLs via a robust CLI.
 - **Testing**: Includes a comprehensive test suite to verify HTML parsing, recursive filtering, and dry-run boundaries.
 
@@ -118,12 +118,14 @@ To check for specials automatically (e.g., every 3 hours), you can add a cron jo
    0 */3 * * * /usr/bin/python3 /Users/franklinamorim/Antigravity/pathe/pathe_checker.py
    ```
 
-### Automation (GitHub Actions & ntfy.sh)
+### Automation (GitHub Actions & Telegram Bot)
 
-The project includes a pre-configured GitHub Actions workflow in `.github/workflows/pathe_checker.yml` that runs every 3 hours. It uses `ntfy.sh` to send push notifications to your phone/desktop.
+The project includes a pre-configured GitHub Actions workflow in `.github/workflows/pathe_checker.yml` that runs every 3 hours. It uses a Telegram Bot to send push notifications to your phone/desktop.
 
 #### Configuration:
-1. **GitHub Secret:** Add your custom ntfy.sh topic name as a repository secret named `NTFY_TOPIC`.
+1. **GitHub Secrets:** Add the following repository secrets:
+   * `TELEGRAM_BOT_TOKEN`: The API Token for your Telegram Bot (created via [@BotFather](https://t.me/BotFather)).
+   * `TELEGRAM_CHAT_ID`: Your Telegram personal chat ID (or group chat ID).
 2. **Cloudflare Bypass:** Add a free ScraperAPI key as a repository secret named `SCRAPERAPI_KEY` to bypass Cloudflare protection.
 3. **Cache Persistence:** The workflow automatically commits the updated `data/specials_cache.json` cache file back to the repository branch when new releases are detected.
 

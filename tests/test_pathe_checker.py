@@ -107,7 +107,8 @@ class TestPatheChecker(unittest.TestCase):
         args.data_dir = "/tmp/mock_data"
         args.dry_run = True
         args.clear_cache = False
-        args.ntfy_topic = None
+        args.telegram_token = None
+        args.telegram_chat_id = None
         
         # Execute check
         pathe_checker.check_for_specials(args)
@@ -132,7 +133,8 @@ class TestPatheChecker(unittest.TestCase):
         args.data_dir = "/tmp/mock_data"
         args.dry_run = False
         args.clear_cache = False
-        args.ntfy_topic = None
+        args.telegram_token = None
+        args.telegram_chat_id = None
         
         # Use patch on open to catch the file write
         with patch("builtins.open", mock_open()) as mock_file:
@@ -172,7 +174,8 @@ class TestPatheChecker(unittest.TestCase):
         args.data_dir = "/tmp/mock_data"
         args.dry_run = False
         args.clear_cache = False
-        args.ntfy_topic = "test-topic"
+        args.telegram_token = "mock-token"
+        args.telegram_chat_id = "mock-chat-id"
         
         # Setup open mock to return the cached content for reading and accept writing
         mock_file_handler = mock_open(read_data=json.dumps(cached_data))
@@ -187,34 +190,44 @@ class TestPatheChecker(unittest.TestCase):
                 "Release: 2026-07-22 | Sci-Fi, Drama", 
                 "/tmp/mock_data/pathe_checker.log", 
                 "/tmp/mock_data",
-                ntfy_topic="test-topic"
+                telegram_token="mock-token",
+                telegram_chat_id="mock-chat-id"
             )
             # Should update cache file
             mock_file.assert_any_call("/tmp/mock_data/specials_cache.json", "w", encoding="utf-8")
 
     @patch("urllib.request.urlopen")
     def test_send_notification_no_topic(self, mock_urlopen):
-        # When ntfy_topic is NOT provided, it should skip sending
-        pathe_checker.send_notification("Title", "Subtitle", ntfy_topic=None)
+        # When telegram token/chat_id is NOT provided, it should skip sending
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token=None, telegram_chat_id=None)
+        mock_urlopen.assert_not_called()
+
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token="token", telegram_chat_id=None)
+        mock_urlopen.assert_not_called()
+
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token=None, telegram_chat_id="chat-id")
         mock_urlopen.assert_not_called()
 
     @patch("urllib.request.urlopen")
-    def test_send_notification_ntfy(self, mock_urlopen):
+    def test_send_notification_telegram(self, mock_urlopen):
         # Mock response from urlopen
         mock_response = MagicMock()
         mock_response.status = 200
         mock_urlopen.return_value.__enter__.return_value = mock_response
 
-        pathe_checker.send_notification("Title", "Subtitle", ntfy_topic="my-test-topic")
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token="my-token", telegram_chat_id="my-chat-id")
         mock_urlopen.assert_called_once()
         
         # Verify the request passed to urlopen
         req = mock_urlopen.call_args[0][0]
-        self.assertEqual(req.full_url, "https://ntfy.sh/my-test-topic")
-        self.assertEqual(req.data, b"Subtitle")
-        self.assertEqual(req.get_header("Title"), "New Pathé Special: Title")
-        self.assertEqual(req.get_header("Priority"), "high")
-        self.assertEqual(req.get_header("Tags"), "movie_camera,popcorn")
+        self.assertEqual(req.full_url, "https://api.telegram.org/botmy-token/sendMessage")
+        self.assertEqual(req.get_header("Content-type"), "application/json")
+        
+        # Verify the JSON payload
+        payload = json.loads(req.data.decode('utf-8'))
+        self.assertEqual(payload["chat_id"], "my-chat-id")
+        self.assertEqual(payload["text"], "🎥 *New Pathé Special: Title*\n_Subtitle_")
+        self.assertEqual(payload["parse_mode"], "Markdown")
 
     @patch("urllib.request.urlopen")
     def test_fetch_html_direct(self, mock_urlopen):
