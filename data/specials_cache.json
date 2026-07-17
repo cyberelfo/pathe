@@ -1,4 +1,13 @@
 {
+  "the-invite-52060": {
+    "title": "The Invite",
+    "slug": "the-invite-52060",
+    "releaseAt": "2026-07-09",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -6,6 +15,23 @@
     "genres": [
       "Animation",
       "Kids film"
+    ]
+  },
+  "hokum-53402": {
+    "title": "Hokum",
+    "slug": "hokum-53402",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Horror"
+    ]
+  },
+  "the-princess-diaries-54524": {
+    "title": "The Princess Diaries",
+    "slug": "the-princess-diaries-54524",
+    "releaseAt": "2001-12-13",
+    "genres": [
+      "Comedy",
+      "Romance"
     ]
   },
   "dhamaal-4-54478": {
@@ -26,21 +52,12 @@
       "Romance"
     ]
   },
-  "the-princess-diaries-54524": {
-    "title": "The Princess Diaries",
-    "slug": "the-princess-diaries-54524",
-    "releaseAt": "2001-12-13",
+  "maximapark-49920": {
+    "title": "Maximapark",
+    "slug": "maximapark-49920",
+    "releaseAt": "2025-10-16",
     "genres": [
-      "Comedy",
-      "Romance"
-    ]
-  },
-  "hokum-53402": {
-    "title": "Hokum",
-    "slug": "hokum-53402",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Horror"
+      "Documentary"
     ]
   },
   "130-jaar-film-in-den-haag-cineac-54824": {
@@ -258,14 +275,6 @@
     "releaseAt": "2026-09-17",
     "genres": [
       "Music"
-    ]
-  },
-  "maximapark-49920": {
-    "title": "Maximapark",
-    "slug": "maximapark-49920",
-    "releaseAt": "2025-10-16",
-    "genres": [
-      "Documentary"
     ]
   },
   "met-opera-2026-27-cosi-fan-tutte-52695": {
