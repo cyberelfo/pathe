@@ -17,12 +17,13 @@
       "Kids film"
     ]
   },
-  "hokum-53402": {
-    "title": "Hokum",
-    "slug": "hokum-53402",
-    "releaseAt": "2026-07-23",
+  "legally-blonde-54519": {
+    "title": "Legally Blonde",
+    "slug": "legally-blonde-54519",
+    "releaseAt": "2001-11-08",
     "genres": [
-      "Horror"
+      "Comedy",
+      "Romance"
     ]
   },
   "the-princess-diaries-54524": {
@@ -43,21 +44,12 @@
       "Comedy"
     ]
   },
-  "legally-blonde-54519": {
-    "title": "Legally Blonde",
-    "slug": "legally-blonde-54519",
-    "releaseAt": "2001-11-08",
+  "hokum-53402": {
+    "title": "Hokum",
+    "slug": "hokum-53402",
+    "releaseAt": "2026-07-23",
     "genres": [
-      "Comedy",
-      "Romance"
-    ]
-  },
-  "maximapark-49920": {
-    "title": "Maximapark",
-    "slug": "maximapark-49920",
-    "releaseAt": "2025-10-16",
-    "genres": [
-      "Documentary"
+      "Horror"
     ]
   },
   "130-jaar-film-in-den-haag-cineac-54824": {
@@ -216,6 +208,16 @@
     "releaseAt": "2026-09-17",
     "genres": [
       "Music"
+    ]
+  },
+  "jana-nayagan-51074": {
+    "title": "Jana Nayagan",
+    "slug": "jana-nayagan-51074",
+    "releaseAt": "2026-07-24",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
     ]
   },
   "jimpa-51369": {
@@ -544,14 +546,6 @@
     "genres": [
       "Documentary",
       "Music"
-    ]
-  },
-  "wk-2026-finale-54790": {
-    "title": "WK 2026 Finale",
-    "slug": "wk-2026-finale-54790",
-    "releaseAt": "2026-07-19",
-    "genres": [
-      "Sport"
     ]
   }
 }
