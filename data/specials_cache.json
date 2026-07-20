@@ -8,6 +8,15 @@
       "Drama"
     ]
   },
+  "obsession-50802": {
+    "title": "Obsession",
+    "slug": "obsession-50802",
+    "releaseAt": "2026-05-14",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -26,15 +35,6 @@
       "Romance"
     ]
   },
-  "the-princess-diaries-54524": {
-    "title": "The Princess Diaries",
-    "slug": "the-princess-diaries-54524",
-    "releaseAt": "2001-12-13",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ]
-  },
   "dhamaal-4-54478": {
     "title": "Dhamaal 4",
     "slug": "dhamaal-4-54478",
@@ -42,6 +42,15 @@
     "genres": [
       "Action",
       "Comedy"
+    ]
+  },
+  "the-princess-diaries-54524": {
+    "title": "The Princess Diaries",
+    "slug": "the-princess-diaries-54524",
+    "releaseAt": "2001-12-13",
+    "genres": [
+      "Comedy",
+      "Romance"
     ]
   },
   "hokum-53402": {
