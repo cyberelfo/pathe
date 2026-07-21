@@ -44,6 +44,22 @@
       "Comedy"
     ]
   },
+  "hokum-53402": {
+    "title": "Hokum",
+    "slug": "hokum-53402",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Horror"
+    ]
+  },
+  "jimpa-51369": {
+    "title": "Jimpa",
+    "slug": "jimpa-51369",
+    "releaseAt": "2026-06-25",
+    "genres": [
+      "Drama"
+    ]
+  },
   "the-princess-diaries-54524": {
     "title": "The Princess Diaries",
     "slug": "the-princess-diaries-54524",
@@ -51,14 +67,6 @@
     "genres": [
       "Comedy",
       "Romance"
-    ]
-  },
-  "hokum-53402": {
-    "title": "Hokum",
-    "slug": "hokum-53402",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Horror"
     ]
   },
   "130-jaar-film-in-den-haag-cineac-54824": {
@@ -161,7 +169,7 @@
   "catch-me-if-you-can-38581": {
     "title": "Catch Me If You Can",
     "slug": "catch-me-if-you-can-38581",
-    "releaseAt": "2003-02-06",
+    "releaseAt": "2026-07-21",
     "genres": [
       "Crime",
       "Drama"
@@ -205,6 +213,14 @@
       "Music"
     ]
   },
+  "ghost-2-big-to-rig-54844": {
+    "title": "GHOST: 2 Big To Rig",
+    "slug": "ghost-2-big-to-rig-54844",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Music"
+    ]
+  },
   "giant-the-play-54701": {
     "title": "GIANT \u2013 The Play",
     "slug": "giant-the-play-54701",
@@ -222,18 +238,10 @@
   "jana-nayagan-51074": {
     "title": "Jana Nayagan",
     "slug": "jana-nayagan-51074",
-    "releaseAt": "2026-07-24",
+    "releaseAt": "2026-01-09",
     "genres": [
       "Action",
       "Bollywood",
-      "Drama"
-    ]
-  },
-  "jimpa-51369": {
-    "title": "Jimpa",
-    "slug": "jimpa-51369",
-    "releaseAt": "2026-06-25",
-    "genres": [
       "Drama"
     ]
   },
