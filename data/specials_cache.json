@@ -1,13 +1,4 @@
 {
-  "the-invite-52060": {
-    "title": "The Invite",
-    "slug": "the-invite-52060",
-    "releaseAt": "2026-07-09",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ]
-  },
   "obsession-50802": {
     "title": "Obsession",
     "slug": "obsession-50802",
@@ -15,6 +6,34 @@
     "genres": [
       "Horror",
       "Thriller"
+    ]
+  },
+  "jurassic-park-41468": {
+    "title": "Jurassic Park",
+    "slug": "jurassic-park-41468",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  "hokum-53402": {
+    "title": "Hokum",
+    "slug": "hokum-53402",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Horror"
+    ]
+  },
+  "motor-city-52612": {
+    "title": "Motor City",
+    "slug": "motor-city-52612",
+    "releaseAt": "2026-07-30",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
     ]
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
@@ -26,13 +45,13 @@
       "Kids film"
     ]
   },
-  "legally-blonde-54519": {
-    "title": "Legally Blonde",
-    "slug": "legally-blonde-54519",
-    "releaseAt": "2001-11-08",
+  "the-departed-20th-anniversary-52061": {
+    "title": "The Departed (20th Anniversary)",
+    "slug": "the-departed-20th-anniversary-52061",
+    "releaseAt": "2026-07-23",
     "genres": [
-      "Comedy",
-      "Romance"
+      "Crime",
+      "Drama"
     ]
   },
   "dhamaal-4-54478": {
@@ -44,29 +63,12 @@
       "Comedy"
     ]
   },
-  "hokum-53402": {
-    "title": "Hokum",
-    "slug": "hokum-53402",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Horror"
-    ]
-  },
   "jimpa-51369": {
     "title": "Jimpa",
     "slug": "jimpa-51369",
     "releaseAt": "2026-06-25",
     "genres": [
       "Drama"
-    ]
-  },
-  "the-princess-diaries-54524": {
-    "title": "The Princess Diaries",
-    "slug": "the-princess-diaries-54524",
-    "releaseAt": "2001-12-13",
-    "genres": [
-      "Comedy",
-      "Romance"
     ]
   },
   "130-jaar-film-in-den-haag-cineac-54824": {
@@ -130,6 +132,16 @@
     "releaseAt": "2026-12-13",
     "genres": []
   },
+  "batwara-1947-54857": {
+    "title": "Batwara 1947",
+    "slug": "batwara-1947-54857",
+    "releaseAt": "2026-08-14",
+    "genres": [
+      "Bollywood",
+      "History",
+      "War"
+    ]
+  },
   "beatlestory-2027-the-fabulous-tribute-show-52621": {
     "title": "BeatleStory 2027 - The Fabulous Tribute Show",
     "slug": "beatlestory-2027-the-fabulous-tribute-show-52621",
@@ -169,7 +181,7 @@
   "catch-me-if-you-can-38581": {
     "title": "Catch Me If You Can",
     "slug": "catch-me-if-you-can-38581",
-    "releaseAt": "2026-07-21",
+    "releaseAt": "2003-02-06",
     "genres": [
       "Crime",
       "Drama"
@@ -254,16 +266,6 @@
       "Romance"
     ]
   },
-  "jurassic-park-41468": {
-    "title": "Jurassic Park",
-    "slug": "jurassic-park-41468",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ]
-  },
   "just-like-elton-2026-48783": {
     "title": "Just Like Elton 2026",
     "slug": "just-like-elton-2026-48783",
@@ -301,16 +303,6 @@
     "slug": "met-opera-2026-27-cosi-fan-tutte-52695",
     "releaseAt": "2026-10-03",
     "genres": []
-  },
-  "motor-city-52612": {
-    "title": "Motor City",
-    "slug": "motor-city-52612",
-    "releaseAt": "2026-07-30",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ]
   },
   "nimrods-a-green-day-comedy-54803": {
     "title": "Nimrods: A Green Day Comedy",
@@ -428,6 +420,14 @@
       "Thriller"
     ]
   },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ]
+  },
   "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566": {
     "title": "Sound Sessions: Eefje de Visser - Heimwee en Vlijmscherp",
     "slug": "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566",
@@ -483,15 +483,6 @@
     "releaseAt": "2027-05-22",
     "genres": [
       "Music"
-    ]
-  },
-  "the-departed-20th-anniversary-52061": {
-    "title": "The Departed (20th Anniversary)",
-    "slug": "the-departed-20th-anniversary-52061",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Crime",
-      "Drama"
     ]
   },
   "the-elo-encounter-face-the-music-50869": {
