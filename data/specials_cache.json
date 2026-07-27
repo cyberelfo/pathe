@@ -1,11 +1,19 @@
 {
-  "obsession-50802": {
-    "title": "Obsession",
-    "slug": "obsession-50802",
-    "releaseAt": "2026-05-14",
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Animation",
+      "Kids film"
+    ]
+  },
+  "jimpa-51369": {
+    "title": "Jimpa",
+    "slug": "jimpa-51369",
+    "releaseAt": "2026-06-25",
+    "genres": [
+      "Drama"
     ]
   },
   "jurassic-park-41468": {
@@ -16,33 +24,6 @@
       "Action",
       "Adventure",
       "Science Fiction"
-    ]
-  },
-  "hokum-53402": {
-    "title": "Hokum",
-    "slug": "hokum-53402",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Horror"
-    ]
-  },
-  "motor-city-52612": {
-    "title": "Motor City",
-    "slug": "motor-city-52612",
-    "releaseAt": "2026-07-30",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ]
-  },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
     ]
   },
   "the-departed-20th-anniversary-52061": {
@@ -63,11 +44,13 @@
       "Comedy"
     ]
   },
-  "jimpa-51369": {
-    "title": "Jimpa",
-    "slug": "jimpa-51369",
-    "releaseAt": "2026-06-25",
+  "jana-nayagan-51074": {
+    "title": "Jana Nayagan",
+    "slug": "jana-nayagan-51074",
+    "releaseAt": "2026-01-09",
     "genres": [
+      "Action",
+      "Bollywood",
       "Drama"
     ]
   },
@@ -225,6 +208,14 @@
       "Music"
     ]
   },
+  "fallen-angels-by-noel-coward-54893": {
+    "title": "Fallen Angels by No\u00ebl Coward",
+    "slug": "fallen-angels-by-noel-coward-54893",
+    "releaseAt": "2026-10-22",
+    "genres": [
+      "Comedy"
+    ]
+  },
   "ghost-2-big-to-rig-54844": {
     "title": "GHOST: 2 Big To Rig",
     "slug": "ghost-2-big-to-rig-54844",
@@ -245,16 +236,6 @@
     "releaseAt": "2026-09-17",
     "genres": [
       "Music"
-    ]
-  },
-  "jana-nayagan-51074": {
-    "title": "Jana Nayagan",
-    "slug": "jana-nayagan-51074",
-    "releaseAt": "2026-01-09",
-    "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
     ]
   },
   "jim-queen-52921": {
@@ -278,6 +259,14 @@
     "title": "KATSEYE: WILD HEARTS",
     "slug": "katseye-wild-hearts-54766",
     "releaseAt": "2026-08-12",
+    "genres": [
+      "Music"
+    ]
+  },
+  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
+    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
+    "releaseAt": "2026-09-02",
     "genres": [
       "Music"
     ]
@@ -397,6 +386,24 @@
       "Music"
     ]
   },
+  "paw-patrol-de-dinofilm-nederlands-gesproken-50683": {
+    "title": "Paw Patrol: De Dinofilm (Nederlands gesproken)",
+    "slug": "paw-patrol-de-dinofilm-nederlands-gesproken-50683",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ]
+  },
+  "primavera-54703": {
+    "title": "Primavera",
+    "slug": "primavera-54703",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Biopic",
+      "Drama"
+    ]
+  },
   "pubquiz-live-49314": {
     "title": "PubQuiz Live",
     "slug": "pubquiz-live-49314",
@@ -426,14 +433,6 @@
     "releaseAt": "2025-01-01",
     "genres": [
       "To be announced"
-    ]
-  },
-  "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566": {
-    "title": "Sound Sessions: Eefje de Visser - Heimwee en Vlijmscherp",
-    "slug": "sound-sessions-eefje-de-visser-heimwee-en-vlijmscherp-53566",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Music"
     ]
   },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
@@ -492,12 +491,6 @@
     "genres": [
       "Music"
     ]
-  },
-  "the-merry-widow-met-summer-encore-2026-41308": {
-    "title": "The Merry Widow: Met Summer Encore 2026",
-    "slug": "the-merry-widow-met-summer-encore-2026-41308",
-    "releaseAt": "2026-07-26",
-    "genres": []
   },
   "the-music-of-live-aid-2027-52618": {
     "title": "The Music Of Live Aid 2027",
