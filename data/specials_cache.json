@@ -16,6 +16,16 @@
       "Drama"
     ]
   },
+  "good-luck-have-fun-don-t-die-52205": {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "slug": "good-luck-have-fun-don-t-die-52205",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
   "jurassic-park-41468": {
     "title": "Jurassic Park",
     "slug": "jurassic-park-41468",
@@ -35,15 +45,6 @@
       "Drama"
     ]
   },
-  "dhamaal-4-54478": {
-    "title": "Dhamaal 4",
-    "slug": "dhamaal-4-54478",
-    "releaseAt": "2026-07-10",
-    "genres": [
-      "Action",
-      "Comedy"
-    ]
-  },
   "jana-nayagan-51074": {
     "title": "Jana Nayagan",
     "slug": "jana-nayagan-51074",
@@ -52,6 +53,15 @@
       "Action",
       "Bollywood",
       "Drama"
+    ]
+  },
+  "dhamaal-4-54478": {
+    "title": "Dhamaal 4",
+    "slug": "dhamaal-4-54478",
+    "releaseAt": "2026-07-10",
+    "genres": [
+      "Action",
+      "Comedy"
     ]
   },
   "130-jaar-film-in-den-haag-cineac-54824": {
