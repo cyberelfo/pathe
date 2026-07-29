@@ -1,4 +1,13 @@
 {
+  "spider-man-brand-new-day-48103": {
+    "title": "Spider-Man: Brand New Day",
+    "slug": "spider-man-brand-new-day-48103",
+    "releaseAt": "2026-07-30",
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -6,14 +15,6 @@
     "genres": [
       "Animation",
       "Kids film"
-    ]
-  },
-  "jimpa-51369": {
-    "title": "Jimpa",
-    "slug": "jimpa-51369",
-    "releaseAt": "2026-06-25",
-    "genres": [
-      "Drama"
     ]
   },
   "good-luck-have-fun-don-t-die-52205": {
@@ -26,16 +27,6 @@
       "Comedy"
     ]
   },
-  "jurassic-park-41468": {
-    "title": "Jurassic Park",
-    "slug": "jurassic-park-41468",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ]
-  },
   "the-departed-20th-anniversary-52061": {
     "title": "The Departed (20th Anniversary)",
     "slug": "the-departed-20th-anniversary-52061",
@@ -45,13 +36,12 @@
       "Drama"
     ]
   },
-  "jana-nayagan-51074": {
-    "title": "Jana Nayagan",
-    "slug": "jana-nayagan-51074",
-    "releaseAt": "2026-01-09",
+  "blood-diamond-54695": {
+    "title": "Blood Diamond",
+    "slug": "blood-diamond-54695",
+    "releaseAt": "2007-01-25",
     "genres": [
-      "Action",
-      "Bollywood",
+      "Adventure",
       "Drama"
     ]
   },
@@ -62,6 +52,24 @@
     "genres": [
       "Action",
       "Comedy"
+    ]
+  },
+  "jimpa-51369": {
+    "title": "Jimpa",
+    "slug": "jimpa-51369",
+    "releaseAt": "2026-06-25",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "jurassic-park-41468": {
+    "title": "Jurassic Park",
+    "slug": "jurassic-park-41468",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
     ]
   },
   "130-jaar-film-in-den-haag-cineac-54824": {
@@ -143,19 +151,10 @@
       "Music"
     ]
   },
-  "blood-diamond-54695": {
-    "title": "Blood Diamond",
-    "slug": "blood-diamond-54695",
-    "releaseAt": "2007-01-25",
-    "genres": [
-      "Adventure",
-      "Drama"
-    ]
-  },
-  "body-of-lies-54694": {
-    "title": "Body of Lies",
-    "slug": "body-of-lies-54694",
-    "releaseAt": "2008-11-20",
+  "body-of-lies-2008-54694": {
+    "title": "Body of Lies (2008)",
+    "slug": "body-of-lies-2008-54694",
+    "releaseAt": "2026-08-13",
     "genres": [
       "Action",
       "Comedy",
@@ -171,10 +170,10 @@
       "Kids film"
     ]
   },
-  "catch-me-if-you-can-38581": {
-    "title": "Catch Me If You Can",
-    "slug": "catch-me-if-you-can-38581",
-    "releaseAt": "2003-02-06",
+  "catch-me-if-you-can-2003-38581": {
+    "title": "Catch Me If You Can (2003)",
+    "slug": "catch-me-if-you-can-2003-38581",
+    "releaseAt": "2026-08-06",
     "genres": [
       "Crime",
       "Drama"
@@ -246,6 +245,16 @@
     "releaseAt": "2026-09-17",
     "genres": [
       "Music"
+    ]
+  },
+  "jana-nayagan-51074": {
+    "title": "Jana Nayagan",
+    "slug": "jana-nayagan-51074",
+    "releaseAt": "2026-01-09",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
     ]
   },
   "jim-queen-52921": {
@@ -428,10 +437,10 @@
       "Music"
     ]
   },
-  "shutter-island-36381": {
-    "title": "Shutter Island",
-    "slug": "shutter-island-36381",
-    "releaseAt": "2010-02-18",
+  "shutter-island-2010-36381": {
+    "title": "Shutter Island (2010)",
+    "slug": "shutter-island-2010-36381",
+    "releaseAt": "2026-08-13",
     "genres": [
       "Mystery",
       "Thriller"
@@ -475,15 +484,6 @@
     "releaseAt": "2026-10-15",
     "genres": [
       "Music"
-    ]
-  },
-  "spider-man-brand-new-day-48103": {
-    "title": "Spider-Man: Brand New Day",
-    "slug": "spider-man-brand-new-day-48103",
-    "releaseAt": "2026-07-30",
-    "genres": [
-      "Action",
-      "Adventure"
     ]
   },
   "the-animals-friends-last-farewell-tour-2027-52622": {
