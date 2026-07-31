@@ -1,4 +1,13 @@
 {
+  "paw-patrol-de-dinofilm-nederlands-gesproken-50683": {
+    "title": "Paw Patrol: De Dinofilm (Nederlands gesproken)",
+    "slug": "paw-patrol-de-dinofilm-nederlands-gesproken-50683",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ]
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -16,15 +25,6 @@
       "Action",
       "Adventure",
       "Comedy"
-    ]
-  },
-  "paw-patrol-de-dinofilm-nederlands-gesproken-50683": {
-    "title": "Paw Patrol: De Dinofilm (Nederlands gesproken)",
-    "slug": "paw-patrol-de-dinofilm-nederlands-gesproken-50683",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Animation",
-      "Kids film"
     ]
   },
   "blood-diamond-54695": {
@@ -61,6 +61,15 @@
     "genres": [
       "Documentary",
       "Music"
+    ]
+  },
+  "130-jaar-film-in-den-haag-metropole-54824": {
+    "title": "130 jaar film in Den Haag: Metropole",
+    "slug": "130-jaar-film-in-den-haag-metropole-54824",
+    "releaseAt": "2026-07-30",
+    "genres": [
+      "Documentary",
+      "Dutch"
     ]
   },
   "abba-gold-europe-xmas-show-51959": {
@@ -319,6 +328,16 @@
     "slug": "met-opera-2026-27-cosi-fan-tutte-52695",
     "releaseAt": "2026-10-03",
     "genres": []
+  },
+  "minoes-25th-anniversary-54825": {
+    "title": "Minoes (25th Anniversary)",
+    "slug": "minoes-25th-anniversary-54825",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Family film",
+      "Fantasy",
+      "Kids film"
+    ]
   },
   "nimrods-a-green-day-comedy-54803": {
     "title": "Nimrods: A Green Day Comedy",
