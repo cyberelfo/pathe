@@ -6,7 +6,7 @@ A robust Python script that monitors the Pathé Netherlands (English) website fo
 
 ## Features
 
-- **Angular State Parsing**: Fetches and parses the JSON state data embedded in the Pathé NL films page (`https://www.pathe.nl/en/films`).
+- **Angular State Parsing**: Fetches and parses the JSON state data embedded in the Pathé NL films page (`https://www.pathe.nl/en/films#special`).
 - **Recursive Movie Search**: Dynamically extracts show details from the nested state tree.
 - **Specials Filtering**: Screens movies using `isEventSpecial` and `specialEvent` attributes.
 - **Local Caching**: Saves detected specials to a cache JSON to prevent duplicate alerts.
@@ -50,7 +50,7 @@ pathe/
 
 ```mermaid
 graph TD
-    A[Start pathe_checker.py] --> B[Fetch HTML from pathe.nl/en/films]
+    A[Start pathe_checker.py] --> B[Fetch HTML from pathe.nl/en/films#special]
     B --> C{Extract ng-state JSON script tag}
     C -->|Not Found| D[Log error & Exit]
     C -->|Found| E[Parse JSON state content]

@@ -103,7 +103,7 @@ class TestPatheChecker(unittest.TestCase):
         
         # Define arguments Namespace
         args = MagicMock()
-        args.url = "https://www.pathe.nl/en/films"
+        args.url = "https://www.pathe.nl/en/films#special"
         args.data_dir = "/tmp/mock_data"
         args.dry_run = True
         args.clear_cache = False
@@ -129,7 +129,7 @@ class TestPatheChecker(unittest.TestCase):
         mock_exists.return_value = False  # cache does not exist
         
         args = MagicMock()
-        args.url = "https://www.pathe.nl/en/films"
+        args.url = "https://www.pathe.nl/en/films#special"
         args.data_dir = "/tmp/mock_data"
         args.dry_run = False
         args.clear_cache = False
@@ -170,7 +170,7 @@ class TestPatheChecker(unittest.TestCase):
         }
         
         args = MagicMock()
-        args.url = "https://www.pathe.nl/en/films"
+        args.url = "https://www.pathe.nl/en/films#special"
         args.data_dir = "/tmp/mock_data"
         args.dry_run = False
         args.clear_cache = False

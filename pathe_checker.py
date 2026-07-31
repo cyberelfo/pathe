@@ -8,7 +8,7 @@ import datetime
 import sys
 
 # Configuration Defaults
-URL = "https://www.pathe.nl/en/films"
+URL = "https://www.pathe.nl/en/films#special"
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Accept-Language': 'en-US,en;q=0.9',
@@ -97,7 +97,9 @@ def parse_specials_from_html(html):
     for slug, show in all_shows.items():
         is_event_special = show.get('isEventSpecial', False)
         special_event = show.get('specialEvent', False)
-        if is_event_special or special_event:
+        is_special = show.get('isSpecial', False)
+        special = show.get('special', False)
+        if is_event_special or special_event or is_special or special:
             specials[slug] = {
                 'title': show.get('title'),
                 'slug': slug,
