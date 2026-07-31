@@ -1,13 +1,4 @@
 {
-  "spider-man-brand-new-day-48103": {
-    "title": "Spider-Man: Brand New Day",
-    "slug": "spider-man-brand-new-day-48103",
-    "releaseAt": "2026-07-30",
-    "genres": [
-      "Action",
-      "Adventure"
-    ]
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -25,15 +16,6 @@
       "Action",
       "Adventure",
       "Comedy"
-    ]
-  },
-  "the-departed-20th-anniversary-52061": {
-    "title": "The Departed (20th Anniversary)",
-    "slug": "the-departed-20th-anniversary-52061",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Crime",
-      "Drama"
     ]
   },
   "blood-diamond-54695": {
@@ -54,31 +36,32 @@
       "Comedy"
     ]
   },
-  "jimpa-51369": {
-    "title": "Jimpa",
-    "slug": "jimpa-51369",
-    "releaseAt": "2026-06-25",
+  "jana-nayagan-51074": {
+    "title": "Jana Nayagan",
+    "slug": "jana-nayagan-51074",
+    "releaseAt": "2026-01-09",
     "genres": [
+      "Action",
+      "Bollywood",
       "Drama"
     ]
   },
-  "jurassic-park-41468": {
-    "title": "Jurassic Park",
-    "slug": "jurassic-park-41468",
+  "the-departed-20th-anniversary-52061": {
+    "title": "The Departed (20th Anniversary)",
+    "slug": "the-departed-20th-anniversary-52061",
     "releaseAt": "2026-07-23",
     "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
+      "Crime",
+      "Drama"
     ]
   },
-  "130-jaar-film-in-den-haag-cineac-54824": {
-    "title": "130 jaar film in Den Haag: Cineac",
-    "slug": "130-jaar-film-in-den-haag-cineac-54824",
-    "releaseAt": "2026-07-30",
+  "wham-10-days-in-china-54511": {
+    "title": "WHAM! 10 Days in China",
+    "slug": "wham-10-days-in-china-54511",
+    "releaseAt": "2026-07-28",
     "genres": [
       "Documentary",
-      "Dutch"
+      "Music"
     ]
   },
   "abba-gold-europe-xmas-show-51959": {
@@ -247,14 +230,31 @@
       "Music"
     ]
   },
-  "jana-nayagan-51074": {
-    "title": "Jana Nayagan",
-    "slug": "jana-nayagan-51074",
-    "releaseAt": "2026-01-09",
+  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
+    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
+    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
+    "releaseAt": "2026-08-26",
     "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "harry-potter-marathon-deel-1-t-m-4-54726": {
+    "title": "Harry Potter Marathon (deel 1 t/m 4)",
+    "slug": "harry-potter-marathon-deel-1-t-m-4-54726",
+    "releaseAt": "2026-08-29",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  "harry-potter-marathon-deel-5-t-m-8-54727": {
+    "title": "Harry Potter Marathon (deel 5 t/m 8)",
+    "slug": "harry-potter-marathon-deel-5-t-m-8-54727",
+    "releaseAt": "2025-08-30",
+    "genres": [
+      "Adventure",
+      "Fantasy"
     ]
   },
   "jim-queen-52921": {
@@ -426,7 +426,7 @@
   "pubquiz-live-49314": {
     "title": "PubQuiz Live",
     "slug": "pubquiz-live-49314",
-    "releaseAt": "2026-11-06",
+    "releaseAt": "2025-10-04",
     "genres": []
   },
   "puur-de-nijs-ode-aan-rob-de-nijs-52143": {
@@ -549,14 +549,5 @@
     "slug": "u2two-u2-theatershow-boy-to-surrender-deel-3-51606",
     "releaseAt": "2026-11-14",
     "genres": []
-  },
-  "wham-10-days-in-china-54511": {
-    "title": "WHAM! 10 Days in China",
-    "slug": "wham-10-days-in-china-54511",
-    "releaseAt": "2026-07-28",
-    "genres": [
-      "Documentary",
-      "Music"
-    ]
   }
 }
