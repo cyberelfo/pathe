@@ -17,16 +17,6 @@
       "Kids film"
     ]
   },
-  "good-luck-have-fun-don-t-die-52205": {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "slug": "good-luck-have-fun-don-t-die-52205",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ]
-  },
   "blood-diamond-54695": {
     "title": "Blood Diamond",
     "slug": "blood-diamond-54695",
@@ -36,13 +26,13 @@
       "Drama"
     ]
   },
-  "dhamaal-4-54478": {
-    "title": "Dhamaal 4",
-    "slug": "dhamaal-4-54478",
-    "releaseAt": "2026-07-10",
+  "primavera-54703": {
+    "title": "Primavera",
+    "slug": "primavera-54703",
+    "releaseAt": "2026-08-06",
     "genres": [
-      "Action",
-      "Comedy"
+      "Biopic",
+      "Drama"
     ]
   },
   "the-departed-20th-anniversary-52061": {
@@ -52,15 +42,6 @@
     "genres": [
       "Crime",
       "Drama"
-    ]
-  },
-  "wham-10-days-in-china-54511": {
-    "title": "WHAM! 10 Days in China",
-    "slug": "wham-10-days-in-china-54511",
-    "releaseAt": "2026-07-28",
-    "genres": [
-      "Documentary",
-      "Music"
     ]
   },
   "130-jaar-film-in-den-haag-metropole-54824": {
@@ -96,6 +77,14 @@
     "title": "ATEEZ : LIGHT THE WAY IN CINEMAS",
     "slug": "ateez-light-the-way-in-cinemas-54725",
     "releaseAt": "2026-08-06",
+    "genres": [
+      "Music"
+    ]
+  },
+  "ateez-world-tour-towards-the-light-will-to-power-in-cinemas-47881": {
+    "title": "ATEEZ WORLD TOUR [TOWARDS THE LIGHT : WILL TO POWER] IN CINEMAS",
+    "slug": "ateez-world-tour-towards-the-light-will-to-power-in-cinemas-47881",
+    "releaseAt": "2025-05-14",
     "genres": [
       "Music"
     ]
@@ -430,15 +419,6 @@
     "releaseAt": "2025-04-23",
     "genres": [
       "Music"
-    ]
-  },
-  "primavera-54703": {
-    "title": "Primavera",
-    "slug": "primavera-54703",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Biopic",
-      "Drama"
     ]
   },
   "pubquiz-live-49314": {
