@@ -8,6 +8,16 @@
       "Kids film"
     ]
   },
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -23,15 +33,6 @@
     "releaseAt": "2007-01-25",
     "genres": [
       "Adventure",
-      "Drama"
-    ]
-  },
-  "primavera-54703": {
-    "title": "Primavera",
-    "slug": "primavera-54703",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Biopic",
       "Drama"
     ]
   },
@@ -343,16 +344,6 @@
     "releaseAt": "2026-08-13",
     "genres": []
   },
-  "one-night-only-49759": {
-    "title": "One Night Only",
-    "slug": "one-night-only-49759",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
   "opera-aida-38675": {
     "title": "Opera: Aida",
     "slug": "opera-aida-38675",
@@ -419,6 +410,15 @@
     "releaseAt": "2025-04-23",
     "genres": [
       "Music"
+    ]
+  },
+  "practical-magic-2-48169": {
+    "title": "Practical Magic 2",
+    "slug": "practical-magic-2-48169",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Comedy",
+      "Fantasy"
     ]
   },
   "pubquiz-live-49314": {
@@ -547,5 +547,13 @@
     "slug": "u2two-u2-theatershow-boy-to-surrender-deel-3-51606",
     "releaseAt": "2026-11-14",
     "genres": []
+  },
+  "wen-er-maar-aan-54928": {
+    "title": "Wen Er Maar Aan",
+    "slug": "wen-er-maar-aan-54928",
+    "releaseAt": "2026-10-08",
+    "genres": [
+      "Comedy"
+    ]
   }
 }
