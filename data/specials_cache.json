@@ -27,22 +27,22 @@
       "Kids film"
     ]
   },
-  "blood-diamond-54695": {
-    "title": "Blood Diamond",
-    "slug": "blood-diamond-54695",
-    "releaseAt": "2007-01-25",
-    "genres": [
-      "Adventure",
-      "Drama"
-    ]
-  },
-  "the-departed-20th-anniversary-52061": {
-    "title": "The Departed (20th Anniversary)",
-    "slug": "the-departed-20th-anniversary-52061",
-    "releaseAt": "2026-07-23",
+  "catch-me-if-you-can-2003-38581": {
+    "title": "Catch Me If You Can (2003)",
+    "slug": "catch-me-if-you-can-2003-38581",
+    "releaseAt": "2026-08-06",
     "genres": [
       "Crime",
       "Drama"
+    ]
+  },
+  "jim-queen-52921": {
+    "title": "Jim Queen",
+    "slug": "jim-queen-52921",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Romance"
     ]
   },
   "130-jaar-film-in-den-haag-metropole-54824": {
@@ -74,18 +74,20 @@
     "releaseAt": "2027-02-06",
     "genres": []
   },
+  "a-star-is-born-41781": {
+    "title": "A Star is Born",
+    "slug": "a-star-is-born-41781",
+    "releaseAt": "2026-09-02",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ]
+  },
   "ateez-light-the-way-in-cinemas-54725": {
     "title": "ATEEZ : LIGHT THE WAY IN CINEMAS",
     "slug": "ateez-light-the-way-in-cinemas-54725",
     "releaseAt": "2026-08-06",
-    "genres": [
-      "Music"
-    ]
-  },
-  "ateez-world-tour-towards-the-light-will-to-power-in-cinemas-47881": {
-    "title": "ATEEZ WORLD TOUR [TOWARDS THE LIGHT : WILL TO POWER] IN CINEMAS",
-    "slug": "ateez-world-tour-towards-the-light-will-to-power-in-cinemas-47881",
-    "releaseAt": "2025-05-14",
     "genres": [
       "Music"
     ]
@@ -132,6 +134,23 @@
       "Music"
     ]
   },
+  "birdman-the-unexpected-virtue-of-ignorance-2014-54956": {
+    "title": "Birdman (The Unexpected Virtue of Ignorance) (2014)",
+    "slug": "birdman-the-unexpected-virtue-of-ignorance-2014-54956",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "black-swan-54944": {
+    "title": "Black Swan",
+    "slug": "black-swan-54944",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Drama"
+    ]
+  },
   "body-of-lies-2008-54694": {
     "title": "Body of Lies (2008)",
     "slug": "body-of-lies-2008-54694",
@@ -139,6 +158,23 @@
     "genres": [
       "Action",
       "Comedy",
+      "Drama"
+    ]
+  },
+  "bohemian-rhapsody-2018-41483": {
+    "title": "Bohemian Rhapsody (2018)",
+    "slug": "bohemian-rhapsody-2018-41483",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  "boogie-nights-54942": {
+    "title": "Boogie Nights",
+    "slug": "boogie-nights-54942",
+    "releaseAt": "2026-08-27",
+    "genres": [
       "Drama"
     ]
   },
@@ -151,13 +187,13 @@
       "Kids film"
     ]
   },
-  "catch-me-if-you-can-2003-38581": {
-    "title": "Catch Me If You Can (2003)",
-    "slug": "catch-me-if-you-can-2003-38581",
-    "releaseAt": "2026-08-06",
+  "cabaret-1972-54955": {
+    "title": "Cabaret (1972)",
+    "slug": "cabaret-1972-54955",
+    "releaseAt": "2026-09-24",
     "genres": [
-      "Crime",
-      "Drama"
+      "Drama",
+      "Musical"
     ]
   },
   "ccr-all-stars-band-creedance-clearwater-revival-tribute-usa-50868": {
@@ -262,15 +298,6 @@
     "genres": [
       "Adventure",
       "Fantasy"
-    ]
-  },
-  "jim-queen-52921": {
-    "title": "Jim Queen",
-    "slug": "jim-queen-52921",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Comedy",
-      "Romance"
     ]
   },
   "just-like-elton-2026-48783": {
@@ -444,6 +471,25 @@
       "Thriller"
     ]
   },
+  "singin-in-the-rain-54943": {
+    "title": "Singin' in the Rain",
+    "slug": "singin-in-the-rain-54943",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ]
+  },
+  "sing-nl-54990": {
+    "title": "Sing (NL)",
+    "slug": "sing-nl-54990",
+    "releaseAt": "2026-09-20",
+    "genres": [
+      "Animation",
+      "Music"
+    ]
+  },
   "sneak-night-36028": {
     "title": "Sneak Night",
     "slug": "sneak-night-36028",
@@ -490,6 +536,15 @@
     "releaseAt": "2027-05-22",
     "genres": [
       "Music"
+    ]
+  },
+  "the-departed-20th-anniversary-52061": {
+    "title": "The Departed (20th Anniversary)",
+    "slug": "the-departed-20th-anniversary-52061",
+    "releaseAt": "2026-07-23",
+    "genres": [
+      "Crime",
+      "Drama"
     ]
   },
   "the-elo-encounter-face-the-music-50869": {
