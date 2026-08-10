@@ -8,16 +8,6 @@
       "Kids film"
     ]
   },
-  "one-night-only-49759": {
-    "title": "One Night Only",
-    "slug": "one-night-only-49759",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -82,14 +72,6 @@
       "Comedy",
       "Drama",
       "Musical"
-    ]
-  },
-  "ateez-light-the-way-in-cinemas-54725": {
-    "title": "ATEEZ : LIGHT THE WAY IN CINEMAS",
-    "slug": "ateez-light-the-way-in-cinemas-54725",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Music"
     ]
   },
   "ballet-la-bayadere-52960": {
@@ -356,6 +338,14 @@
       "Kids film"
     ]
   },
+  "mystery-classic-47098": {
+    "title": "Mystery Classic",
+    "slug": "mystery-classic-47098",
+    "releaseAt": "2025-09-30",
+    "genres": [
+      "To be announced"
+    ]
+  },
   "nimrods-a-green-day-comedy-54803": {
     "title": "Nimrods: A Green Day Comedy",
     "slug": "nimrods-a-green-day-comedy-54803",
@@ -369,12 +359,6 @@
     "title": "NT Live 2026 \u2013 The Audience",
     "slug": "nt-live-2026-the-audience-51720",
     "releaseAt": "2026-08-13",
-    "genres": []
-  },
-  "opera-aida-38675": {
-    "title": "Opera: Aida",
-    "slug": "opera-aida-38675",
-    "releaseAt": "2025-01-25",
     "genres": []
   },
   "opera-carmen-36956": {
@@ -536,15 +520,6 @@
     "releaseAt": "2027-05-22",
     "genres": [
       "Music"
-    ]
-  },
-  "the-departed-20th-anniversary-52061": {
-    "title": "The Departed (20th Anniversary)",
-    "slug": "the-departed-20th-anniversary-52061",
-    "releaseAt": "2026-07-23",
-    "genres": [
-      "Crime",
-      "Drama"
     ]
   },
   "the-elo-encounter-face-the-music-50869": {
