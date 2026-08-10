@@ -314,6 +314,14 @@
       "Music"
     ]
   },
+  "linkin-park-unshatter-55010": {
+    "title": "LINKIN PARK: UNSHATTER",
+    "slug": "linkin-park-unshatter-55010",
+    "releaseAt": "2026-09-30",
+    "genres": [
+      "Music"
+    ]
+  },
   "lo-sound-desert-54474": {
     "title": "Lo Sound Desert",
     "slug": "lo-sound-desert-54474",
@@ -360,6 +368,16 @@
     "slug": "nt-live-2026-the-audience-51720",
     "releaseAt": "2026-08-13",
     "genres": []
+  },
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   "opera-carmen-36956": {
     "title": "Opera: Carmen",
