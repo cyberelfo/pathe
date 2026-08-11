@@ -8,6 +8,14 @@
       "Kids film"
     ]
   },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ]
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -26,12 +34,31 @@
       "Drama"
     ]
   },
+  "nimrods-a-green-day-comedy-54803": {
+    "title": "Nimrods: A Green Day Comedy",
+    "slug": "nimrods-a-green-day-comedy-54803",
+    "releaseAt": "2026-08-11",
+    "genres": [
+      "Music",
+      "Romance"
+    ]
+  },
   "jim-queen-52921": {
     "title": "Jim Queen",
     "slug": "jim-queen-52921",
     "releaseAt": "2026-08-13",
     "genres": [
       "Comedy",
+      "Romance"
+    ]
+  },
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
       "Romance"
     ]
   },
@@ -314,6 +341,14 @@
       "Music"
     ]
   },
+  "leviticus-53403": {
+    "title": "Leviticus",
+    "slug": "leviticus-53403",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Horror"
+    ]
+  },
   "linkin-park-unshatter-55010": {
     "title": "LINKIN PARK: UNSHATTER",
     "slug": "linkin-park-unshatter-55010",
@@ -354,30 +389,11 @@
       "To be announced"
     ]
   },
-  "nimrods-a-green-day-comedy-54803": {
-    "title": "Nimrods: A Green Day Comedy",
-    "slug": "nimrods-a-green-day-comedy-54803",
-    "releaseAt": "2026-08-11",
-    "genres": [
-      "Music",
-      "Romance"
-    ]
-  },
   "nt-live-2026-the-audience-51720": {
     "title": "NT Live 2026 \u2013 The Audience",
     "slug": "nt-live-2026-the-audience-51720",
     "releaseAt": "2026-08-13",
     "genres": []
-  },
-  "one-night-only-49759": {
-    "title": "One Night Only",
-    "slug": "one-night-only-49759",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
   },
   "opera-carmen-36956": {
     "title": "Opera: Carmen",
@@ -490,14 +506,6 @@
     "genres": [
       "Animation",
       "Music"
-    ]
-  },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
-    "genres": [
-      "To be announced"
     ]
   },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
