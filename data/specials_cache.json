@@ -8,14 +8,6 @@
       "Kids film"
     ]
   },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
-    "genres": [
-      "To be announced"
-    ]
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -23,6 +15,24 @@
     "genres": [
       "Animation",
       "Kids film"
+    ]
+  },
+  "katseye-wild-hearts-54766": {
+    "title": "KATSEYE: WILD HEARTS",
+    "slug": "katseye-wild-hearts-54766",
+    "releaseAt": "2026-08-12",
+    "genres": [
+      "Music"
+    ]
+  },
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
     ]
   },
   "catch-me-if-you-can-2003-38581": {
@@ -34,15 +44,6 @@
       "Drama"
     ]
   },
-  "nimrods-a-green-day-comedy-54803": {
-    "title": "Nimrods: A Green Day Comedy",
-    "slug": "nimrods-a-green-day-comedy-54803",
-    "releaseAt": "2026-08-11",
-    "genres": [
-      "Music",
-      "Romance"
-    ]
-  },
   "jim-queen-52921": {
     "title": "Jim Queen",
     "slug": "jim-queen-52921",
@@ -52,14 +53,14 @@
       "Romance"
     ]
   },
-  "one-night-only-49759": {
-    "title": "One Night Only",
-    "slug": "one-night-only-49759",
+  "minoes-25th-anniversary-54825": {
+    "title": "Minoes (25th Anniversary)",
+    "slug": "minoes-25th-anniversary-54825",
     "releaseAt": "2026-08-13",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
+      "Family film",
+      "Fantasy",
+      "Kids film"
     ]
   },
   "130-jaar-film-in-den-haag-metropole-54824": {
@@ -76,6 +77,16 @@
     "slug": "abba-gold-europe-xmas-show-51959",
     "releaseAt": "2026-12-17",
     "genres": []
+  },
+  "almost-famous-55014": {
+    "title": "Almost Famous",
+    "slug": "almost-famous-55014",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ]
   },
   "andre-rieu-s-2026-summer-concert-viva-maastricht-52931": {
     "title": "Andr\u00e9 Rieu's 2026 Summer Concert: Viva Maastricht!",
@@ -170,13 +181,13 @@
       "Drama"
     ]
   },
-  "bohemian-rhapsody-2018-41483": {
-    "title": "Bohemian Rhapsody (2018)",
-    "slug": "bohemian-rhapsody-2018-41483",
-    "releaseAt": "2026-09-24",
+  "bohemian-rhapsody-41483": {
+    "title": "Bohemian Rhapsody",
+    "slug": "bohemian-rhapsody-41483",
+    "releaseAt": "2026-08-24",
     "genres": [
       "Drama",
-      "Music"
+      "Musical"
     ]
   },
   "boogie-nights-54942": {
@@ -317,14 +328,6 @@
       "Music"
     ]
   },
-  "katseye-wild-hearts-54766": {
-    "title": "KATSEYE: WILD HEARTS",
-    "slug": "katseye-wild-hearts-54766",
-    "releaseAt": "2026-08-12",
-    "genres": [
-      "Music"
-    ]
-  },
   "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
     "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
     "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
@@ -371,22 +374,21 @@
     "releaseAt": "2026-10-03",
     "genres": []
   },
-  "minoes-25th-anniversary-54825": {
-    "title": "Minoes (25th Anniversary)",
-    "slug": "minoes-25th-anniversary-54825",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Family film",
-      "Fantasy",
-      "Kids film"
-    ]
-  },
   "mystery-classic-47098": {
     "title": "Mystery Classic",
     "slug": "mystery-classic-47098",
     "releaseAt": "2025-09-30",
     "genres": [
       "To be announced"
+    ]
+  },
+  "nimrods-a-green-day-comedy-54803": {
+    "title": "Nimrods: A Green Day Comedy",
+    "slug": "nimrods-a-green-day-comedy-54803",
+    "releaseAt": "2026-08-11",
+    "genres": [
+      "Music",
+      "Romance"
     ]
   },
   "nt-live-2026-the-audience-51720": {
@@ -478,6 +480,15 @@
     "releaseAt": "2027-01-23",
     "genres": [
       "Music"
+    ]
+  },
+  "red-rue-express-54883": {
+    "title": "Red Rue Express",
+    "slug": "red-rue-express-54883",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Comedy",
+      "Romance"
     ]
   },
   "shutter-island-2010-36381": {
