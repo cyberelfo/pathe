@@ -18,6 +18,14 @@
       "Kids film"
     ]
   },
+  "katseye-wild-hearts-54766": {
+    "title": "KATSEYE: WILD HEARTS",
+    "slug": "katseye-wild-hearts-54766",
+    "releaseAt": "2026-08-12",
+    "genres": [
+      "Music"
+    ]
+  },
   "batwara-1947-54857": {
     "title": "Batwara 1947",
     "slug": "batwara-1947-54857",
@@ -56,12 +64,13 @@
       "Romance"
     ]
   },
-  "katseye-wild-hearts-54766": {
-    "title": "KATSEYE: WILD HEARTS",
-    "slug": "katseye-wild-hearts-54766",
-    "releaseAt": "2026-08-12",
+  "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
+    "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
+    "slug": "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056",
+    "releaseAt": "2026-09-21",
     "genres": [
-      "Music"
+      "Documentary",
+      "Dutch"
     ]
   },
   "130-jaar-film-in-den-haag-metropole-54824": {
@@ -381,10 +390,22 @@
       "To be announced"
     ]
   },
+  "nt-live-2026-fleabag-54772": {
+    "title": "NT Live 2026 \u2013 Fleabag",
+    "slug": "nt-live-2026-fleabag-54772",
+    "releaseAt": "2026-12-10",
+    "genres": []
+  },
   "nt-live-2026-the-audience-51720": {
     "title": "NT Live 2026 \u2013 The Audience",
     "slug": "nt-live-2026-the-audience-51720",
     "releaseAt": "2026-08-13",
+    "genres": []
+  },
+  "nt-live-2026-the-misanthrope-54771": {
+    "title": "NT Live 2026 \u2013 The Misanthrope",
+    "slug": "nt-live-2026-the-misanthrope-54771",
+    "releaseAt": "2026-10-08",
     "genres": []
   },
   "opera-carmen-36956": {
