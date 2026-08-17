@@ -1,14 +1,4 @@
 {
-  "one-night-only-49759": {
-    "title": "One Night Only",
-    "slug": "one-night-only-49759",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ]
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -18,12 +8,13 @@
       "Kids film"
     ]
   },
-  "katseye-wild-hearts-54766": {
-    "title": "KATSEYE: WILD HEARTS",
-    "slug": "katseye-wild-hearts-54766",
-    "releaseAt": "2026-08-12",
+  "shutter-island-2010-36381": {
+    "title": "Shutter Island (2010)",
+    "slug": "shutter-island-2010-36381",
+    "releaseAt": "2026-08-13",
     "genres": [
-      "Music"
+      "Mystery",
+      "Thriller"
     ]
   },
   "batwara-1947-54857": {
@@ -36,24 +27,6 @@
       "War"
     ]
   },
-  "shutter-island-2010-36381": {
-    "title": "Shutter Island (2010)",
-    "slug": "shutter-island-2010-36381",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Mystery",
-      "Thriller"
-    ]
-  },
-  "nimrods-a-green-day-comedy-54803": {
-    "title": "Nimrods: A Green Day Comedy",
-    "slug": "nimrods-a-green-day-comedy-54803",
-    "releaseAt": "2026-08-11",
-    "genres": [
-      "Music",
-      "Romance"
-    ]
-  },
   "minoes-25th-anniversary-54825": {
     "title": "Minoes (25th Anniversary)",
     "slug": "minoes-25th-anniversary-54825",
@@ -64,19 +37,19 @@
       "Kids film"
     ]
   },
-  "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
-    "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
-    "slug": "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056",
-    "releaseAt": "2026-09-21",
+  "130-jaar-film-in-den-haag-metropole-54824": {
+    "title": "130 jaar film in Den Haag: Metropole",
+    "slug": "130-jaar-film-in-den-haag-metropole-54824",
+    "releaseAt": "2026-07-30",
     "genres": [
       "Documentary",
       "Dutch"
     ]
   },
-  "130-jaar-film-in-den-haag-metropole-54824": {
-    "title": "130 jaar film in Den Haag: Metropole",
-    "slug": "130-jaar-film-in-den-haag-metropole-54824",
-    "releaseAt": "2026-07-30",
+  "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
+    "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
+    "slug": "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056",
+    "releaseAt": "2026-09-21",
     "genres": [
       "Documentary",
       "Dutch"
@@ -569,6 +542,16 @@
     "releaseAt": "2026-10-15",
     "genres": [
       "Music"
+    ]
+  },
+  "ted-de-magische-lamp-48168": {
+    "title": "Ted & De Magische Lamp",
+    "slug": "ted-de-magische-lamp-48168",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Animation",
+      "Family film",
+      "Romance"
     ]
   },
   "the-animals-friends-last-farewell-tour-2027-52622": {
