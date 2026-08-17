@@ -1,20 +1,20 @@
 {
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
     "releaseAt": "2026-06-24",
     "genres": [
       "Animation",
-      "Kids film"
-    ]
-  },
-  "minoes-25th-anniversary-54825": {
-    "title": "Minoes (25th Anniversary)",
-    "slug": "minoes-25th-anniversary-54825",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Family film",
-      "Fantasy",
       "Kids film"
     ]
   },
@@ -27,6 +27,16 @@
       "Thriller"
     ]
   },
+  "minoes-25th-anniversary-54825": {
+    "title": "Minoes (25th Anniversary)",
+    "slug": "minoes-25th-anniversary-54825",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Family film",
+      "Fantasy",
+      "Kids film"
+    ]
+  },
   "batwara-1947-54857": {
     "title": "Batwara 1947",
     "slug": "batwara-1947-54857",
@@ -37,14 +47,11 @@
       "War"
     ]
   },
-  "130-jaar-film-in-den-haag-metropole-54824": {
-    "title": "130 jaar film in Den Haag: Metropole",
-    "slug": "130-jaar-film-in-den-haag-metropole-54824",
-    "releaseAt": "2026-07-30",
-    "genres": [
-      "Documentary",
-      "Dutch"
-    ]
+  "nt-live-2026-the-audience-51720": {
+    "title": "NT Live 2026 \u2013 The Audience",
+    "slug": "nt-live-2026-the-audience-51720",
+    "releaseAt": "2026-08-13",
+    "genres": []
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -403,12 +410,6 @@
     "title": "NT Live 2026 \u2013 Fleabag",
     "slug": "nt-live-2026-fleabag-54772",
     "releaseAt": "2026-12-10",
-    "genres": []
-  },
-  "nt-live-2026-the-audience-51720": {
-    "title": "NT Live 2026 \u2013 The Audience",
-    "slug": "nt-live-2026-the-audience-51720",
-    "releaseAt": "2026-08-13",
     "genres": []
   },
   "nt-live-2026-the-misanthrope-54771": {
