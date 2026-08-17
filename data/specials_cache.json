@@ -8,6 +8,16 @@
       "Kids film"
     ]
   },
+  "minoes-25th-anniversary-54825": {
+    "title": "Minoes (25th Anniversary)",
+    "slug": "minoes-25th-anniversary-54825",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Family film",
+      "Fantasy",
+      "Kids film"
+    ]
+  },
   "shutter-island-2010-36381": {
     "title": "Shutter Island (2010)",
     "slug": "shutter-island-2010-36381",
@@ -25,16 +35,6 @@
       "Bollywood",
       "History",
       "War"
-    ]
-  },
-  "minoes-25th-anniversary-54825": {
-    "title": "Minoes (25th Anniversary)",
-    "slug": "minoes-25th-anniversary-54825",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Family film",
-      "Fantasy",
-      "Kids film"
     ]
   },
   "130-jaar-film-in-den-haag-metropole-54824": {
@@ -109,6 +109,16 @@
     "releaseAt": "2026-09-18",
     "genres": [
       "Music"
+    ]
+  },
+  "awarapan-2-55093": {
+    "title": "Awarapan 2",
+    "slug": "awarapan-2-55093",
+    "releaseAt": "2026-08-21",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
     ]
   },
   "ballet-la-bayadere-52960": {
@@ -313,6 +323,14 @@
     "title": "Just Like Elton 2026",
     "slug": "just-like-elton-2026-48783",
     "releaseAt": "2026-12-11",
+    "genres": [
+      "Music"
+    ]
+  },
+  "katseye-wild-hearts-54766": {
+    "title": "KATSEYE: WILD HEARTS",
+    "slug": "katseye-wild-hearts-54766",
+    "releaseAt": "2026-08-12",
     "genres": [
       "Music"
     ]
@@ -542,6 +560,14 @@
     "releaseAt": "2026-10-15",
     "genres": [
       "Music"
+    ]
+  },
+  "spa-weekend-51323": {
+    "title": "Spa Weekend",
+    "slug": "spa-weekend-51323",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Comedy"
     ]
   },
   "ted-de-magische-lamp-48168": {
