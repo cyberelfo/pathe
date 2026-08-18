@@ -110,18 +110,10 @@
       "Musical"
     ]
   },
-  "aurora-live-in-mexico-55092": {
-    "title": "Aurora: Live In Mexico",
-    "slug": "aurora-live-in-mexico-55092",
-    "releaseAt": "2026-09-18",
-    "genres": [
-      "Music"
-    ]
-  },
   "awarapan-2-55093": {
     "title": "Awarapan 2",
     "slug": "awarapan-2-55093",
-    "releaseAt": "2026-08-21",
+    "releaseAt": "2026-08-14",
     "genres": [
       "Action",
       "Bollywood",
@@ -397,6 +389,14 @@
     "slug": "met-opera-2026-27-cosi-fan-tutte-52695",
     "releaseAt": "2026-10-03",
     "genres": []
+  },
+  "mff-aurora-live-in-mexico-55092": {
+    "title": "MFF: Aurora - Live In Mexico",
+    "slug": "mff-aurora-live-in-mexico-55092",
+    "releaseAt": "2026-09-18",
+    "genres": [
+      "Music"
+    ]
   },
   "mystery-classic-47098": {
     "title": "Mystery Classic",
