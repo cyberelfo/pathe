@@ -18,23 +18,22 @@
       "Kids film"
     ]
   },
-  "shutter-island-2010-36381": {
-    "title": "Shutter Island (2010)",
-    "slug": "shutter-island-2010-36381",
-    "releaseAt": "2026-08-13",
+  "sound-sessions-the-beatles-abbey-road-53567": {
+    "title": "Sound Sessions: The Beatles - Abbey Road",
+    "slug": "sound-sessions-the-beatles-abbey-road-53567",
+    "releaseAt": "2026-08-20",
     "genres": [
-      "Mystery",
-      "Thriller"
+      "Music"
     ]
   },
-  "minoes-25th-anniversary-54825": {
-    "title": "Minoes (25th Anniversary)",
-    "slug": "minoes-25th-anniversary-54825",
+  "body-of-lies-2008-54694": {
+    "title": "Body of Lies (2008)",
+    "slug": "body-of-lies-2008-54694",
     "releaseAt": "2026-08-13",
     "genres": [
-      "Family film",
-      "Fantasy",
-      "Kids film"
+      "Action",
+      "Comedy",
+      "Drama"
     ]
   },
   "batwara-1947-54857": {
@@ -47,11 +46,13 @@
       "War"
     ]
   },
-  "nt-live-2026-the-audience-51720": {
-    "title": "NT Live 2026 \u2013 The Audience",
-    "slug": "nt-live-2026-the-audience-51720",
-    "releaseAt": "2026-08-13",
-    "genres": []
+  "katseye-wild-hearts-54766": {
+    "title": "KATSEYE: WILD HEARTS",
+    "slug": "katseye-wild-hearts-54766",
+    "releaseAt": "2026-08-12",
+    "genres": [
+      "Music"
+    ]
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -169,16 +170,6 @@
       "Drama"
     ]
   },
-  "body-of-lies-2008-54694": {
-    "title": "Body of Lies (2008)",
-    "slug": "body-of-lies-2008-54694",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama"
-    ]
-  },
   "bohemian-rhapsody-41483": {
     "title": "Bohemian Rhapsody",
     "slug": "bohemian-rhapsody-41483",
@@ -282,6 +273,16 @@
       "Music"
     ]
   },
+  "hacksaw-ridge-43979": {
+    "title": "Hacksaw Ridge",
+    "slug": "hacksaw-ridge-43979",
+    "releaseAt": "2016-11-03",
+    "genres": [
+      "Action",
+      "Biopic",
+      "Drama"
+    ]
+  },
   "harry-potter-24-uurs-marathon-2026-47636": {
     "title": "Harry Potter 24-uurs Marathon 2026",
     "slug": "harry-potter-24-uurs-marathon-2026-47636",
@@ -322,14 +323,6 @@
     "title": "Just Like Elton 2026",
     "slug": "just-like-elton-2026-48783",
     "releaseAt": "2026-12-11",
-    "genres": [
-      "Music"
-    ]
-  },
-  "katseye-wild-hearts-54766": {
-    "title": "KATSEYE: WILD HEARTS",
-    "slug": "katseye-wild-hearts-54766",
-    "releaseAt": "2026-08-12",
     "genres": [
       "Music"
     ]
@@ -398,6 +391,16 @@
       "Music"
     ]
   },
+  "minoes-25th-anniversary-54825": {
+    "title": "Minoes (25th Anniversary)",
+    "slug": "minoes-25th-anniversary-54825",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Family film",
+      "Fantasy",
+      "Kids film"
+    ]
+  },
   "mystery-classic-47098": {
     "title": "Mystery Classic",
     "slug": "mystery-classic-47098",
@@ -417,6 +420,16 @@
     "slug": "nt-live-2026-the-misanthrope-54771",
     "releaseAt": "2026-10-08",
     "genres": []
+  },
+  "nuremberg-49842": {
+    "title": "Nuremberg",
+    "slug": "nuremberg-49842",
+    "releaseAt": "2025-11-27",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ]
   },
   "opera-carmen-36956": {
     "title": "Opera: Carmen",
@@ -475,7 +488,7 @@
   "pathe-presents-julie-huard-let-s-go-hollywood-47077": {
     "title": "Path\u00e9 Presents Julie Huard: Let's Go Hollywood!",
     "slug": "pathe-presents-julie-huard-let-s-go-hollywood-47077",
-    "releaseAt": "2025-04-23",
+    "releaseAt": "2026-09-16",
     "genres": [
       "Music"
     ]
@@ -531,6 +544,14 @@
       "Music"
     ]
   },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ]
+  },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
     "slug": "sound-sessions-olivia-dean-the-art-of-loving-53424",
@@ -543,14 +564,6 @@
     "title": "Sound Sessions: Rosal\u00eda - Lux",
     "slug": "sound-sessions-rosalia-lux-53568",
     "releaseAt": "2026-09-17",
-    "genres": [
-      "Music"
-    ]
-  },
-  "sound-sessions-the-beatles-abbey-road-53567": {
-    "title": "Sound Sessions: The Beatles - Abbey Road",
-    "slug": "sound-sessions-the-beatles-abbey-road-53567",
-    "releaseAt": "2026-08-20",
     "genres": [
       "Music"
     ]
