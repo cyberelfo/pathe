@@ -26,6 +26,14 @@
       "Music"
     ]
   },
+  "katseye-wild-hearts-54766": {
+    "title": "KATSEYE: WILD HEARTS",
+    "slug": "katseye-wild-hearts-54766",
+    "releaseAt": "2026-08-12",
+    "genres": [
+      "Music"
+    ]
+  },
   "body-of-lies-2008-54694": {
     "title": "Body of Lies (2008)",
     "slug": "body-of-lies-2008-54694",
@@ -46,12 +54,14 @@
       "War"
     ]
   },
-  "katseye-wild-hearts-54766": {
-    "title": "KATSEYE: WILD HEARTS",
-    "slug": "katseye-wild-hearts-54766",
-    "releaseAt": "2026-08-12",
+  "minoes-25th-anniversary-54825": {
+    "title": "Minoes (25th Anniversary)",
+    "slug": "minoes-25th-anniversary-54825",
+    "releaseAt": "2026-08-13",
     "genres": [
-      "Music"
+      "Family film",
+      "Fantasy",
+      "Kids film"
     ]
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
@@ -391,16 +401,6 @@
       "Music"
     ]
   },
-  "minoes-25th-anniversary-54825": {
-    "title": "Minoes (25th Anniversary)",
-    "slug": "minoes-25th-anniversary-54825",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Family film",
-      "Fantasy",
-      "Kids film"
-    ]
-  },
   "mystery-classic-47098": {
     "title": "Mystery Classic",
     "slug": "mystery-classic-47098",
@@ -600,6 +600,15 @@
     "releaseAt": "2027-05-22",
     "genres": [
       "Music"
+    ]
+  },
+  "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875": {
+    "title": "The Cycle of Love (Het wonderlijke verhaal van de man die van India naar Zweden fietste voor de liefde)",
+    "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
+    "releaseAt": "2026-10-01",
+    "genres": [
+      "Documentary",
+      "Romance"
     ]
   },
   "the-elo-encounter-face-the-music-50869": {
