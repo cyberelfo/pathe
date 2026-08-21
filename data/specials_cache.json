@@ -44,13 +44,11 @@
       "Comedy"
     ]
   },
-  "awarapan-2-55093": {
-    "title": "Awarapan 2",
-    "slug": "awarapan-2-55093",
-    "releaseAt": "2026-08-14",
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
     "genres": [
-      "Action",
-      "Bollywood",
       "Drama"
     ]
   },
@@ -72,6 +70,16 @@
       "Family film",
       "Fantasy",
       "Kids film"
+    ]
+  },
+  "awarapan-2-55093": {
+    "title": "Awarapan 2",
+    "slug": "awarapan-2-55093",
+    "releaseAt": "2026-08-14",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
     ]
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
@@ -120,6 +128,16 @@
     "slug": "a-pink-floyd-experience-2027-52617",
     "releaseAt": "2027-02-06",
     "genres": []
+  },
+  "arrietty-4k-restoration-55138": {
+    "title": "Arrietty (4K Restoration)",
+    "slug": "arrietty-4k-restoration-55138",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family film"
+    ]
   },
   "a-star-is-born-41781": {
     "title": "A Star is Born",
@@ -387,6 +405,14 @@
       "Music"
     ]
   },
+  "maximapark-49920": {
+    "title": "Maximapark",
+    "slug": "maximapark-49920",
+    "releaseAt": "2025-10-16",
+    "genres": [
+      "Documentary"
+    ]
+  },
   "met-opera-2026-27-cosi-fan-tutte-52695": {
     "title": "Met Opera 2026-27: Cos\u00ec fan tutte",
     "slug": "met-opera-2026-27-cosi-fan-tutte-52695",
@@ -611,9 +637,9 @@
       "Music"
     ]
   },
-  "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875": {
-    "title": "The Cycle of Love (Het wonderlijke verhaal van de man die van India naar Zweden fietste voor de liefde)",
-    "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
+  "the-cycle-of-love-54875": {
+    "title": "The Cycle of Love",
+    "slug": "the-cycle-of-love-54875",
     "releaseAt": "2026-10-01",
     "genres": [
       "Documentary",
@@ -664,6 +690,15 @@
       "Music"
     ]
   },
+  "tuner-51319": {
+    "title": "Tuner",
+    "slug": "tuner-51319",
+    "releaseAt": "2026-05-28",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
   "twenty-years-of-the-met-in-cinemas-an-anniversary-celebration-52703": {
     "title": "Twenty Years of the Met in Cinemas: An Anniversary Celebration",
     "slug": "twenty-years-of-the-met-in-cinemas-an-anniversary-celebration-52703",
@@ -682,6 +717,24 @@
     "releaseAt": "2026-10-08",
     "genres": [
       "Comedy"
+    ]
+  },
+  "whisper-of-the-heart-4k-restoration-55139": {
+    "title": "Whisper of the Heart (4K Restoration)",
+    "slug": "whisper-of-the-heart-4k-restoration-55139",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family film"
+    ]
+  },
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
+    "genres": [
+      "Drama"
     ]
   }
 }
