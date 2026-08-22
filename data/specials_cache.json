@@ -18,6 +18,16 @@
       "Kids film"
     ]
   },
+  "body-of-lies-2008-54694": {
+    "title": "Body of Lies (2008)",
+    "slug": "body-of-lies-2008-54694",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ]
+  },
   "katseye-wild-hearts-54766": {
     "title": "KATSEYE: WILD HEARTS",
     "slug": "katseye-wild-hearts-54766",
@@ -26,13 +36,11 @@
       "Music"
     ]
   },
-  "body-of-lies-2008-54694": {
-    "title": "Body of Lies (2008)",
-    "slug": "body-of-lies-2008-54694",
-    "releaseAt": "2026-08-13",
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
     "genres": [
-      "Action",
-      "Comedy",
       "Drama"
     ]
   },
@@ -44,11 +52,13 @@
       "Comedy"
     ]
   },
-  "de-gaulle-resistance-54456": {
-    "title": "De Gaulle: R\u00e9sistance",
-    "slug": "de-gaulle-resistance-54456",
-    "releaseAt": "2026-08-06",
+  "awarapan-2-55093": {
+    "title": "Awarapan 2",
+    "slug": "awarapan-2-55093",
+    "releaseAt": "2026-08-14",
     "genres": [
+      "Action",
+      "Bollywood",
       "Drama"
     ]
   },
@@ -70,16 +80,6 @@
       "Family film",
       "Fantasy",
       "Kids film"
-    ]
-  },
-  "awarapan-2-55093": {
-    "title": "Awarapan 2",
-    "slug": "awarapan-2-55093",
-    "releaseAt": "2026-08-14",
-    "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
     ]
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
@@ -637,9 +637,9 @@
       "Music"
     ]
   },
-  "the-cycle-of-love-54875": {
-    "title": "The Cycle of Love",
-    "slug": "the-cycle-of-love-54875",
+  "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875": {
+    "title": "The Cycle of Love (Het wonderlijke verhaal van de man die van India naar Zweden fietste voor de liefde)",
+    "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
     "releaseAt": "2026-10-01",
     "genres": [
       "Documentary",
