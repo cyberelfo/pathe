@@ -28,17 +28,29 @@ def log(message, log_file=None, data_dir=None):
         except Exception as e:
             print(f"Failed to write to log file: {e}", file=sys.stderr)
 
-def send_notification(title, subtitle, log_file=None, data_dir=None, telegram_token=None, telegram_chat_id=None):
+def send_notification(title, subtitle, log_file=None, data_dir=None, telegram_token=None, telegram_chat_id=None, poster_url=None):
     if not telegram_token or not telegram_chat_id:
         log("No Telegram credentials configured. Skipping notification.", log_file, data_dir)
         return
-    url = f"https://api.telegram.org/bot{telegram_token}/sendMessage"
-    text = f"🎥 *New Pathé Special: {title}*\n_{subtitle}_"
-    payload = {
-        "chat_id": telegram_chat_id,
-        "text": text,
-        "parse_mode": "Markdown"
-    }
+
+    caption = f"🎥 *New Pathé Special: {title}*\n_{subtitle}_"
+
+    if poster_url:
+        url = f"https://api.telegram.org/bot{telegram_token}/sendPhoto"
+        payload = {
+            "chat_id": telegram_chat_id,
+            "photo": poster_url,
+            "caption": caption,
+            "parse_mode": "Markdown"
+        }
+    else:
+        url = f"https://api.telegram.org/bot{telegram_token}/sendMessage"
+        payload = {
+            "chat_id": telegram_chat_id,
+            "text": caption,
+            "parse_mode": "Markdown"
+        }
+
     body = json.dumps(payload).encode('utf-8')
     req = urllib.request.Request(
         url,
@@ -65,6 +77,37 @@ def find_shows_recursive(obj, shows_dict):
     elif isinstance(obj, list):
         for v in obj:
             find_shows_recursive(v, shows_dict)
+
+def _extract_poster_url(show):
+    """Extract the best available poster image URL from a show object.
+
+    The Pathé ng-state JSON stores poster images in a 'posterPath' field
+    as a dict with size keys ('lg', 'md'). We prefer the largest size.
+    Falls back to other common field names if 'posterPath' is absent.
+    Returns None when no image URL can be found.
+    """
+    # Primary: posterPath dict with size variants (e.g. {"lg": "...", "md": "..."})
+    poster_path = show.get('posterPath')
+    if isinstance(poster_path, dict):
+        for size_key in ('lg', 'md', 'sm'):
+            val = poster_path.get(size_key)
+            if isinstance(val, str) and val.startswith('http'):
+                return val
+    if isinstance(poster_path, str) and poster_path.startswith('http'):
+        return poster_path
+
+    # Fallback: other common field names
+    for key in ('posterUrl', 'poster', 'imageUrl', 'image', 'thumbnail', 'backgroundPath'):
+        val = show.get(key)
+        if isinstance(val, str) and val.startswith('http'):
+            return val
+        if isinstance(val, dict):
+            for size_key in ('lg', 'md', 'sm', 'url', 'src'):
+                inner = val.get(size_key)
+                if isinstance(inner, str) and inner.startswith('http'):
+                    return inner
+
+    return None
 
 def fetch_html(url=URL, headers=HEADERS, scraperapi_key=None):
     """Fetches raw HTML content from the specified URL."""
@@ -104,7 +147,8 @@ def parse_specials_from_html(html):
                 'title': show.get('title'),
                 'slug': slug,
                 'releaseAt': show.get('releaseAt', {}).get('NL_NL', 'Unknown Date'),
-                'genres': show.get('genres', [])
+                'genres': show.get('genres', []),
+                'posterUrl': _extract_poster_url(show),
             }
             
     return specials
@@ -187,7 +231,7 @@ def check_for_specials(args):
             
             if not args.dry_run:
                 # Send notification
-                send_notification(title, subtitle, log_file, args.data_dir, telegram_token=args.telegram_token, telegram_chat_id=args.telegram_chat_id)
+                send_notification(title, subtitle, log_file, args.data_dir, telegram_token=args.telegram_token, telegram_chat_id=args.telegram_chat_id, poster_url=show.get('posterUrl'))
                 log(f"New Special: '{title}' (Slug: {show['slug']}, Release: {release})", log_file, args.data_dir)
             else:
                 log(f"[Dry Run] Would send notification for: '{title}' (Slug: {show['slug']}, Release: {release})", log_file, args.data_dir)

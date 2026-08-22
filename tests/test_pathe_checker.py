@@ -21,7 +21,11 @@ MOCK_HTML = """
                 "NL_NL": "2026-07-20"
             },
             "isEventSpecial": true,
-            "genres": ["Action"]
+            "genres": ["Action"],
+            "posterPath": {
+                "lg": "https://media.pathe.nl/movie/special-movie-1/poster/lg",
+                "md": "https://media.pathe.nl/movie/special-movie-1/poster/md"
+            }
         },
         "show2": {
             "title": "Regular Movie 2",
@@ -86,10 +90,102 @@ class TestPatheChecker(unittest.TestCase):
         self.assertEqual(specials["special-movie-1"]["title"], "Special Movie 1")
         self.assertEqual(specials["special-movie-1"]["releaseAt"], "2026-07-20")
         self.assertEqual(specials["special-movie-1"]["genres"], ["Action"])
+        # Poster URL should be extracted from posterPath.lg
+        self.assertEqual(
+            specials["special-movie-1"]["posterUrl"],
+            "https://media.pathe.nl/movie/special-movie-1/poster/lg"
+        )
         
         self.assertEqual(specials["special-movie-3"]["title"], "Special Movie 3")
         self.assertEqual(specials["special-movie-3"]["releaseAt"], "2026-07-22")
         self.assertEqual(specials["special-movie-3"]["genres"], ["Sci-Fi", "Drama"])
+        # No poster in show3 — should be None
+        self.assertIsNone(specials["special-movie-3"]["posterUrl"])
+
+    # --- _extract_poster_url tests ---
+
+    def test_extract_poster_url_posterPath_dict(self):
+        show = {"posterPath": {"lg": "https://example.com/lg.jpg", "md": "https://example.com/md.jpg"}}
+        self.assertEqual(pathe_checker._extract_poster_url(show), "https://example.com/lg.jpg")
+
+    def test_extract_poster_url_posterPath_md_only(self):
+        show = {"posterPath": {"md": "https://example.com/md.jpg"}}
+        self.assertEqual(pathe_checker._extract_poster_url(show), "https://example.com/md.jpg")
+
+    def test_extract_poster_url_posterPath_string(self):
+        show = {"posterPath": "https://example.com/poster.jpg"}
+        self.assertEqual(pathe_checker._extract_poster_url(show), "https://example.com/poster.jpg")
+
+    def test_extract_poster_url_fallback_fields(self):
+        show = {"posterUrl": "https://example.com/poster-url.jpg"}
+        self.assertEqual(pathe_checker._extract_poster_url(show), "https://example.com/poster-url.jpg")
+
+    def test_extract_poster_url_none_when_missing(self):
+        show = {"title": "No Image Show", "slug": "no-image", "genres": []}
+        self.assertIsNone(pathe_checker._extract_poster_url(show))
+
+    # --- send_notification tests ---
+
+    @patch("urllib.request.urlopen")
+    def test_send_notification_no_topic(self, mock_urlopen):
+        # When telegram token/chat_id is NOT provided, it should skip sending
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token=None, telegram_chat_id=None)
+        mock_urlopen.assert_not_called()
+
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token="token", telegram_chat_id=None)
+        mock_urlopen.assert_not_called()
+
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token=None, telegram_chat_id="chat-id")
+        mock_urlopen.assert_not_called()
+
+    @patch("urllib.request.urlopen")
+    def test_send_notification_telegram_text_only(self, mock_urlopen):
+        """When no poster_url is given, it should use sendMessage."""
+        mock_response = MagicMock()
+        mock_response.status = 200
+        mock_urlopen.return_value.__enter__.return_value = mock_response
+
+        pathe_checker.send_notification("Title", "Subtitle", telegram_token="my-token", telegram_chat_id="my-chat-id", poster_url=None)
+        mock_urlopen.assert_called_once()
+        
+        req = mock_urlopen.call_args[0][0]
+        self.assertEqual(req.full_url, "https://api.telegram.org/botmy-token/sendMessage")
+        self.assertEqual(req.get_header("Content-type"), "application/json")
+        
+        payload = json.loads(req.data.decode('utf-8'))
+        self.assertEqual(payload["chat_id"], "my-chat-id")
+        self.assertEqual(payload["text"], "🎥 *New Pathé Special: Title*\n_Subtitle_")
+        self.assertEqual(payload["parse_mode"], "Markdown")
+        self.assertNotIn("photo", payload)
+
+    @patch("urllib.request.urlopen")
+    def test_send_notification_telegram_with_poster(self, mock_urlopen):
+        """When poster_url is given, it should use sendPhoto with caption."""
+        mock_response = MagicMock()
+        mock_response.status = 200
+        mock_urlopen.return_value.__enter__.return_value = mock_response
+
+        poster = "https://media.pathe.nl/movie/test/poster/lg"
+        pathe_checker.send_notification(
+            "Title", "Subtitle",
+            telegram_token="my-token",
+            telegram_chat_id="my-chat-id",
+            poster_url=poster
+        )
+        mock_urlopen.assert_called_once()
+        
+        req = mock_urlopen.call_args[0][0]
+        self.assertEqual(req.full_url, "https://api.telegram.org/botmy-token/sendPhoto")
+        self.assertEqual(req.get_header("Content-type"), "application/json")
+        
+        payload = json.loads(req.data.decode('utf-8'))
+        self.assertEqual(payload["chat_id"], "my-chat-id")
+        self.assertEqual(payload["photo"], poster)
+        self.assertEqual(payload["caption"], "🎥 *New Pathé Special: Title*\n_Subtitle_")
+        self.assertEqual(payload["parse_mode"], "Markdown")
+        self.assertNotIn("text", payload)
+
+    # --- check_for_specials integration tests ---
 
     @patch("pathe_checker.fetch_html")
     @patch("pathe_checker.send_notification")
@@ -165,7 +261,8 @@ class TestPatheChecker(unittest.TestCase):
                 "title": "Special Movie 1",
                 "slug": "special-movie-1",
                 "releaseAt": "2026-07-20",
-                "genres": ["Action"]
+                "genres": ["Action"],
+                "posterUrl": "https://media.pathe.nl/movie/special-movie-1/poster/lg"
             }
         }
         
@@ -184,50 +281,18 @@ class TestPatheChecker(unittest.TestCase):
             
             # Should open specials_cache.json for reading first
             mock_file.assert_any_call("/tmp/mock_data/specials_cache.json", "r", encoding="utf-8")
-            # Should send notification for the new movie: "Special Movie 3"
+            # Should send notification for the new movie: "Special Movie 3" (no poster)
             mock_notify.assert_called_once_with(
                 "Special Movie 3", 
                 "Release: 2026-07-22 | Sci-Fi, Drama", 
                 "/tmp/mock_data/pathe_checker.log", 
                 "/tmp/mock_data",
                 telegram_token="mock-token",
-                telegram_chat_id="mock-chat-id"
+                telegram_chat_id="mock-chat-id",
+                poster_url=None
             )
             # Should update cache file
             mock_file.assert_any_call("/tmp/mock_data/specials_cache.json", "w", encoding="utf-8")
-
-    @patch("urllib.request.urlopen")
-    def test_send_notification_no_topic(self, mock_urlopen):
-        # When telegram token/chat_id is NOT provided, it should skip sending
-        pathe_checker.send_notification("Title", "Subtitle", telegram_token=None, telegram_chat_id=None)
-        mock_urlopen.assert_not_called()
-
-        pathe_checker.send_notification("Title", "Subtitle", telegram_token="token", telegram_chat_id=None)
-        mock_urlopen.assert_not_called()
-
-        pathe_checker.send_notification("Title", "Subtitle", telegram_token=None, telegram_chat_id="chat-id")
-        mock_urlopen.assert_not_called()
-
-    @patch("urllib.request.urlopen")
-    def test_send_notification_telegram(self, mock_urlopen):
-        # Mock response from urlopen
-        mock_response = MagicMock()
-        mock_response.status = 200
-        mock_urlopen.return_value.__enter__.return_value = mock_response
-
-        pathe_checker.send_notification("Title", "Subtitle", telegram_token="my-token", telegram_chat_id="my-chat-id")
-        mock_urlopen.assert_called_once()
-        
-        # Verify the request passed to urlopen
-        req = mock_urlopen.call_args[0][0]
-        self.assertEqual(req.full_url, "https://api.telegram.org/botmy-token/sendMessage")
-        self.assertEqual(req.get_header("Content-type"), "application/json")
-        
-        # Verify the JSON payload
-        payload = json.loads(req.data.decode('utf-8'))
-        self.assertEqual(payload["chat_id"], "my-chat-id")
-        self.assertEqual(payload["text"], "🎥 *New Pathé Special: Title*\n_Subtitle_")
-        self.assertEqual(payload["parse_mode"], "Markdown")
 
     @patch("urllib.request.urlopen")
     def test_fetch_html_direct(self, mock_urlopen):
