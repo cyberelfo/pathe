@@ -1,4 +1,15 @@
 {
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -8,16 +19,6 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
-  },
-  "red-rue-express-54883": {
-    "title": "Red Rue Express",
-    "slug": "red-rue-express-54883",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003540/poster/lg/1/movie&uuid=849CD2A5-B72B-413F-8476-6F86489ADA3E"
   },
   "body-of-lies-2008-54694": {
     "title": "Body of Lies (2008)",
@@ -29,6 +30,16 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003511/poster/lg/1/movie&uuid=05A00A44-6D26-4529-BF82-43CAC4925085"
+  },
+  "red-rue-express-54883": {
+    "title": "Red Rue Express",
+    "slug": "red-rue-express-54883",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003540/poster/lg/1/movie&uuid=849CD2A5-B72B-413F-8476-6F86489ADA3E"
   },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
@@ -49,6 +60,17 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
+  },
+  "batwara-1947-54857": {
+    "title": "Batwara 1947",
+    "slug": "batwara-1947-54857",
+    "releaseAt": "2026-08-14",
+    "genres": [
+      "Bollywood",
+      "History",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003535/poster/lg/1/movie&uuid=68406339-255C-499E-A837-AF7DAD00FE48"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -208,7 +230,7 @@
       "Animation",
       "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/9/movie&uuid=6C2AF2D0-F73F-4100-A324-84C32CBD187D"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/10/movie&uuid=0E1BE0B3-460C-491B-9216-43B34070D01C"
   },
   "cabaret-1972-54955": {
     "title": "Cabaret (1972)",
@@ -227,7 +249,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/12/movie&uuid=AF1F8F20-CA5F-4A87-BADC-260128D13DCF"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/13/movie&uuid=40E3E780-C3C6-4B40-8FA5-DD5AECD2FDCF"
   },
   "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
     "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
@@ -501,7 +523,7 @@
     "slug": "opera-macbeth-52696",
     "releaseAt": "2026-10-17",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/7/movie&uuid=AC45EDC4-B08E-4795-B76F-7F9E6CE6FB6F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/8/movie&uuid=1338E3B5-9CE9-420F-9590-75664B59B262"
   },
   "opera-manon-52700": {
     "title": "Opera: Manon",
@@ -579,6 +601,15 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003354/poster/lg/1/movie&uuid=805E1F40-11B5-4943-AE69-E18644B235A3"
+  },
+  "queen-budapest-54941": {
+    "title": "Queen Budapest",
+    "slug": "queen-budapest-54941",
+    "releaseAt": "2026-10-07",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/1/movie&uuid=FBD317D5-F286-491B-9FC6-6060B426B0AE"
   },
   "singin-in-the-rain-54943": {
     "title": "Singin' in the Rain",
@@ -692,7 +723,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/7/movie&uuid=F2E0A537-F896-491E-98D9-81C75E9FB9E0"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/8/movie&uuid=7378CD57-B60A-4E49-899F-A32C30E2EA13"
   },
   "the-music-of-live-aid-2027-52618": {
     "title": "The Music Of Live Aid 2027",
@@ -715,7 +746,18 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003198/poster/lg/5/movie&uuid=F15C1BD4-1801-4479-A801-E045CBFEAD7A"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003198/poster/lg/6/movie&uuid=1FDB9364-8056-4A25-A16F-5FCDB2DE3660"
+  },
+  "toxic-a-fairy-tale-for-grown-ups-55144": {
+    "title": "Toxic: A Fairy Tale For Grown-ups",
+    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
+    "releaseAt": "2026-03-19",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
   },
   "tribute-to-the-cats-band-51963": {
     "title": "Tribute To The Cats Band",
@@ -750,7 +792,7 @@
     "slug": "twenty-years-of-the-met-in-cinemas-an-anniversary-celebration-52703",
     "releaseAt": "2026-09-27",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003417/poster/lg/9/movie&uuid=04BB1EB9-8453-4D01-B804-62F3FA723F77"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003417/poster/lg/10/movie&uuid=20F82FDC-DA62-4DCD-8A9D-DDAC70B03DBA"
   },
   "u2two-u2-theatershow-boy-to-surrender-deel-3-51606": {
     "title": "U2two: U2 theatershow \u2018Boy to Surrender\u2019- deel 3",
