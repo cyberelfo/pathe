@@ -10,6 +10,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
+  "mystery-classic-47098": {
+    "title": "Mystery Classic",
+    "slug": "mystery-classic-47098",
+    "releaseAt": "2025-09-30",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -460,15 +469,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003579/poster/lg/1/movie&uuid=04C981A5-9E94-4962-AD30-BA9434473E83"
   },
-  "mystery-classic-47098": {
-    "title": "Mystery Classic",
-    "slug": "mystery-classic-47098",
-    "releaseAt": "2025-09-30",
-    "genres": [
-      "To be announced"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
-  },
   "no-good-men-55002": {
     "title": "No Good Men",
     "slug": "no-good-men-55002",
@@ -706,9 +706,9 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003393/poster/lg/1/movie&uuid=B800F71B-16E4-43E2-B5F5-D3DF309741D9"
   },
-  "the-cycle-of-love-54875": {
-    "title": "The Cycle of Love",
-    "slug": "the-cycle-of-love-54875",
+  "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875": {
+    "title": "The Cycle of Love (Het wonderlijke verhaal van de man die van India naar Zweden fietste voor de liefde)",
+    "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
     "releaseAt": "2026-10-01",
     "genres": [
       "Documentary",
@@ -751,7 +751,7 @@
   "toxic-a-fairy-tale-for-grown-ups-55144": {
     "title": "Toxic: A Fairy Tale For Grown-ups",
     "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
-    "releaseAt": "2026-03-19",
+    "releaseAt": "2026-08-26",
     "genres": [
       "Action",
       "Crime",
