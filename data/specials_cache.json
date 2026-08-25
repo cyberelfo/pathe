@@ -40,6 +40,27 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003511/poster/lg/1/movie&uuid=05A00A44-6D26-4529-BF82-43CAC4925085"
   },
+  "ted-de-magische-lamp-48168": {
+    "title": "Ted & De Magische Lamp",
+    "slug": "ted-de-magische-lamp-48168",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Animation",
+      "Family film",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002825/poster/lg/2/movie&uuid=1A66AC49-F0DA-4BC7-9B64-AF6B49658C80"
+  },
+  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
+    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
+    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
+  },
   "red-rue-express-54883": {
     "title": "Red Rue Express",
     "slug": "red-rue-express-54883",
@@ -303,6 +324,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003544/poster/lg/1/movie&uuid=23756682-F47A-4B0B-B78B-66817AB078F2"
   },
+  "fuori-52683": {
+    "title": "Fuori",
+    "slug": "fuori-52683",
+    "releaseAt": "2026-06-18",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003407/poster/lg/1/movie&uuid=418AA9BA-85D8-444F-9C97-E5E1084CC2E8"
+  },
   "ghost-2-big-to-rig-54844": {
     "title": "GHOST: 2 Big To Rig",
     "slug": "ghost-2-big-to-rig-54844",
@@ -348,16 +378,6 @@
       "Fantasy"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002725/poster/lg/3/movie&uuid=E224D0C3-2ADF-404B-A94C-7526A1C8B4D0"
-  },
-  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
-    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
-    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
-    "releaseAt": "2026-08-26",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
   },
   "harry-potter-marathon-deel-1-t-m-4-54726": {
     "title": "Harry Potter Marathon (deel 1 t/m 4)",
@@ -685,17 +705,6 @@
       "Comedy"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
-  },
-  "ted-de-magische-lamp-48168": {
-    "title": "Ted & De Magische Lamp",
-    "slug": "ted-de-magische-lamp-48168",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Animation",
-      "Family film",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002825/poster/lg/2/movie&uuid=1A66AC49-F0DA-4BC7-9B64-AF6B49658C80"
   },
   "the-animals-friends-last-farewell-tour-2027-52622": {
     "title": "The Animals & Friends: Last Farewell Tour 2027",
