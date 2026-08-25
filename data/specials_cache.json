@@ -19,27 +19,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
   },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
-  },
-  "body-of-lies-2008-54694": {
-    "title": "Body of Lies (2008)",
-    "slug": "body-of-lies-2008-54694",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003511/poster/lg/1/movie&uuid=05A00A44-6D26-4529-BF82-43CAC4925085"
-  },
   "ted-de-magische-lamp-48168": {
     "title": "Ted & De Magische Lamp",
     "slug": "ted-de-magische-lamp-48168",
@@ -61,6 +40,45 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
   },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
+  "body-of-lies-2008-54694": {
+    "title": "Body of Lies (2008)",
+    "slug": "body-of-lies-2008-54694",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003511/poster/lg/1/movie&uuid=05A00A44-6D26-4529-BF82-43CAC4925085"
+  },
+  "ghost-2-big-to-rig-54844": {
+    "title": "GHOST: 2 Big To Rig",
+    "slug": "ghost-2-big-to-rig-54844",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003531/poster/lg/2/movie&uuid=966AD666-BF86-431D-9177-2F3B53953A35"
+  },
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
+  },
   "red-rue-express-54883": {
     "title": "Red Rue Express",
     "slug": "red-rue-express-54883",
@@ -71,14 +89,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003540/poster/lg/1/movie&uuid=849CD2A5-B72B-413F-8476-6F86489ADA3E"
   },
-  "de-gaulle-resistance-54456": {
-    "title": "De Gaulle: R\u00e9sistance",
-    "slug": "de-gaulle-resistance-54456",
-    "releaseAt": "2026-08-06",
+  "spa-weekend-51323": {
+    "title": "Spa Weekend",
+    "slug": "spa-weekend-51323",
+    "releaseAt": "2026-08-27",
     "genres": [
-      "Drama"
+      "Comedy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
   },
   "awarapan-2-55093": {
     "title": "Awarapan 2",
@@ -90,17 +108,6 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
-  },
-  "batwara-1947-54857": {
-    "title": "Batwara 1947",
-    "slug": "batwara-1947-54857",
-    "releaseAt": "2026-08-14",
-    "genres": [
-      "Bollywood",
-      "History",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003535/poster/lg/1/movie&uuid=68406339-255C-499E-A837-AF7DAD00FE48"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -204,6 +211,17 @@
     "releaseAt": "2026-12-13",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00000492/poster/lg/1/movie&uuid=F9BF184E-2612-460C-8F0C-B9391BEF86BC"
+  },
+  "batwara-1947-54857": {
+    "title": "Batwara 1947",
+    "slug": "batwara-1947-54857",
+    "releaseAt": "2026-08-14",
+    "genres": [
+      "Bollywood",
+      "History",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003535/poster/lg/1/movie&uuid=68406339-255C-499E-A837-AF7DAD00FE48"
   },
   "beatlestory-2027-the-fabulous-tribute-show-52621": {
     "title": "BeatleStory 2027 - The Fabulous Tribute Show",
@@ -332,15 +350,6 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003407/poster/lg/1/movie&uuid=418AA9BA-85D8-444F-9C97-E5E1084CC2E8"
-  },
-  "ghost-2-big-to-rig-54844": {
-    "title": "GHOST: 2 Big To Rig",
-    "slug": "ghost-2-big-to-rig-54844",
-    "releaseAt": "2026-08-26",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003531/poster/lg/2/movie&uuid=966AD666-BF86-431D-9177-2F3B53953A35"
   },
   "giant-the-play-54701": {
     "title": "GIANT \u2013 The Play",
@@ -488,6 +497,15 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003579/poster/lg/1/movie&uuid=04C981A5-9E94-4962-AD30-BA9434473E83"
+  },
+  "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164": {
+    "title": "NCT 127 5TH TOUR \u2018NEO CITY : SEOUL - THE REDLINE\u2019 in CINEMAS",
+    "slug": "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164",
+    "releaseAt": "2026-09-20",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": null
   },
   "no-good-men-55002": {
     "title": "No Good Men",
@@ -697,15 +715,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003505/poster/lg/1/movie&uuid=8E784C52-17FE-4D58-8A07-70386015C68C"
   },
-  "spa-weekend-51323": {
-    "title": "Spa Weekend",
-    "slug": "spa-weekend-51323",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
-  },
   "the-animals-friends-last-farewell-tour-2027-52622": {
     "title": "The Animals & Friends: Last Farewell Tour 2027",
     "slug": "the-animals-friends-last-farewell-tour-2027-52622",
@@ -715,9 +724,9 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003393/poster/lg/1/movie&uuid=B800F71B-16E4-43E2-B5F5-D3DF309741D9"
   },
-  "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875": {
-    "title": "The Cycle of Love (Het wonderlijke verhaal van de man die van India naar Zweden fietste voor de liefde)",
-    "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
+  "the-cycle-of-love-54875": {
+    "title": "The Cycle of Love",
+    "slug": "the-cycle-of-love-54875",
     "releaseAt": "2026-10-01",
     "genres": [
       "Documentary",
