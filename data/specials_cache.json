@@ -10,14 +10,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
-  "mystery-classic-47098": {
-    "title": "Mystery Classic",
-    "slug": "mystery-classic-47098",
-    "releaseAt": "2025-09-30",
+  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
+    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
+    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
+    "releaseAt": "2026-08-26",
     "genres": [
-      "To be announced"
+      "Adventure",
+      "Fantasy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
   },
   "ted-de-magische-lamp-48168": {
     "title": "Ted & De Magische Lamp",
@@ -29,16 +30,6 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002825/poster/lg/2/movie&uuid=1A66AC49-F0DA-4BC7-9B64-AF6B49658C80"
-  },
-  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
-    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
-    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
-    "releaseAt": "2026-08-26",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
@@ -79,6 +70,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
+  "spa-weekend-51323": {
+    "title": "Spa Weekend",
+    "slug": "spa-weekend-51323",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Comedy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
+  },
   "red-rue-express-54883": {
     "title": "Red Rue Express",
     "slug": "red-rue-express-54883",
@@ -88,15 +88,6 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003540/poster/lg/1/movie&uuid=849CD2A5-B72B-413F-8476-6F86489ADA3E"
-  },
-  "spa-weekend-51323": {
-    "title": "Spa Weekend",
-    "slug": "spa-weekend-51323",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
   },
   "awarapan-2-55093": {
     "title": "Awarapan 2",
@@ -505,7 +496,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": null
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003589/poster/lg/1/movie&uuid=3BB28398-BFA6-44D6-AFAE-7BED4FB54D9C"
   },
   "no-good-men-55002": {
     "title": "No Good Men",
@@ -724,9 +715,9 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003393/poster/lg/1/movie&uuid=B800F71B-16E4-43E2-B5F5-D3DF309741D9"
   },
-  "the-cycle-of-love-54875": {
-    "title": "The Cycle of Love",
-    "slug": "the-cycle-of-love-54875",
+  "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875": {
+    "title": "The Cycle of Love (Het wonderlijke verhaal van de man die van India naar Zweden fietste voor de liefde)",
+    "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
     "releaseAt": "2026-10-01",
     "genres": [
       "Documentary",
