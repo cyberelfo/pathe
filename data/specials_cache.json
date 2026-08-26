@@ -10,16 +10,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
-  "ted-de-magische-lamp-48168": {
-    "title": "Ted & De Magische Lamp",
-    "slug": "ted-de-magische-lamp-48168",
+  "spa-weekend-51323": {
+    "title": "Spa Weekend",
+    "slug": "spa-weekend-51323",
     "releaseAt": "2026-08-27",
     "genres": [
-      "Animation",
-      "Family film",
-      "Romance"
+      "Comedy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002825/poster/lg/2/movie&uuid=1A66AC49-F0DA-4BC7-9B64-AF6B49658C80"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
   },
   "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
     "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
@@ -61,15 +59,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003531/poster/lg/2/movie&uuid=966AD666-BF86-431D-9177-2F3B53953A35"
   },
-  "spa-weekend-51323": {
-    "title": "Spa Weekend",
-    "slug": "spa-weekend-51323",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
-  },
   "red-rue-express-54883": {
     "title": "Red Rue Express",
     "slug": "red-rue-express-54883",
@@ -99,6 +88,15 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
+  },
+  "boogie-nights-54942": {
+    "title": "Boogie Nights",
+    "slug": "boogie-nights-54942",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -228,8 +226,8 @@
     "slug": "birdman-the-unexpected-virtue-of-ignorance-2014-54956",
     "releaseAt": "2026-09-10",
     "genres": [
-      "Drama",
-      "Romance"
+      "Comedy",
+      "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003551/poster/lg/1/movie&uuid=B16E38B4-5260-4E2E-9A68-9D5C1D145B0E"
   },
@@ -252,24 +250,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00001142/poster/lg/1/movie&uuid=CFFAD90D-2BAE-4BA9-940D-D58C2BFA0732"
   },
-  "boogie-nights-54942": {
-    "title": "Boogie Nights",
-    "slug": "boogie-nights-54942",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
-  },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
     "slug": "bumba-het-circusorkest-54613",
     "releaseAt": "2026-09-03",
     "genres": [
-      "Animation",
+      "Family film",
+      "Fantasy",
       "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/10/movie&uuid=0E1BE0B3-460C-491B-9216-43B34070D01C"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
   "cabaret-1972-54955": {
     "title": "Cabaret (1972)",
@@ -489,6 +479,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003579/poster/lg/1/movie&uuid=04C981A5-9E94-4962-AD30-BA9434473E83"
   },
+  "mystery-classic-47098": {
+    "title": "Mystery Classic",
+    "slug": "mystery-classic-47098",
+    "releaseAt": "2025-09-30",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
+  },
   "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164": {
     "title": "NCT 127 5TH TOUR \u2018NEO CITY : SEOUL - THE REDLINE\u2019 in CINEMAS",
     "slug": "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164",
@@ -611,7 +610,8 @@
     "releaseAt": "2026-09-10",
     "genres": [
       "Comedy",
-      "Fantasy"
+      "Fantasy",
+      "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002826/poster/lg/3/movie&uuid=5B5E894E-87AC-4960-9A80-D6D474926D72"
   },
@@ -732,8 +732,7 @@
     "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
     "releaseAt": "2026-10-01",
     "genres": [
-      "Documentary",
-      "Romance"
+      "Documentary"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003537/poster/lg/3/movie&uuid=61D5E558-D933-4A35-BFBF-0DFED05A94A2"
   },
