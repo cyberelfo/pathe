@@ -10,16 +10,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
-  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
-    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
-    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
-    "releaseAt": "2026-08-26",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
-  },
   "ted-de-magische-lamp-48168": {
     "title": "Ted & De Magische Lamp",
     "slug": "ted-de-magische-lamp-48168",
@@ -30,6 +20,16 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002825/poster/lg/2/movie&uuid=1A66AC49-F0DA-4BC7-9B64-AF6B49658C80"
+  },
+  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
+    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
+    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
@@ -61,15 +61,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003531/poster/lg/2/movie&uuid=966AD666-BF86-431D-9177-2F3B53953A35"
   },
-  "de-gaulle-resistance-54456": {
-    "title": "De Gaulle: R\u00e9sistance",
-    "slug": "de-gaulle-resistance-54456",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
-  },
   "spa-weekend-51323": {
     "title": "Spa Weekend",
     "slug": "spa-weekend-51323",
@@ -88,6 +79,15 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003540/poster/lg/1/movie&uuid=849CD2A5-B72B-413F-8476-6F86489ADA3E"
+  },
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
   "awarapan-2-55093": {
     "title": "Awarapan 2",
@@ -657,9 +657,10 @@
     "releaseAt": "2026-09-20",
     "genres": [
       "Animation",
-      "Music"
+      "Family film",
+      "Romance"
     ],
-    "posterUrl": null
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003556/poster/lg/1/movie&uuid=3ACCAF5D-CE63-433D-844B-6D17E91D4331"
   },
   "sneak-night-36028": {
     "title": "Sneak Night",
@@ -705,6 +706,17 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003505/poster/lg/1/movie&uuid=8E784C52-17FE-4D58-8A07-70386015C68C"
+  },
+  "terminator-2-judgment-day-35th-anniversary-54865": {
+    "title": "Terminator 2: Judgment Day (35th Anniversary)",
+    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
   "the-animals-friends-last-farewell-tour-2027-52622": {
     "title": "The Animals & Friends: Last Farewell Tour 2027",
