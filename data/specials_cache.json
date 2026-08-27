@@ -10,15 +10,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
-  "spa-weekend-51323": {
-    "title": "Spa Weekend",
-    "slug": "spa-weekend-51323",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
-  },
   "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
     "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
     "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
@@ -29,36 +20,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
   },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
-  },
-  "body-of-lies-2008-54694": {
-    "title": "Body of Lies (2008)",
-    "slug": "body-of-lies-2008-54694",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003511/poster/lg/1/movie&uuid=05A00A44-6D26-4529-BF82-43CAC4925085"
-  },
-  "ghost-2-big-to-rig-54844": {
-    "title": "GHOST: 2 Big To Rig",
-    "slug": "ghost-2-big-to-rig-54844",
-    "releaseAt": "2026-08-26",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003531/poster/lg/2/movie&uuid=966AD666-BF86-431D-9177-2F3B53953A35"
-  },
   "red-rue-express-54883": {
     "title": "Red Rue Express",
     "slug": "red-rue-express-54883",
@@ -68,6 +29,16 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003540/poster/lg/1/movie&uuid=849CD2A5-B72B-413F-8476-6F86489ADA3E"
+  },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
@@ -88,6 +59,15 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
+  },
+  "black-swan-54944": {
+    "title": "Black Swan",
+    "slug": "black-swan-54944",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003549/poster/lg/1/movie&uuid=603EE442-A97A-403C-ABB1-92D9526267CB"
   },
   "boogie-nights-54942": {
     "title": "Boogie Nights",
@@ -231,15 +211,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003551/poster/lg/1/movie&uuid=B16E38B4-5260-4E2E-9A68-9D5C1D145B0E"
   },
-  "black-swan-54944": {
-    "title": "Black Swan",
-    "slug": "black-swan-54944",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003549/poster/lg/1/movie&uuid=603EE442-A97A-403C-ABB1-92D9526267CB"
-  },
   "bohemian-rhapsody-41483": {
     "title": "Bohemian Rhapsody",
     "slug": "bohemian-rhapsody-41483",
@@ -253,7 +224,7 @@
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
     "slug": "bumba-het-circusorkest-54613",
-    "releaseAt": "2026-09-03",
+    "releaseAt": "2026-09-09",
     "genres": [
       "Family film",
       "Fantasy",
@@ -331,6 +302,15 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003407/poster/lg/1/movie&uuid=418AA9BA-85D8-444F-9C97-E5E1084CC2E8"
+  },
+  "ghost-2-big-to-rig-54844": {
+    "title": "GHOST: 2 Big To Rig",
+    "slug": "ghost-2-big-to-rig-54844",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003531/poster/lg/2/movie&uuid=966AD666-BF86-431D-9177-2F3B53953A35"
   },
   "giant-the-play-54701": {
     "title": "GIANT \u2013 The Play",
@@ -640,6 +620,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/1/movie&uuid=FBD317D5-F286-491B-9FC6-6060B426B0AE"
   },
+  "sing-54990": {
+    "title": "Sing",
+    "slug": "sing-54990",
+    "releaseAt": "2026-09-20",
+    "genres": [
+      "Animation",
+      "Family film",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003556/poster/lg/1/movie&uuid=3ACCAF5D-CE63-433D-844B-6D17E91D4331"
+  },
   "singin-in-the-rain-54943": {
     "title": "Singin' in the Rain",
     "slug": "singin-in-the-rain-54943",
@@ -650,17 +641,6 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
-  },
-  "sing-nl-54990": {
-    "title": "Sing (NL)",
-    "slug": "sing-nl-54990",
-    "releaseAt": "2026-09-20",
-    "genres": [
-      "Animation",
-      "Family film",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003556/poster/lg/1/movie&uuid=3ACCAF5D-CE63-433D-844B-6D17E91D4331"
   },
   "sneak-night-36028": {
     "title": "Sneak Night",
@@ -727,9 +707,9 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003393/poster/lg/1/movie&uuid=B800F71B-16E4-43E2-B5F5-D3DF309741D9"
   },
-  "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875": {
-    "title": "The Cycle of Love (Het wonderlijke verhaal van de man die van India naar Zweden fietste voor de liefde)",
-    "slug": "the-cycle-of-love-het-wonderlijke-verhaal-van-de-man-die-van-india-naar-zweden-fietste-voor-de-liefde-54875",
+  "the-cycle-of-love-54875": {
+    "title": "The Cycle of Love",
+    "slug": "the-cycle-of-love-54875",
     "releaseAt": "2026-10-01",
     "genres": [
       "Documentary"
