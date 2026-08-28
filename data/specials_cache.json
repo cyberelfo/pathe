@@ -10,25 +10,34 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
-  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
-    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
-    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
-    "releaseAt": "2026-08-26",
+  "andre-rieu-s-2026-summer-concert-viva-maastricht-52931": {
+    "title": "Andr\u00e9 Rieu's 2026 Summer Concert: Viva Maastricht!",
+    "slug": "andre-rieu-s-2026-summer-concert-viva-maastricht-52931",
+    "releaseAt": "2026-08-29",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003435/poster/lg/2/movie&uuid=1AD57626-68EE-4DFA-B8AF-6BD970E3DF12"
+  },
+  "harry-potter-24-uurs-marathon-2026-47636": {
+    "title": "Harry Potter 24-uurs Marathon 2026",
+    "slug": "harry-potter-24-uurs-marathon-2026-47636",
+    "releaseAt": "2026-08-29",
     "genres": [
       "Adventure",
       "Fantasy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002725/poster/lg/3/movie&uuid=E224D0C3-2ADF-404B-A94C-7526A1C8B4D0"
   },
-  "red-rue-express-54883": {
-    "title": "Red Rue Express",
-    "slug": "red-rue-express-54883",
-    "releaseAt": "2026-08-27",
+  "harry-potter-marathon-deel-1-t-m-4-54726": {
+    "title": "Harry Potter Marathon (deel 1 t/m 4)",
+    "slug": "harry-potter-marathon-deel-1-t-m-4-54726",
+    "releaseAt": "2026-08-29",
     "genres": [
-      "Comedy",
-      "Romance"
+      "Adventure",
+      "Fantasy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003540/poster/lg/1/movie&uuid=849CD2A5-B72B-413F-8476-6F86489ADA3E"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003516/poster/lg/3/movie&uuid=058191CD-D25B-4A67-AE08-5C39AB4B8398"
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
@@ -39,6 +48,54 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
+  "boogie-nights-54942": {
+    "title": "Boogie Nights",
+    "slug": "boogie-nights-54942",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
+  },
+  "black-swan-54944": {
+    "title": "Black Swan",
+    "slug": "black-swan-54944",
+    "releaseAt": "2026-08-27",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003549/poster/lg/1/movie&uuid=603EE442-A97A-403C-ABB1-92D9526267CB"
+  },
+  "khalifa-54887": {
+    "title": "Khalifa",
+    "slug": "khalifa-54887",
+    "releaseAt": "2026-08-28",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
+  },
+  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
+    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
+    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
+  },
+  "sound-sessions-the-beatles-abbey-road-53567": {
+    "title": "Sound Sessions: The Beatles - Abbey Road",
+    "slug": "sound-sessions-the-beatles-abbey-road-53567",
+    "releaseAt": "2026-08-20",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003452/poster/lg/1/movie&uuid=84081BB3-CB5C-40F9-BBBE-38CC293A1AE8"
   },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
@@ -60,23 +117,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
   },
-  "black-swan-54944": {
-    "title": "Black Swan",
-    "slug": "black-swan-54944",
-    "releaseAt": "2026-08-27",
+  "toxic-a-fairy-tale-for-grown-ups-55144": {
+    "title": "Toxic: A Fairy Tale For Grown-ups",
+    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
+    "releaseAt": "2026-08-26",
     "genres": [
+      "Action",
+      "Crime",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003549/poster/lg/1/movie&uuid=603EE442-A97A-403C-ABB1-92D9526267CB"
-  },
-  "boogie-nights-54942": {
-    "title": "Boogie Nights",
-    "slug": "boogie-nights-54942",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -115,14 +165,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
   },
-  "andre-rieu-s-2026-summer-concert-viva-maastricht-52931": {
-    "title": "Andr\u00e9 Rieu's 2026 Summer Concert: Viva Maastricht!",
-    "slug": "andre-rieu-s-2026-summer-concert-viva-maastricht-52931",
-    "releaseAt": "2026-08-29",
+  "andre-rieu-s-2026-christmas-concert-let-it-snow-55146": {
+    "title": "Andr\u00e9 Rieu's 2026 Christmas Concert: Let It Snow",
+    "slug": "andre-rieu-s-2026-christmas-concert-let-it-snow-55146",
+    "releaseAt": "2026-12-12",
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003435/poster/lg/2/movie&uuid=1AD57626-68EE-4DFA-B8AF-6BD970E3DF12"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003587/poster/lg/1/movie&uuid=9BFF7BF6-12D0-4DAC-8C4F-5D2CCB1729D5"
   },
   "a-pink-floyd-experience-2027-52617": {
     "title": "A Pink Floyd experience 2027",
@@ -339,26 +389,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
   },
-  "harry-potter-24-uurs-marathon-2026-47636": {
-    "title": "Harry Potter 24-uurs Marathon 2026",
-    "slug": "harry-potter-24-uurs-marathon-2026-47636",
-    "releaseAt": "2026-08-29",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002725/poster/lg/3/movie&uuid=E224D0C3-2ADF-404B-A94C-7526A1C8B4D0"
-  },
-  "harry-potter-marathon-deel-1-t-m-4-54726": {
-    "title": "Harry Potter Marathon (deel 1 t/m 4)",
-    "slug": "harry-potter-marathon-deel-1-t-m-4-54726",
-    "releaseAt": "2026-08-29",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003516/poster/lg/3/movie&uuid=058191CD-D25B-4A67-AE08-5C39AB4B8398"
-  },
   "harry-potter-marathon-deel-5-t-m-8-54727": {
     "title": "Harry Potter Marathon (deel 5 t/m 8)",
     "slug": "harry-potter-marathon-deel-5-t-m-8-54727",
@@ -386,17 +416,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
-  },
-  "khalifa-54887": {
-    "title": "Khalifa",
-    "slug": "khalifa-54887",
-    "releaseAt": "2026-08-28",
-    "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
   },
   "kreator-hate-hope-54475": {
     "title": "Kreator - Hate & Hope",
@@ -669,15 +688,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003453/poster/lg/1/movie&uuid=E26F12AC-CEC6-459A-B005-D9DF7AEC0898"
   },
-  "sound-sessions-the-beatles-abbey-road-53567": {
-    "title": "Sound Sessions: The Beatles - Abbey Road",
-    "slug": "sound-sessions-the-beatles-abbey-road-53567",
-    "releaseAt": "2026-08-20",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003452/poster/lg/1/movie&uuid=84081BB3-CB5C-40F9-BBBE-38CC293A1AE8"
-  },
   "sound-sessions-u2-the-joshua-tree-54630": {
     "title": "Sound Sessions: U2 - The Joshua Tree",
     "slug": "sound-sessions-u2-the-joshua-tree-54630",
@@ -747,17 +757,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003198/poster/lg/6/movie&uuid=1FDB9364-8056-4A25-A16F-5FCDB2DE3660"
-  },
-  "toxic-a-fairy-tale-for-grown-ups-55144": {
-    "title": "Toxic: A Fairy Tale For Grown-ups",
-    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
-    "releaseAt": "2026-08-26",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
   },
   "tribute-to-the-cats-band-51963": {
     "title": "Tribute To The Cats Band",
