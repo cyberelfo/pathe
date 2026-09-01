@@ -19,15 +19,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
   },
-  "zondag-de-negenste-54674": {
-    "title": "Zondag de negenste",
-    "slug": "zondag-de-negenste-54674",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -38,14 +29,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
-  "boogie-nights-54942": {
-    "title": "Boogie Nights",
-    "slug": "boogie-nights-54942",
+  "black-swan-54944": {
+    "title": "Black Swan",
+    "slug": "black-swan-54944",
     "releaseAt": "2026-08-27",
     "genres": [
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003549/poster/lg/1/movie&uuid=603EE442-A97A-403C-ABB1-92D9526267CB"
   },
   "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
     "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
@@ -57,14 +48,23 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
   },
-  "black-swan-54944": {
-    "title": "Black Swan",
-    "slug": "black-swan-54944",
+  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
+    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
+    "releaseAt": "2026-09-02",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
+  },
+  "boogie-nights-54942": {
+    "title": "Boogie Nights",
+    "slug": "boogie-nights-54942",
     "releaseAt": "2026-08-27",
     "genres": [
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003549/poster/lg/1/movie&uuid=603EE442-A97A-403C-ABB1-92D9526267CB"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
   },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
@@ -74,6 +74,17 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
+  },
+  "awarapan-2-55093": {
+    "title": "Awarapan 2",
+    "slug": "awarapan-2-55093",
+    "releaseAt": "2026-08-14",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
   },
   "khalifa-54887": {
     "title": "Khalifa",
@@ -86,16 +97,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
   },
-  "awarapan-2-55093": {
-    "title": "Awarapan 2",
-    "slug": "awarapan-2-55093",
-    "releaseAt": "2026-08-14",
+  "leviticus-53403": {
+    "title": "Leviticus",
+    "slug": "leviticus-53403",
+    "releaseAt": "2026-09-03",
     "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
+      "Horror"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003449/poster/lg/1/movie&uuid=1FAEA59D-9896-4640-A845-5E646D55F704"
   },
   "toxic-a-fairy-tale-for-grown-ups-55144": {
     "title": "Toxic: A Fairy Tale For Grown-ups",
@@ -316,6 +325,15 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/15/movie&uuid=80B7DE49-75DD-4769-9601-8610789BC28D"
   },
+  "downtown-51373": {
+    "title": "Downtown",
+    "slug": "downtown-51373",
+    "releaseAt": "2026-10-01",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003262/poster/lg/1/movie&uuid=E4220DDF-8B82-4E7E-B112-9860777DA0CE"
+  },
   "el-sett-54473": {
     "title": "El Sett",
     "slug": "el-sett-54473",
@@ -370,6 +388,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
   },
+  "hallowiebe-overdrive-51322": {
+    "title": "HalloWiebe: Overdrive",
+    "slug": "hallowiebe-overdrive-51322",
+    "releaseAt": "2026-09-23",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
+  },
   "i-m-game-55222": {
     "title": "I'm Game",
     "slug": "i-m-game-55222",
@@ -389,15 +418,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
   },
-  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
-    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
-    "releaseAt": "2026-09-02",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
-  },
   "kreator-hate-hope-54475": {
     "title": "Kreator - Hate & Hope",
     "slug": "kreator-hate-hope-54475",
@@ -406,15 +426,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003476/poster/lg/1/movie&uuid=4C6DC9FD-3ED7-4283-B8DC-FA9CC8566E4D"
-  },
-  "leviticus-53403": {
-    "title": "Leviticus",
-    "slug": "leviticus-53403",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Horror"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003449/poster/lg/1/movie&uuid=1FAEA59D-9896-4640-A845-5E646D55F704"
   },
   "linkin-park-unshatter-55010": {
     "title": "LINKIN PARK: UNSHATTER",
@@ -604,6 +615,16 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002826/poster/lg/3/movie&uuid=5B5E894E-87AC-4960-9A80-D6D474926D72"
+  },
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
   "pubquiz-live-49314": {
     "title": "PubQuiz Live",
@@ -822,5 +843,14 @@
       "Family film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
+  },
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   }
 }
