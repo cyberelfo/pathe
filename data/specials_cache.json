@@ -10,15 +10,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
-    "genres": [
-      "To be announced"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -57,15 +48,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
   },
-  "boogie-nights-54942": {
-    "title": "Boogie Nights",
-    "slug": "boogie-nights-54942",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
-  },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
     "slug": "de-gaulle-resistance-54456",
@@ -75,16 +57,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
-  "awarapan-2-55093": {
-    "title": "Awarapan 2",
-    "slug": "awarapan-2-55093",
-    "releaseAt": "2026-08-14",
+  "boogie-nights-54942": {
+    "title": "Boogie Nights",
+    "slug": "boogie-nights-54942",
+    "releaseAt": "2026-08-27",
     "genres": [
-      "Action",
-      "Bollywood",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
   },
   "khalifa-54887": {
     "title": "Khalifa",
@@ -106,6 +86,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003449/poster/lg/1/movie&uuid=1FAEA59D-9896-4640-A845-5E646D55F704"
   },
+  "terminator-2-judgment-day-35th-anniversary-54865": {
+    "title": "Terminator 2: Judgment Day (35th Anniversary)",
+    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
+  },
   "toxic-a-fairy-tale-for-grown-ups-55144": {
     "title": "Toxic: A Fairy Tale For Grown-ups",
     "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
@@ -117,16 +108,25 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
   },
-  "batwara-1947-54857": {
-    "title": "Batwara 1947",
-    "slug": "batwara-1947-54857",
+  "awarapan-2-55093": {
+    "title": "Awarapan 2",
+    "slug": "awarapan-2-55093",
     "releaseAt": "2026-08-14",
     "genres": [
+      "Action",
       "Bollywood",
-      "History",
-      "War"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003535/poster/lg/1/movie&uuid=68406339-255C-499E-A837-AF7DAD00FE48"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
+  },
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -351,6 +351,17 @@
       "Comedy"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003544/poster/lg/1/movie&uuid=23756682-F47A-4B0B-B78B-66817AB078F2"
+  },
+  "f-l-y-55267": {
+    "title": "F.L.Y.",
+    "slug": "f-l-y-55267",
+    "releaseAt": "2026-10-07",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003595/poster/lg/1/movie&uuid=E1BB4961-4B68-4597-B780-A6FA033BE8C3"
   },
   "fuori-52683": {
     "title": "Fuori",
@@ -683,6 +694,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
   },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
+  },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
     "slug": "sound-sessions-olivia-dean-the-art-of-loving-53424",
@@ -709,17 +729,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003505/poster/lg/1/movie&uuid=8E784C52-17FE-4D58-8A07-70386015C68C"
-  },
-  "terminator-2-judgment-day-35th-anniversary-54865": {
-    "title": "Terminator 2: Judgment Day (35th Anniversary)",
-    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
-      "Drama",
-      "Science Fiction"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
   "the-animals-friends-last-farewell-tour-2027-52622": {
     "title": "The Animals & Friends: Last Farewell Tour 2027",
@@ -843,14 +852,5 @@
       "Family film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
-  },
-  "zondag-de-negenste-54674": {
-    "title": "Zondag de negenste",
-    "slug": "zondag-de-negenste-54674",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   }
 }
