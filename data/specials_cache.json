@@ -20,72 +20,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
-  "black-swan-54944": {
-    "title": "Black Swan",
-    "slug": "black-swan-54944",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003549/poster/lg/1/movie&uuid=603EE442-A97A-403C-ABB1-92D9526267CB"
-  },
-  "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062": {
-    "title": "Harry Potter And The Philosopher's Stone (25th Anniversary)",
-    "slug": "harry-potter-and-the-philosopher-s-stone-25th-anniversary-52062",
-    "releaseAt": "2026-08-26",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003347/poster/lg/2/movie&uuid=F67673AC-B779-419C-850F-6E1B4CFB38DC"
-  },
-  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
-    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
-    "releaseAt": "2026-09-02",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
-  },
-  "de-gaulle-resistance-54456": {
-    "title": "De Gaulle: R\u00e9sistance",
-    "slug": "de-gaulle-resistance-54456",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
-  },
-  "boogie-nights-54942": {
-    "title": "Boogie Nights",
-    "slug": "boogie-nights-54942",
-    "releaseAt": "2026-08-27",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003547/poster/lg/1/movie&uuid=5182F55B-2506-414B-A95C-39B3993C60BD"
-  },
-  "khalifa-54887": {
-    "title": "Khalifa",
-    "slug": "khalifa-54887",
-    "releaseAt": "2026-08-28",
-    "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
-  },
-  "leviticus-53403": {
-    "title": "Leviticus",
-    "slug": "leviticus-53403",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Horror"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003449/poster/lg/1/movie&uuid=1FAEA59D-9896-4640-A845-5E646D55F704"
-  },
   "terminator-2-judgment-day-35th-anniversary-54865": {
     "title": "Terminator 2: Judgment Day (35th Anniversary)",
     "slug": "terminator-2-judgment-day-35th-anniversary-54865",
@@ -97,27 +31,67 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
-  "toxic-a-fairy-tale-for-grown-ups-55144": {
-    "title": "Toxic: A Fairy Tale For Grown-ups",
-    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
-    "releaseAt": "2026-08-26",
+  "almost-famous-55014": {
+    "title": "Almost Famous",
+    "slug": "almost-famous-55014",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
+  },
+  "a-star-is-born-41781": {
+    "title": "A Star is Born",
+    "slug": "a-star-is-born-41781",
+    "releaseAt": "2026-09-02",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
+  },
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
+  },
+  "i-m-game-55222": {
+    "title": "I'm Game",
+    "slug": "i-m-game-55222",
+    "releaseAt": "2026-09-03",
     "genres": [
       "Action",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
+  },
+  "mirzapur-the-movie-55221": {
+    "title": "Mirzapur: The Movie",
+    "slug": "mirzapur-the-movie-55221",
+    "releaseAt": "2026-09-04",
+    "genres": [
       "Crime",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
   },
-  "awarapan-2-55093": {
-    "title": "Awarapan 2",
-    "slug": "awarapan-2-55093",
-    "releaseAt": "2026-08-14",
+  "the-incomer-54767": {
+    "title": "The Incomer",
+    "slug": "the-incomer-54767",
+    "releaseAt": "2026-09-10",
     "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
+      "Comedy",
+      "Drama",
+      "Fantasy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003580/poster/lg/1/movie&uuid=9FAA1B38-9A6A-4B75-92A1-C48D31A631C6"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
   },
   "zondag-de-negenste-54674": {
     "title": "Zondag de negenste",
@@ -154,17 +128,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
   },
-  "almost-famous-55014": {
-    "title": "Almost Famous",
-    "slug": "almost-famous-55014",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
-  },
   "andre-rieu-s-2026-christmas-concert-let-it-snow-55146": {
     "title": "Andr\u00e9 Rieu's 2026 Christmas Concert: Let It Snow",
     "slug": "andre-rieu-s-2026-christmas-concert-let-it-snow-55146",
@@ -187,21 +150,9 @@
     "releaseAt": "2026-09-17",
     "genres": [
       "Adventure",
-      "Animation",
-      "Family film"
+      "Animation"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003583/poster/lg/1/movie&uuid=B83372D2-994C-4F33-B50D-40B73BDB11C3"
-  },
-  "a-star-is-born-41781": {
-    "title": "A Star is Born",
-    "slug": "a-star-is-born-41781",
-    "releaseAt": "2026-09-02",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
   },
   "avengers-endgame-encore-51723": {
     "title": "Avengers: Endgame Encore",
@@ -410,16 +361,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
   },
-  "i-m-game-55222": {
-    "title": "I'm Game",
-    "slug": "i-m-game-55222",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
-  },
   "just-like-elton-2026-48783": {
     "title": "Just Like Elton 2026",
     "slug": "just-like-elton-2026-48783",
@@ -428,6 +369,26 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
+  },
+  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
+    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
+    "releaseAt": "2026-09-02",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
+  },
+  "khalifa-54887": {
+    "title": "Khalifa",
+    "slug": "khalifa-54887",
+    "releaseAt": "2026-08-28",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
   },
   "kreator-hate-hope-54475": {
     "title": "Kreator - Hate & Hope",
@@ -480,16 +441,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003579/poster/lg/1/movie&uuid=04C981A5-9E94-4962-AD30-BA9434473E83"
-  },
-  "mirzapur-the-movie-55221": {
-    "title": "Mirzapur: The Movie",
-    "slug": "mirzapur-the-movie-55221",
-    "releaseAt": "2026-09-04",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
   },
   "mystery-classic-47098": {
     "title": "Mystery Classic",
@@ -757,17 +708,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/9/movie&uuid=92960C40-1E4A-4558-A170-39C205D823CB"
   },
-  "the-incomer-54767": {
-    "title": "The Incomer",
-    "slug": "the-incomer-54767",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
-  },
   "the-music-of-live-aid-2027-52618": {
     "title": "The Music Of Live Aid 2027",
     "slug": "the-music-of-live-aid-2027-52618",
@@ -782,14 +722,16 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003390/poster/lg/1/movie&uuid=0FB5400E-51AF-46E0-B6E8-593D038AB3D3"
   },
-  "tony-christie-great-farewell-up-close-unplugged-50871": {
-    "title": "Tony Christie - Great Farewell 'Up Close & Unplugged'",
-    "slug": "tony-christie-great-farewell-up-close-unplugged-50871",
-    "releaseAt": "2026-11-07",
+  "toxic-a-fairy-tale-for-grown-ups-55144": {
+    "title": "Toxic: A Fairy Tale For Grown-ups",
+    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
+    "releaseAt": "2026-08-26",
     "genres": [
-      "Music"
+      "Action",
+      "Crime",
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003198/poster/lg/7/movie&uuid=28E39982-6F42-4E96-AA86-C2BD4580F74D"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
   },
   "tribute-to-the-cats-band-51963": {
     "title": "Tribute To The Cats Band",
@@ -833,6 +775,16 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003283/poster/lg/3/movie&uuid=E8A01484-44EF-4AFA-B6B3-F65B1756848D"
   },
+  "verity-50915": {
+    "title": "Verity",
+    "slug": "verity-50915",
+    "releaseAt": "2026-10-01",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003207/poster/lg/2/movie&uuid=014ADD18-72CD-46AB-A493-AF228D1B6D55"
+  },
   "wen-er-maar-aan-54928": {
     "title": "Wen Er Maar Aan",
     "slug": "wen-er-maar-aan-54928",
@@ -848,8 +800,7 @@
     "releaseAt": "2026-09-17",
     "genres": [
       "Animation",
-      "Drama",
-      "Family film"
+      "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
   }
