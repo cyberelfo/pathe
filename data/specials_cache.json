@@ -10,6 +10,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
+  "almost-famous-55014": {
+    "title": "Almost Famous",
+    "slug": "almost-famous-55014",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -31,17 +42,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
-  "almost-famous-55014": {
-    "title": "Almost Famous",
-    "slug": "almost-famous-55014",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
-  },
   "a-star-is-born-41781": {
     "title": "A Star is Born",
     "slug": "a-star-is-born-41781",
@@ -53,24 +53,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
   },
-  "de-gaulle-resistance-54456": {
-    "title": "De Gaulle: R\u00e9sistance",
-    "slug": "de-gaulle-resistance-54456",
-    "releaseAt": "2026-08-06",
+  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
+    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
+    "releaseAt": "2026-09-02",
     "genres": [
-      "Drama"
+      "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
-  },
-  "i-m-game-55222": {
-    "title": "I'm Game",
-    "slug": "i-m-game-55222",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
   },
   "mirzapur-the-movie-55221": {
     "title": "Mirzapur: The Movie",
@@ -81,6 +71,15 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
+  },
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
   "the-incomer-54767": {
     "title": "The Incomer",
@@ -93,14 +92,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
   },
-  "zondag-de-negenste-54674": {
-    "title": "Zondag de negenste",
-    "slug": "zondag-de-negenste-54674",
-    "releaseAt": "2026-07-16",
+  "i-m-game-55222": {
+    "title": "I'm Game",
+    "slug": "i-m-game-55222",
+    "releaseAt": "2026-09-03",
     "genres": [
+      "Action",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -361,6 +361,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
   },
+  "heart-of-the-beast-52871": {
+    "title": "Heart of the Beast",
+    "slug": "heart-of-the-beast-52871",
+    "releaseAt": "2026-09-23",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
+  },
   "just-like-elton-2026-48783": {
     "title": "Just Like Elton 2026",
     "slug": "just-like-elton-2026-48783",
@@ -369,15 +379,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
-  },
-  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
-    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
-    "releaseAt": "2026-09-02",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
   },
   "khalifa-54887": {
     "title": "Khalifa",
@@ -623,6 +624,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003036/poster/lg/2/movie&uuid=B8DF513F-CE5E-40F3-A441-BED27D7C3DF8"
   },
+  "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
+    "title": "Shaun het Schaap: Het Beest van de Boerderij",
+    "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
+    "releaseAt": "2026-10-07",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
+  },
+  "simon-44088": {
+    "title": "Simon",
+    "slug": "simon-44088",
+    "releaseAt": "2004-09-30",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002437/poster/lg/4/movie&uuid=2FEE798F-2859-4EC0-9559-B0D9FE0D2393"
+  },
   "sing-54990": {
     "title": "Sing",
     "slug": "sing-54990",
@@ -803,5 +824,23 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
+  },
+  "youri-51374": {
+    "title": "Youri",
+    "slug": "youri-51374",
+    "releaseAt": "2026-10-15",
+    "genres": [
+      "Biopic"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003263/poster/lg/1/movie&uuid=279AC820-164B-4E88-A17A-75CFDBCAE030"
+  },
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   }
 }
