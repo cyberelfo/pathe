@@ -1,35 +1,23 @@
 {
-  "one-night-only-49759": {
-    "title": "One Night Only",
-    "slug": "one-night-only-49759",
-    "releaseAt": "2026-08-13",
+  "the-odyssey-44019": {
+    "title": "The Odyssey",
+    "slug": "the-odyssey-44019",
+    "releaseAt": "2026-07-16",
     "genres": [
-      "Comedy",
+      "Action",
       "Drama",
-      "Romance"
+      "History"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002353/poster/lg/3/movie&uuid=0B409D37-CA55-4000-AC4B-35627BA5659E"
   },
-  "almost-famous-55014": {
-    "title": "Almost Famous",
-    "slug": "almost-famous-55014",
-    "releaseAt": "2026-09-03",
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
     "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
-  },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   },
   "terminator-2-judgment-day-35th-anniversary-54865": {
     "title": "Terminator 2: Judgment Day (35th Anniversary)",
@@ -42,25 +30,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
-  "a-star-is-born-41781": {
-    "title": "A Star is Born",
-    "slug": "a-star-is-born-41781",
-    "releaseAt": "2026-09-02",
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
+      "Animation",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
-  "katy-perry-the-lifetimes-tour-live-from-paris-54890": {
-    "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-    "slug": "katy-perry-the-lifetimes-tour-live-from-paris-54890",
-    "releaseAt": "2026-09-02",
+  "almost-famous-55014": {
+    "title": "Almost Famous",
+    "slug": "almost-famous-55014",
+    "releaseAt": "2026-09-03",
     "genres": [
-      "Music"
+      "Adventure",
+      "Drama",
+      "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003543/poster/lg/1/movie&uuid=38F2C781-D42B-4DE3-940F-F32E6EF2F422"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
   },
   "mirzapur-the-movie-55221": {
     "title": "Mirzapur: The Movie",
@@ -81,16 +70,38 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
-  "the-incomer-54767": {
-    "title": "The Incomer",
-    "slug": "the-incomer-54767",
-    "releaseAt": "2026-09-10",
+  "a-star-is-born-41781": {
+    "title": "A Star is Born",
+    "slug": "a-star-is-born-41781",
+    "releaseAt": "2026-09-02",
     "genres": [
       "Comedy",
       "Drama",
-      "Fantasy"
+      "Musical"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
+  },
+  "bumba-het-circusorkest-54613": {
+    "title": "Bumba: Het Circusorkest",
+    "slug": "bumba-het-circusorkest-54613",
+    "releaseAt": "2026-09-09",
+    "genres": [
+      "Family film",
+      "Fantasy",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
+  },
+  "khalifa-54887": {
+    "title": "Khalifa",
+    "slug": "khalifa-54887",
+    "releaseAt": "2026-08-28",
+    "genres": [
+      "Action",
+      "Bollywood",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
   },
   "i-m-game-55222": {
     "title": "I'm Game",
@@ -220,17 +231,6 @@
       "Musical"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00001142/poster/lg/1/movie&uuid=CFFAD90D-2BAE-4BA9-940D-D58C2BFA0732"
-  },
-  "bumba-het-circusorkest-54613": {
-    "title": "Bumba: Het Circusorkest",
-    "slug": "bumba-het-circusorkest-54613",
-    "releaseAt": "2026-09-09",
-    "genres": [
-      "Family film",
-      "Fantasy",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
   "cabaret-1972-54955": {
     "title": "Cabaret (1972)",
@@ -379,17 +379,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
-  },
-  "khalifa-54887": {
-    "title": "Khalifa",
-    "slug": "khalifa-54887",
-    "releaseAt": "2026-08-28",
-    "genres": [
-      "Action",
-      "Bollywood",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
   },
   "kreator-hate-hope-54475": {
     "title": "Kreator - Hate & Hope",
@@ -729,6 +718,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/9/movie&uuid=92960C40-1E4A-4558-A170-39C205D823CB"
   },
+  "the-incomer-54767": {
+    "title": "The Incomer",
+    "slug": "the-incomer-54767",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
+  },
   "the-music-of-live-aid-2027-52618": {
     "title": "The Music Of Live Aid 2027",
     "slug": "the-music-of-live-aid-2027-52618",
@@ -833,14 +833,5 @@
       "Biopic"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003263/poster/lg/1/movie&uuid=279AC820-164B-4E88-A17A-75CFDBCAE030"
-  },
-  "zondag-de-negenste-54674": {
-    "title": "Zondag de negenste",
-    "slug": "zondag-de-negenste-54674",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   }
 }
