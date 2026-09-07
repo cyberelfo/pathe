@@ -10,6 +10,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002353/poster/lg/3/movie&uuid=0B409D37-CA55-4000-AC4B-35627BA5659E"
   },
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
+  },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
+  },
   "zondag-de-negenste-54674": {
     "title": "Zondag de negenste",
     "slug": "zondag-de-negenste-54674",
@@ -18,6 +38,27 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
+  },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
+  "a-star-is-born-41781": {
+    "title": "A Star is Born",
+    "slug": "a-star-is-born-41781",
+    "releaseAt": "2026-09-02",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
   },
   "terminator-2-judgment-day-35th-anniversary-54865": {
     "title": "Terminator 2: Judgment Day (35th Anniversary)",
@@ -30,16 +71,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
-  },
   "almost-famous-55014": {
     "title": "Almost Famous",
     "slug": "almost-famous-55014",
@@ -51,16 +82,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
   },
-  "mirzapur-the-movie-55221": {
-    "title": "Mirzapur: The Movie",
-    "slug": "mirzapur-the-movie-55221",
-    "releaseAt": "2026-09-04",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
-  },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
     "slug": "de-gaulle-resistance-54456",
@@ -70,16 +91,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
-  "a-star-is-born-41781": {
-    "title": "A Star is Born",
-    "slug": "a-star-is-born-41781",
-    "releaseAt": "2026-09-02",
+  "mirzapur-the-movie-55221": {
+    "title": "Mirzapur: The Movie",
+    "slug": "mirzapur-the-movie-55221",
+    "releaseAt": "2026-09-04",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
+      "Crime",
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -103,15 +123,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
   },
-  "i-m-game-55222": {
-    "title": "I'm Game",
-    "slug": "i-m-game-55222",
-    "releaseAt": "2026-09-03",
+  "the-incomer-54767": {
+    "title": "The Incomer",
+    "slug": "the-incomer-54767",
+    "releaseAt": "2026-09-10",
     "genres": [
-      "Action",
-      "Drama"
+      "Comedy",
+      "Drama",
+      "Fantasy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -138,6 +159,16 @@
       "Action"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
+  },
+  "always-lalisa-55306": {
+    "title": "ALWAYS LALISA",
+    "slug": "always-lalisa-55306",
+    "releaseAt": "2026-10-12",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003597/poster/lg/1/movie&uuid=96AE1CB8-AEE2-42A9-9CA1-50138E7F5F79"
   },
   "andre-rieu-s-2026-christmas-concert-let-it-snow-55146": {
     "title": "Andr\u00e9 Rieu's 2026 Christmas Concert: Let It Snow",
@@ -249,7 +280,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/14/movie&uuid=E6D2B50A-4A6A-4335-AD73-44DBD07CCE5D"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/15/movie&uuid=2865BF94-F855-4FA6-BE0E-1AFC573DDF64"
   },
   "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
     "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
@@ -350,6 +381,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
   },
+  "haiwaan-55324": {
+    "title": "Haiwaan",
+    "slug": "haiwaan-55324",
+    "releaseAt": "2026-09-11",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003603/poster/lg/1/movie&uuid=F6708690-81DF-4BC0-8F1B-BB13B3CA34C8"
+  },
   "hallowiebe-overdrive-51322": {
     "title": "HalloWiebe: Overdrive",
     "slug": "hallowiebe-overdrive-51322",
@@ -371,6 +413,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
   },
+  "i-m-game-55222": {
+    "title": "I'm Game",
+    "slug": "i-m-game-55222",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
+  },
   "just-like-elton-2026-48783": {
     "title": "Just Like Elton 2026",
     "slug": "just-like-elton-2026-48783",
@@ -388,6 +440,24 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003476/poster/lg/1/movie&uuid=4C6DC9FD-3ED7-4283-B8DC-FA9CC8566E4D"
+  },
+  "kuzma-55313": {
+    "title": "Kuzma",
+    "slug": "kuzma-55313",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Biopic"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003598/poster/lg/1/movie&uuid=71274EE8-55B4-4476-8BDA-E570026681A9"
+  },
+  "l-evenement-41422": {
+    "title": "L'evenement",
+    "slug": "l-evenement-41422",
+    "releaseAt": "2022-04-21",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": null
   },
   "linkin-park-unshatter-55010": {
     "title": "LINKIN PARK: UNSHATTER",
@@ -504,7 +574,7 @@
     "slug": "opera-macbeth-52696",
     "releaseAt": "2026-10-17",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/9/movie&uuid=D4673E11-2E72-4B23-8224-56532A2C0EBF"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/10/movie&uuid=F80FDE76-3B1D-4E1B-A9CE-9D1F1D227618"
   },
   "opera-manon-52700": {
     "title": "Opera: Manon",
@@ -532,7 +602,7 @@
     "slug": "opera-samson-et-dalila-52697",
     "releaseAt": "2026-12-03",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003411/poster/lg/2/movie&uuid=2AF2EE83-7003-4735-8052-CEFC425D398F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003411/poster/lg/3/movie&uuid=1E7F85B1-AA3B-4472-8880-6460163B96BF"
   },
   "opera-silent-night-52699": {
     "title": "Opera: Silent Night",
@@ -581,7 +651,7 @@
   "pubquiz-live-49314": {
     "title": "PubQuiz Live",
     "slug": "pubquiz-live-49314",
-    "releaseAt": "2025-10-04",
+    "releaseAt": "2026-11-06",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002991/poster/lg/1/movie&uuid=463564FA-54F3-456B-AE31-136BAFEAE84D"
   },
@@ -655,15 +725,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
   },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
-    "genres": [
-      "To be announced"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
-  },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
     "slug": "sound-sessions-olivia-dean-the-art-of-loving-53424",
@@ -716,18 +777,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/9/movie&uuid=92960C40-1E4A-4558-A170-39C205D823CB"
-  },
-  "the-incomer-54767": {
-    "title": "The Incomer",
-    "slug": "the-incomer-54767",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/10/movie&uuid=8707E346-FD56-443D-BAB6-CA5C7AB1BA3F"
   },
   "the-music-of-live-aid-2027-52618": {
     "title": "The Music Of Live Aid 2027",
@@ -787,7 +837,7 @@
     "slug": "twenty-years-of-the-met-in-cinemas-an-anniversary-celebration-52703",
     "releaseAt": "2026-09-27",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003417/poster/lg/11/movie&uuid=948EE384-782D-4433-86B2-D7D13D28D1C7"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003417/poster/lg/12/movie&uuid=FB46E49D-8F83-4C15-8542-492439CA6529"
   },
   "u2two-u2-theatershow-boy-to-surrender-deel-3-51606": {
     "title": "U2two: U2 theatershow \u2018Boy to Surrender\u2019- deel 3",
