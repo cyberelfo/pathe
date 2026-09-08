@@ -30,15 +30,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
   },
-  "zondag-de-negenste-54674": {
-    "title": "Zondag de negenste",
-    "slug": "zondag-de-negenste-54674",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
-  },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
     "slug": "bumba-het-circusorkest-54613",
@@ -72,16 +63,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
-  },
   "almost-famous-55014": {
     "title": "Almost Famous",
     "slug": "almost-famous-55014",
@@ -92,6 +73,16 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
+  },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
@@ -326,6 +317,17 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003262/poster/lg/1/movie&uuid=E4220DDF-8B82-4E7E-B112-9860777DA0CE"
+  },
+  "dune-part-three-49620": {
+    "title": "Dune: Part Three",
+    "slug": "dune-part-three-49620",
+    "releaseAt": "2026-12-16",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003041/poster/lg/1/movie&uuid=4EC50B6F-84F5-4205-9081-6132DBC494DC"
   },
   "el-sett-54473": {
     "title": "El Sett",
@@ -904,5 +906,14 @@
       "Biopic"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003263/poster/lg/1/movie&uuid=279AC820-164B-4E88-A17A-75CFDBCAE030"
+  },
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   }
 }
