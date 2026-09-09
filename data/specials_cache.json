@@ -10,6 +10,27 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002353/poster/lg/3/movie&uuid=0B409D37-CA55-4000-AC4B-35627BA5659E"
   },
+  "practical-magic-2-48169": {
+    "title": "Practical Magic 2",
+    "slug": "practical-magic-2-48169",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002826/poster/lg/3/movie&uuid=5B5E894E-87AC-4960-9A80-D6D474926D72"
+  },
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+  },
   "one-night-only-49759": {
     "title": "One Night Only",
     "slug": "one-night-only-49759",
@@ -20,15 +41,6 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
-  },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
-    "genres": [
-      "To be announced"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -41,16 +53,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "a-star-is-born-41781": {
-    "title": "A Star is Born",
-    "slug": "a-star-is-born-41781",
-    "releaseAt": "2026-09-02",
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   },
   "terminator-2-judgment-day-35th-anniversary-54865": {
     "title": "Terminator 2: Judgment Day (35th Anniversary)",
@@ -74,6 +84,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
   },
+  "a-star-is-born-41781": {
+    "title": "A Star is Born",
+    "slug": "a-star-is-born-41781",
+    "releaseAt": "2026-09-02",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
+  },
+  "akira-4k-restoration-52063": {
+    "title": "Akira (4K Restoration)",
+    "slug": "akira-4k-restoration-52063",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Action"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -93,6 +123,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
+  "hacksaw-ridge-43979": {
+    "title": "Hacksaw Ridge",
+    "slug": "hacksaw-ridge-43979",
+    "releaseAt": "2016-11-03",
+    "genres": [
+      "Action",
+      "Biopic",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
+  },
   "mirzapur-the-movie-55221": {
     "title": "Mirzapur: The Movie",
     "slug": "mirzapur-the-movie-55221",
@@ -103,27 +144,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
   },
-  "the-incomer-54767": {
-    "title": "The Incomer",
-    "slug": "the-incomer-54767",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
-  },
-  "khalifa-54887": {
-    "title": "Khalifa",
-    "slug": "khalifa-54887",
-    "releaseAt": "2026-08-28",
+  "i-m-game-55222": {
+    "title": "I'm Game",
+    "slug": "i-m-game-55222",
+    "releaseAt": "2026-09-03",
     "genres": [
       "Action",
-      "Bollywood",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003541/poster/lg/1/movie&uuid=5C2A2445-53C5-4930-8C07-32F4918C3AC9"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
   },
   "toxic-a-fairy-tale-for-grown-ups-55144": {
     "title": "Toxic: A Fairy Tale For Grown-ups",
@@ -152,15 +181,6 @@
     "releaseAt": "2026-12-17",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003324/poster/lg/1/movie&uuid=96373902-29D2-47E7-95BA-7A3F823A0E9B"
-  },
-  "akira-4k-restoration-52063": {
-    "title": "Akira (4K Restoration)",
-    "slug": "akira-4k-restoration-52063",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Action"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
   },
   "always-lalisa-55306": {
     "title": "ALWAYS LALISA",
@@ -275,14 +295,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003550/poster/lg/1/movie&uuid=5297D979-BA33-4189-84D4-A940EF7C3614"
   },
-  "ccr-all-stars-band-creedance-clearwater-revival-tribute-usa-50868": {
-    "title": "CCR All Stars Band - Creedance Clearwater Revival tribute (USA)",
-    "slug": "ccr-all-stars-band-creedance-clearwater-revival-tribute-usa-50868",
+  "ccr-all-stars-band-creedence-clearwater-revival-tribute-uk-50868": {
+    "title": "CCR All Stars Band - Creedence Clearwater Revival tribute (UK)",
+    "slug": "ccr-all-stars-band-creedence-clearwater-revival-tribute-uk-50868",
     "releaseAt": "2026-10-03",
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/15/movie&uuid=2865BF94-F855-4FA6-BE0E-1AFC573DDF64"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/16/movie&uuid=B8BEE65B-4D6E-49C8-B027-0664004BAA1D"
   },
   "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
     "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
@@ -394,17 +414,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003477/poster/lg/1/movie&uuid=DEBC5043-8F4E-448A-81F6-52CC8A893EA5"
   },
-  "hacksaw-ridge-43979": {
-    "title": "Hacksaw Ridge",
-    "slug": "hacksaw-ridge-43979",
-    "releaseAt": "2016-11-03",
-    "genres": [
-      "Action",
-      "Biopic",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
-  },
   "haiwaan-55324": {
     "title": "Haiwaan",
     "slug": "haiwaan-55324",
@@ -446,16 +455,6 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
-  },
-  "i-m-game-55222": {
-    "title": "I'm Game",
-    "slug": "i-m-game-55222",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
   },
   "just-like-elton-2026-48783": {
     "title": "Just Like Elton 2026",
@@ -661,27 +660,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002621/poster/lg/56/movie&uuid=27858332-1035-41A3-B6DD-E854418E472A"
   },
-  "practical-magic-2-48169": {
-    "title": "Practical Magic 2",
-    "slug": "practical-magic-2-48169",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002826/poster/lg/3/movie&uuid=5B5E894E-87AC-4960-9A80-D6D474926D72"
-  },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
-  },
   "pubquiz-live-49314": {
     "title": "PubQuiz Live",
     "slug": "pubquiz-live-49314",
@@ -758,6 +736,15 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
+  },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
   },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
@@ -906,14 +893,5 @@
       "Biopic"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003263/poster/lg/1/movie&uuid=279AC820-164B-4E88-A17A-75CFDBCAE030"
-  },
-  "zondag-de-negenste-54674": {
-    "title": "Zondag de negenste",
-    "slug": "zondag-de-negenste-54674",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
   }
 }
