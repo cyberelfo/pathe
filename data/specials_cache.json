@@ -10,27 +10,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002353/poster/lg/3/movie&uuid=0B409D37-CA55-4000-AC4B-35627BA5659E"
   },
-  "practical-magic-2-48169": {
-    "title": "Practical Magic 2",
-    "slug": "practical-magic-2-48169",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002826/poster/lg/3/movie&uuid=5B5E894E-87AC-4960-9A80-D6D474926D72"
-  },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
-  },
   "one-night-only-49759": {
     "title": "One Night Only",
     "slug": "one-night-only-49759",
@@ -53,48 +32,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "zondag-de-negenste-54674": {
-    "title": "Zondag de negenste",
-    "slug": "zondag-de-negenste-54674",
-    "releaseAt": "2026-07-16",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
-  },
-  "terminator-2-judgment-day-35th-anniversary-54865": {
-    "title": "Terminator 2: Judgment Day (35th Anniversary)",
-    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
-      "Drama",
-      "Science Fiction"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
-  },
-  "almost-famous-55014": {
-    "title": "Almost Famous",
-    "slug": "almost-famous-55014",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003563/poster/lg/1/movie&uuid=11F68F41-6FDA-4767-A49C-58FFB01342D4"
-  },
-  "a-star-is-born-41781": {
-    "title": "A Star is Born",
-    "slug": "a-star-is-born-41781",
-    "releaseAt": "2026-09-02",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
-  },
   "akira-4k-restoration-52063": {
     "title": "Akira (4K Restoration)",
     "slug": "akira-4k-restoration-52063",
@@ -114,6 +51,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
+  "a-star-is-born-41781": {
+    "title": "A Star is Born",
+    "slug": "a-star-is-born-41781",
+    "releaseAt": "2026-09-02",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
+  },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
     "slug": "de-gaulle-resistance-54456",
@@ -122,17 +70,6 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
-  },
-  "hacksaw-ridge-43979": {
-    "title": "Hacksaw Ridge",
-    "slug": "hacksaw-ridge-43979",
-    "releaseAt": "2016-11-03",
-    "genres": [
-      "Action",
-      "Biopic",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
   },
   "mirzapur-the-movie-55221": {
     "title": "Mirzapur: The Movie",
@@ -144,26 +81,35 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
   },
-  "i-m-game-55222": {
-    "title": "I'm Game",
-    "slug": "i-m-game-55222",
+  "terminator-2-judgment-day-35th-anniversary-54865": {
+    "title": "Terminator 2: Judgment Day (35th Anniversary)",
+    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
     "releaseAt": "2026-09-03",
     "genres": [
       "Action",
-      "Drama"
+      "Drama",
+      "Science Fiction"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003591/poster/lg/1/movie&uuid=D541B531-8C17-499B-AA32-D5C3F15BF6A1"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
-  "toxic-a-fairy-tale-for-grown-ups-55144": {
-    "title": "Toxic: A Fairy Tale For Grown-ups",
-    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
-    "releaseAt": "2026-08-26",
+  "zondag-de-negenste-54674": {
+    "title": "Zondag de negenste",
+    "slug": "zondag-de-negenste-54674",
+    "releaseAt": "2026-07-16",
     "genres": [
-      "Action",
-      "Crime",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003509/poster/lg/1/movie&uuid=FF723F1E-8F04-4989-B5A4-F47712F537A7"
+  },
+  "birdman-the-unexpected-virtue-of-ignorance-2014-54956": {
+    "title": "Birdman (The Unexpected Virtue of Ignorance) (2014)",
+    "slug": "birdman-the-unexpected-virtue-of-ignorance-2014-54956",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003551/poster/lg/1/movie&uuid=B16E38B4-5260-4E2E-9A68-9D5C1D145B0E"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -264,16 +210,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003392/poster/lg/1/movie&uuid=F9031491-0111-4479-9C4A-BD54047DEED1"
-  },
-  "birdman-the-unexpected-virtue-of-ignorance-2014-54956": {
-    "title": "Birdman (The Unexpected Virtue of Ignorance) (2014)",
-    "slug": "birdman-the-unexpected-virtue-of-ignorance-2014-54956",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003551/poster/lg/1/movie&uuid=B16E38B4-5260-4E2E-9A68-9D5C1D145B0E"
   },
   "bohemian-rhapsody-41483": {
     "title": "Bohemian Rhapsody",
@@ -413,6 +349,17 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003477/poster/lg/1/movie&uuid=DEBC5043-8F4E-448A-81F6-52CC8A893EA5"
+  },
+  "hacksaw-ridge-43979": {
+    "title": "Hacksaw Ridge",
+    "slug": "hacksaw-ridge-43979",
+    "releaseAt": "2016-11-03",
+    "genres": [
+      "Action",
+      "Biopic",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
   },
   "haiwaan-55324": {
     "title": "Haiwaan",
@@ -807,12 +754,34 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003389/poster/lg/1/movie&uuid=EA8CA0CD-533C-4AE5-9156-693A19FD4D41"
   },
+  "the-relatives-rodychi-54888": {
+    "title": "The Relatives / Rodychi",
+    "slug": "the-relatives-rodychi-54888",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Comedy",
+      "Family film",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003542/poster/lg/2/movie&uuid=AEDDBFF5-D8E5-4B2A-9337-9CAF36781645"
+  },
   "thunder-from-down-under-2027-52619": {
     "title": "Thunder from Down Under 2027",
     "slug": "thunder-from-down-under-2027-52619",
     "releaseAt": "2027-03-05",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003390/poster/lg/1/movie&uuid=0FB5400E-51AF-46E0-B6E8-593D038AB3D3"
+  },
+  "toxic-a-fairy-tale-for-grown-ups-55144": {
+    "title": "Toxic: A Fairy Tale For Grown-ups",
+    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
   },
   "tribute-to-the-cats-band-51963": {
     "title": "Tribute To The Cats Band",
