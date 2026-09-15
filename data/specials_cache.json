@@ -52,16 +52,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002146/poster/lg/3/movie&uuid=A10FFCD4-DB2A-4E6F-B20D-291422FAF269"
   },
-  "by-any-means-52350": {
-    "title": "By Any Means",
-    "slug": "by-any-means-52350",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003370/poster/lg/2/movie&uuid=6B2471A1-A3FB-4BCD-867A-B819E4AC7819"
-  },
   "f-ck-de-familie-50315": {
     "title": "F*ck de Familie",
     "slug": "f-ck-de-familie-50315",
@@ -71,15 +61,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003123/poster/lg/1/movie&uuid=87EDE5A2-5C69-4841-AEBE-514C199238CB"
   },
-  "mutiny-48084": {
-    "title": "Mutiny",
-    "slug": "mutiny-48084",
-    "releaseAt": "2026-08-20",
+  "runner-52351": {
+    "title": "Runner",
+    "slug": "runner-52351",
+    "releaseAt": "2026-09-10",
     "genres": [
       "Action",
       "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002797/poster/lg/2/movie&uuid=DC1F5E50-6279-4614-82EB-C76450D05B50"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003371/poster/lg/1/movie&uuid=87183C4A-9541-4A0C-94BE-B23FAB67B104"
   },
   "the-dog-stars-48347": {
     "title": "The Dog Stars",
@@ -92,15 +82,25 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002843/poster/lg/3/movie&uuid=55D5F9B8-104C-4C34-84A3-06F290FFF52A"
   },
-  "runner-52351": {
-    "title": "Runner",
-    "slug": "runner-52351",
-    "releaseAt": "2026-09-10",
+  "by-any-means-52350": {
+    "title": "By Any Means",
+    "slug": "by-any-means-52350",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003370/poster/lg/2/movie&uuid=6B2471A1-A3FB-4BCD-867A-B819E4AC7819"
+  },
+  "mutiny-48084": {
+    "title": "Mutiny",
+    "slug": "mutiny-48084",
+    "releaseAt": "2026-08-20",
     "genres": [
       "Action",
       "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003371/poster/lg/1/movie&uuid=87183C4A-9541-4A0C-94BE-B23FAB67B104"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002797/poster/lg/2/movie&uuid=DC1F5E50-6279-4614-82EB-C76450D05B50"
   },
   "the-end-of-oak-street-42357": {
     "title": "The End of Oak Street",
@@ -122,17 +122,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003244/poster/lg/1/movie&uuid=9F66CC9F-A6FF-49D2-8F60-BEAD989A6308"
   },
-  "one-night-only-49759": {
-    "title": "One Night Only",
-    "slug": "one-night-only-49759",
-    "releaseAt": "2026-08-13",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
-  },
   "paw-patrol-de-dinofilm-nederlands-gesproken-50683": {
     "title": "Paw Patrol: De Dinofilm (Nederlands gesproken)",
     "slug": "paw-patrol-de-dinofilm-nederlands-gesproken-50683",
@@ -143,14 +132,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003168/poster/lg/3/movie&uuid=42AFA438-CE95-4AC2-AEA2-224E670CE3AD"
   },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
+  "one-night-only-49759": {
+    "title": "One Night Only",
+    "slug": "one-night-only-49759",
+    "releaseAt": "2026-08-13",
     "genres": [
-      "To be announced"
+      "Comedy",
+      "Drama",
+      "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003060/poster/lg/3/movie&uuid=B0BAD01F-2210-4B2E-A610-549FD3CC3DE2"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -163,33 +154,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "tuner-51319": {
-    "title": "Tuner",
-    "slug": "tuner-51319",
-    "releaseAt": "2026-05-28",
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
     "genres": [
-      "Crime",
-      "Drama"
+      "To be announced"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003240/poster/lg/3/movie&uuid=4B92DFEC-32A6-4410-B0FA-B2643DE4B36A"
-  },
-  "leviticus-53403": {
-    "title": "Leviticus",
-    "slug": "leviticus-53403",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Horror"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003449/poster/lg/1/movie&uuid=1FAEA59D-9896-4640-A845-5E646D55F704"
-  },
-  "akira-4k-restoration-52063": {
-    "title": "Akira (4K Restoration)",
-    "slug": "akira-4k-restoration-52063",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Action"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
   },
   "minions-monsters-nl-48100": {
     "title": "Minions & Monsters (NL)",
@@ -201,6 +173,34 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002813/poster/lg/3/movie&uuid=91827519-0847-4DA1-B030-F42512776A3F"
   },
+  "leviticus-53403": {
+    "title": "Leviticus",
+    "slug": "leviticus-53403",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Horror"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003449/poster/lg/1/movie&uuid=1FAEA59D-9896-4640-A845-5E646D55F704"
+  },
+  "tuner-51319": {
+    "title": "Tuner",
+    "slug": "tuner-51319",
+    "releaseAt": "2026-05-28",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003240/poster/lg/3/movie&uuid=4B92DFEC-32A6-4410-B0FA-B2643DE4B36A"
+  },
+  "akira-4k-restoration-52063": {
+    "title": "Akira (4K Restoration)",
+    "slug": "akira-4k-restoration-52063",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Action"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
+  },
   "birdman-the-unexpected-virtue-of-ignorance-2014-54956": {
     "title": "Birdman (The Unexpected Virtue of Ignorance) (2014)",
     "slug": "birdman-the-unexpected-virtue-of-ignorance-2014-54956",
@@ -211,16 +211,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003551/poster/lg/1/movie&uuid=B16E38B4-5260-4E2E-9A68-9D5C1D145B0E"
   },
-  "the-death-of-robin-hood-51621": {
-    "title": "The Death of Robin Hood",
-    "slug": "the-death-of-robin-hood-51621",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003292/poster/lg/3/movie&uuid=F4415001-D9FA-4FD6-B529-5CE211595D89"
-  },
   "toy-story-5-nederlandse-versie-50665": {
     "title": "Toy Story 5 (Nederlandse versie)",
     "slug": "toy-story-5-nederlandse-versie-50665",
@@ -230,6 +220,16 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003162/poster/lg/3/movie&uuid=FAB9F55D-265E-4D95-9304-F809F6A19F32"
+  },
+  "the-death-of-robin-hood-51621": {
+    "title": "The Death of Robin Hood",
+    "slug": "the-death-of-robin-hood-51621",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003292/poster/lg/3/movie&uuid=F4415001-D9FA-4FD6-B529-5CE211595D89"
   },
   "ted-de-magische-lamp-48168": {
     "title": "Ted & De Magische Lamp",
@@ -242,16 +242,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002825/poster/lg/3/movie&uuid=084BD2FE-E1B9-4765-8872-381DBFBDC28E"
   },
-  "obsession-50802": {
-    "title": "Obsession",
-    "slug": "obsession-50802",
-    "releaseAt": "2026-05-14",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003189/poster/lg/5/movie&uuid=A4592ECA-F13A-4AA6-80C4-6DD1B735A718"
-  },
   "the-incomer-54767": {
     "title": "The Incomer",
     "slug": "the-incomer-54767",
@@ -263,15 +253,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003521/poster/lg/2/movie&uuid=E2024CB2-DF4C-4B25-BEFA-22DE6704A7B6"
   },
-  "vaiana-2026-originele-versie-48101": {
-    "title": "Vaiana (2026) (Originele Versie)",
-    "slug": "vaiana-2026-originele-versie-48101",
-    "releaseAt": "2026-07-08",
+  "the-invite-52060": {
+    "title": "The Invite",
+    "slug": "the-invite-52060",
+    "releaseAt": "2026-07-09",
     "genres": [
-      "Adventure",
-      "Musical"
+      "Comedy",
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002814/poster/lg/1/movie&uuid=4F53FF53-B86C-48D4-81D5-D7DEACE38DD3"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003345/poster/lg/2/movie&uuid=7EF2EEF5-7CFF-4AE8-AC27-0CA853186405"
   },
   "a-star-is-born-41781": {
     "title": "A Star is Born",
@@ -284,6 +274,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00001223/poster/lg/1/movie&uuid=B52339DE-A643-4D0A-A261-D0EB54957AEC"
   },
+  "obsession-50802": {
+    "title": "Obsession",
+    "slug": "obsession-50802",
+    "releaseAt": "2026-05-14",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003189/poster/lg/5/movie&uuid=A4592ECA-F13A-4AA6-80C4-6DD1B735A718"
+  },
   "rosebush-pruning-54538": {
     "title": "Rosebush Pruning",
     "slug": "rosebush-pruning-54538",
@@ -294,15 +294,35 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003486/poster/lg/2/movie&uuid=2B40CBDB-9678-434D-9EDF-48E6CCCC1DF0"
   },
-  "the-invite-52060": {
-    "title": "The Invite",
-    "slug": "the-invite-52060",
-    "releaseAt": "2026-07-09",
+  "vaiana-2026-originele-versie-48101": {
+    "title": "Vaiana (2026) (Originele Versie)",
+    "slug": "vaiana-2026-originele-versie-48101",
+    "releaseAt": "2026-07-08",
     "genres": [
-      "Comedy",
-      "Drama"
+      "Adventure",
+      "Musical"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003345/poster/lg/2/movie&uuid=7EF2EEF5-7CFF-4AE8-AC27-0CA853186405"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002814/poster/lg/1/movie&uuid=4F53FF53-B86C-48D4-81D5-D7DEACE38DD3"
+  },
+  "vaiana-2026-nederlands-gesproken-53119": {
+    "title": "Vaiana (2026) (Nederlands gesproken)",
+    "slug": "vaiana-2026-nederlands-gesproken-53119",
+    "releaseAt": "2026-07-08",
+    "genres": [
+      "Adventure",
+      "Kids film",
+      "Musical"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003056/poster/lg/2/movie&uuid=2D79ADA4-2478-4DE8-ADB2-EAE2560EE23A"
+  },
+  "de-film-van-rutger-thomas-paco-2-51371": {
+    "title": "De Film van Rutger, Thomas & Paco 2",
+    "slug": "de-film-van-rutger-thomas-paco-2-51371",
+    "releaseAt": "2026-06-03",
+    "genres": [
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003260/poster/lg/2/movie&uuid=4351A738-E364-4290-BEBF-82A469532502"
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
@@ -313,6 +333,16 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
+  "pour-le-plaisir-55239": {
+    "title": "Pour le plaisir",
+    "slug": "pour-le-plaisir-55239",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003594/poster/lg/1/movie&uuid=867418E1-0D77-4A0C-9976-39B2FFD5FBD3"
   },
   "teenage-sex-and-death-at-camp-miasma-52613": {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -334,16 +364,25 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
-  "michael-40576": {
-    "title": "Michael",
-    "slug": "michael-40576",
-    "releaseAt": "2026-04-23",
+  "histoires-paralleles-55089": {
+    "title": "Histoires parall\u00e8les",
+    "slug": "histoires-paralleles-55089",
+    "releaseAt": "2026-09-03",
     "genres": [
-      "Biopic",
-      "Drama",
-      "Music"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001997/poster/lg/4/movie&uuid=A6E79912-4847-4E59-8FD4-54ED8B75D283"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003578/poster/lg/1/movie&uuid=7F05B512-BE1F-4228-A826-9EBF6FE5A426"
+  },
+  "toxic-a-fairy-tale-for-grown-ups-55144": {
+    "title": "Toxic: A Fairy Tale For Grown-ups",
+    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
+    "releaseAt": "2026-08-26",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
   },
   "toy-story-5-ov-48098": {
     "title": "Toy Story 5 (OV)",
@@ -365,56 +404,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003603/poster/lg/1/movie&uuid=F6708690-81DF-4BC0-8F1B-BB13B3CA34C8"
   },
-  "histoires-paralleles-55089": {
-    "title": "Histoires parall\u00e8les",
-    "slug": "histoires-paralleles-55089",
-    "releaseAt": "2026-09-03",
+  "michael-40576": {
+    "title": "Michael",
+    "slug": "michael-40576",
+    "releaseAt": "2026-04-23",
     "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003578/poster/lg/1/movie&uuid=7F05B512-BE1F-4228-A826-9EBF6FE5A426"
-  },
-  "terminator-2-judgment-day-35th-anniversary-54865": {
-    "title": "Terminator 2: Judgment Day (35th Anniversary)",
-    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
+      "Biopic",
       "Drama",
-      "Science Fiction"
+      "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
-  },
-  "the-magic-faraway-tree-54459": {
-    "title": "The Magic Faraway Tree",
-    "slug": "the-magic-faraway-tree-54459",
-    "releaseAt": "2026-08-19",
-    "genres": [
-      "Adventure",
-      "Family film",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003460/poster/lg/1/movie&uuid=2D60379C-FEE6-4C78-B36C-F224598F406F"
-  },
-  "vaiana-2026-nederlands-gesproken-53119": {
-    "title": "Vaiana (2026) (Nederlands gesproken)",
-    "slug": "vaiana-2026-nederlands-gesproken-53119",
-    "releaseAt": "2026-07-08",
-    "genres": [
-      "Adventure",
-      "Kids film",
-      "Musical"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003056/poster/lg/2/movie&uuid=2D79ADA4-2478-4DE8-ADB2-EAE2560EE23A"
-  },
-  "de-film-van-rutger-thomas-paco-2-51371": {
-    "title": "De Film van Rutger, Thomas & Paco 2",
-    "slug": "de-film-van-rutger-thomas-paco-2-51371",
-    "releaseAt": "2026-06-03",
-    "genres": [
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003260/poster/lg/2/movie&uuid=4351A738-E364-4290-BEBF-82A469532502"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001997/poster/lg/4/movie&uuid=A6E79912-4847-4E59-8FD4-54ED8B75D283"
   },
   "minions-monsters-ov-51619": {
     "title": "Minions & Monsters (OV)",
@@ -445,16 +444,27 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003166/poster/lg/1/movie&uuid=ABF1F329-2A3D-4513-8340-A5B26466810A"
   },
-  "toxic-a-fairy-tale-for-grown-ups-55144": {
-    "title": "Toxic: A Fairy Tale For Grown-ups",
-    "slug": "toxic-a-fairy-tale-for-grown-ups-55144",
-    "releaseAt": "2026-08-26",
+  "terminator-2-judgment-day-35th-anniversary-54865": {
+    "title": "Terminator 2: Judgment Day (35th Anniversary)",
+    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
+    "releaseAt": "2026-09-03",
     "genres": [
       "Action",
-      "Crime",
-      "Drama"
+      "Drama",
+      "Science Fiction"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003585/poster/lg/1/movie&uuid=A2E763D4-469D-431E-AA8F-B0FE216BA718"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
+  },
+  "the-magic-faraway-tree-54459": {
+    "title": "The Magic Faraway Tree",
+    "slug": "the-magic-faraway-tree-54459",
+    "releaseAt": "2026-08-19",
+    "genres": [
+      "Adventure",
+      "Family film",
+      "Fantasy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003460/poster/lg/1/movie&uuid=2D60379C-FEE6-4C78-B36C-F224598F406F"
   },
   "zondag-de-negenste-54674": {
     "title": "Zondag de negenste",
@@ -629,7 +639,7 @@
       "Crime",
       "Drama"
     ],
-    "posterUrl": null
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003654/poster/lg/1/movie&uuid=F1199230-0EF4-41B3-AF97-91904FCC0D5C"
   },
   "de-gaulle-liberte-55145": {
     "title": "De Gaulle: Libert\u00e9",
@@ -820,15 +830,6 @@
       "Biopic"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003598/poster/lg/1/movie&uuid=71274EE8-55B4-4476-8BDA-E570026681A9"
-  },
-  "l-evenement-41422": {
-    "title": "L'evenement",
-    "slug": "l-evenement-41422",
-    "releaseAt": "2022-04-21",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": null
   },
   "linkin-park-unshatter-55010": {
     "title": "LINKIN PARK: UNSHATTER",
@@ -1046,10 +1047,10 @@
     "slug": "red-flag-55464",
     "releaseAt": "2026-09-18",
     "genres": [
-      "Arabic film",
-      "Comedy"
+      "Comedy",
+      "Romance"
     ],
-    "posterUrl": null
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003655/poster/lg/1/movie&uuid=6BF2A378-5ECF-42F5-9994-582E54A1FD3B"
   },
   "resident-evil-49600": {
     "title": "Resident Evil",
