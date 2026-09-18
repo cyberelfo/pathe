@@ -41,15 +41,24 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "simon-44088": {
-    "title": "Simon",
-    "slug": "simon-44088",
-    "releaseAt": "2004-09-30",
+  "heart-of-the-beast-52871": {
+    "title": "Heart of the Beast",
+    "slug": "heart-of-the-beast-52871",
+    "releaseAt": "2026-09-24",
     "genres": [
-      "Comedy",
+      "Adventure",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002437/poster/lg/4/movie&uuid=2FEE798F-2859-4EC0-9559-B0D9FE0D2393"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
+  },
+  "akira-4k-restoration-52063": {
+    "title": "Akira (4K Restoration)",
+    "slug": "akira-4k-restoration-52063",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Action"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
   },
   "daayra-55463": {
     "title": "Daayra",
@@ -61,24 +70,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003654/poster/lg/1/movie&uuid=F1199230-0EF4-41B3-AF97-91904FCC0D5C"
   },
-  "akira-4k-restoration-52063": {
-    "title": "Akira (4K Restoration)",
-    "slug": "akira-4k-restoration-52063",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Action"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
-  },
-  "heart-of-the-beast-52871": {
-    "title": "Heart of the Beast",
-    "slug": "heart-of-the-beast-52871",
-    "releaseAt": "2026-09-24",
+  "arrietty-4k-restoration-55138": {
+    "title": "Arrietty (4K Restoration)",
+    "slug": "arrietty-4k-restoration-55138",
+    "releaseAt": "2026-09-17",
     "genres": [
       "Adventure",
-      "Drama"
+      "Animation"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003583/poster/lg/1/movie&uuid=B83372D2-994C-4F33-B50D-40B73BDB11C3"
   },
   "singin-in-the-rain-54943": {
     "title": "Singin' in the Rain",
@@ -91,16 +91,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
   },
-  "arrietty-4k-restoration-55138": {
-    "title": "Arrietty (4K Restoration)",
-    "slug": "arrietty-4k-restoration-55138",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Adventure",
-      "Animation"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003583/poster/lg/1/movie&uuid=B83372D2-994C-4F33-B50D-40B73BDB11C3"
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -110,6 +100,15 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
   "whisper-of-the-heart-4k-restoration-55139": {
     "title": "Whisper of the Heart (4K Restoration)",
@@ -121,24 +120,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
   },
-  "copeland-54472": {
-    "title": "Copeland",
-    "slug": "copeland-54472",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003473/poster/lg/1/movie&uuid=9399A73B-B0A5-4941-8EE1-33BBFE5435D2"
-  },
-  "de-gaulle-resistance-54456": {
-    "title": "De Gaulle: R\u00e9sistance",
-    "slug": "de-gaulle-resistance-54456",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
-  },
   "el-sett-54473": {
     "title": "El Sett",
     "slug": "el-sett-54473",
@@ -147,6 +128,15 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003474/poster/lg/1/movie&uuid=A44C03B1-EAD9-4F38-9191-6BBEA284E5AF"
+  },
+  "kreator-hate-hope-54475": {
+    "title": "Kreator - Hate & Hope",
+    "slug": "kreator-hate-hope-54475",
+    "releaseAt": "2026-09-19",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003476/poster/lg/1/movie&uuid=4C6DC9FD-3ED7-4283-B8DC-FA9CC8566E4D"
   },
   "kuzma-55313": {
     "title": "Kuzma",
@@ -157,14 +147,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003598/poster/lg/1/movie&uuid=71274EE8-55B4-4476-8BDA-E570026681A9"
   },
-  "mff-aurora-live-in-mexico-55092": {
-    "title": "MFF: Aurora - Live In Mexico",
-    "slug": "mff-aurora-live-in-mexico-55092",
-    "releaseAt": "2026-09-18",
+  "lo-sound-desert-54474": {
+    "title": "Lo Sound Desert",
+    "slug": "lo-sound-desert-54474",
+    "releaseAt": "2026-09-17",
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003579/poster/lg/1/movie&uuid=04C981A5-9E94-4962-AD30-BA9434473E83"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003475/poster/lg/1/movie&uuid=4CFCA92F-C328-4D2F-BD80-03C469856E3A"
   },
   "mirzapur-the-movie-55221": {
     "title": "Mirzapur: The Movie",
@@ -486,15 +476,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
   },
-  "kreator-hate-hope-54475": {
-    "title": "Kreator - Hate & Hope",
-    "slug": "kreator-hate-hope-54475",
-    "releaseAt": "2026-09-19",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003476/poster/lg/1/movie&uuid=4C6DC9FD-3ED7-4283-B8DC-FA9CC8566E4D"
-  },
   "linkin-park-unshatter-55010": {
     "title": "LINKIN PARK: UNSHATTER",
     "slug": "linkin-park-unshatter-55010",
@@ -504,15 +485,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003562/poster/lg/1/movie&uuid=44416EC4-9FFC-4A0F-A371-04E6D00CDF49"
   },
-  "lo-sound-desert-54474": {
-    "title": "Lo Sound Desert",
-    "slug": "lo-sound-desert-54474",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003475/poster/lg/1/movie&uuid=4CFCA92F-C328-4D2F-BD80-03C469856E3A"
-  },
   "maximapark-49920": {
     "title": "Maximapark",
     "slug": "maximapark-49920",
@@ -521,6 +493,15 @@
       "Documentary"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003074/poster/lg/7/movie&uuid=1D940B9E-2466-429C-ADD1-068404536494"
+  },
+  "meatball-haagse-beeldrevolutie-55569": {
+    "title": "Meatball, Haagse beeldrevolutie",
+    "slug": "meatball-haagse-beeldrevolutie-55569",
+    "releaseAt": "2026-11-06",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": null
   },
   "met-opera-2026-27-cosi-fan-tutte-52695": {
     "title": "Met Opera 2026-27: Cos\u00ec fan tutte",
