@@ -9,27 +9,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003036/poster/lg/2/movie&uuid=B8DF513F-CE5E-40F3-A441-BED27D7C3DF8"
   },
-  "hallowiebe-overdrive-51322": {
-    "title": "HalloWiebe: Overdrive",
-    "slug": "hallowiebe-overdrive-51322",
-    "releaseAt": "2026-09-23",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Family film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
-  },
-  "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
-    "title": "Shaun het Schaap: Het Beest van de Boerderij",
-    "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
-    "releaseAt": "2026-10-07",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
-  },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
     "slug": "bumba-het-circusorkest-54613",
@@ -60,6 +39,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
   },
+  "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
+    "title": "Shaun het Schaap: Het Beest van de Boerderij",
+    "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
+    "releaseAt": "2026-10-07",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
+  },
+  "whisper-of-the-heart-4k-restoration-55139": {
+    "title": "Whisper of the Heart (4K Restoration)",
+    "slug": "whisper-of-the-heart-4k-restoration-55139",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Animation",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
+  },
   "daayra-55463": {
     "title": "Daayra",
     "slug": "daayra-55463",
@@ -80,17 +79,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003583/poster/lg/1/movie&uuid=B83372D2-994C-4F33-B50D-40B73BDB11C3"
   },
-  "singin-in-the-rain-54943": {
-    "title": "Singin' in the Rain",
-    "slug": "singin-in-the-rain-54943",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
-  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -101,6 +89,46 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
+  "haiwaan-55324": {
+    "title": "Haiwaan",
+    "slug": "haiwaan-55324",
+    "releaseAt": "2026-09-11",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003603/poster/lg/1/movie&uuid=F6708690-81DF-4BC0-8F1B-BB13B3CA34C8"
+  },
+  "hallowiebe-overdrive-51322": {
+    "title": "HalloWiebe: Overdrive",
+    "slug": "hallowiebe-overdrive-51322",
+    "releaseAt": "2026-09-23",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
+  },
+  "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164": {
+    "title": "NCT 127 5TH TOUR \u2018NEO CITY : SEOUL - THE REDLINE\u2019 in CINEMAS",
+    "slug": "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164",
+    "releaseAt": "2026-09-20",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003589/poster/lg/1/movie&uuid=3BB28398-BFA6-44D6-AFAE-7BED4FB54D9C"
+  },
+  "500-miles-54539": {
+    "title": "500 Miles",
+    "slug": "500-miles-54539",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003487/poster/lg/1/movie&uuid=D7491CCD-041B-4ED9-91F5-5F2897853E23"
+  },
   "de-gaulle-resistance-54456": {
     "title": "De Gaulle: R\u00e9sistance",
     "slug": "de-gaulle-resistance-54456",
@@ -110,61 +138,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
-  "whisper-of-the-heart-4k-restoration-55139": {
-    "title": "Whisper of the Heart (4K Restoration)",
-    "slug": "whisper-of-the-heart-4k-restoration-55139",
-    "releaseAt": "2026-09-17",
+  "queen-at-sea-55001": {
+    "title": "Queen at Sea",
+    "slug": "queen-at-sea-55001",
+    "releaseAt": "2026-11-12",
     "genres": [
-      "Animation",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
-  },
-  "el-sett-54473": {
-    "title": "El Sett",
-    "slug": "el-sett-54473",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003474/poster/lg/1/movie&uuid=A44C03B1-EAD9-4F38-9191-6BBEA284E5AF"
-  },
-  "kreator-hate-hope-54475": {
-    "title": "Kreator - Hate & Hope",
-    "slug": "kreator-hate-hope-54475",
-    "releaseAt": "2026-09-19",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003476/poster/lg/1/movie&uuid=4C6DC9FD-3ED7-4283-B8DC-FA9CC8566E4D"
-  },
-  "kuzma-55313": {
-    "title": "Kuzma",
-    "slug": "kuzma-55313",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Biopic"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003598/poster/lg/1/movie&uuid=71274EE8-55B4-4476-8BDA-E570026681A9"
-  },
-  "lo-sound-desert-54474": {
-    "title": "Lo Sound Desert",
-    "slug": "lo-sound-desert-54474",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003475/poster/lg/1/movie&uuid=4CFCA92F-C328-4D2F-BD80-03C469856E3A"
-  },
-  "mirzapur-the-movie-55221": {
-    "title": "Mirzapur: The Movie",
-    "slug": "mirzapur-the-movie-55221",
-    "releaseAt": "2026-09-04",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003590/poster/lg/1/movie&uuid=C7D65605-B6EB-4F7B-A231-67D9F96EF2E3"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003557/poster/lg/1/movie&uuid=F978E4E8-E22E-4438-AC21-7F3DEC44B5A0"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -175,15 +156,6 @@
       "Dutch"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003572/poster/lg/1/movie&uuid=BE22BA0A-DE2C-43A3-B8B1-C1A5F291A705"
-  },
-  "500-miles-54539": {
-    "title": "500 Miles",
-    "slug": "500-miles-54539",
-    "releaseAt": "2026-09-24",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003487/poster/lg/1/movie&uuid=D7491CCD-041B-4ED9-91F5-5F2897853E23"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
@@ -349,6 +321,15 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/16/movie&uuid=1AC56ACB-B697-4080-8D90-964C3D04AAFD"
   },
+  "downtown-51373": {
+    "title": "Downtown",
+    "slug": "downtown-51373",
+    "releaseAt": "2026-10-01",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003262/poster/lg/1/movie&uuid=E4220DDF-8B82-4E7E-B112-9860777DA0CE"
+  },
   "dune-part-three-49620": {
     "title": "Dune: Part Three",
     "slug": "dune-part-three-49620",
@@ -407,15 +388,6 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003513/poster/lg/1/movie&uuid=112B6596-1C75-4B0F-959D-13A70C351682"
   },
-  "golden-earring-live-54476": {
-    "title": "Golden Earring Live",
-    "slug": "golden-earring-live-54476",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003477/poster/lg/1/movie&uuid=DEBC5043-8F4E-448A-81F6-52CC8A893EA5"
-  },
   "hacksaw-ridge-43979": {
     "title": "Hacksaw Ridge",
     "slug": "hacksaw-ridge-43979",
@@ -426,17 +398,6 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002305/poster/lg/4/movie&uuid=7DCBD99D-F1AD-4421-8C57-35403B3B548D"
-  },
-  "haiwaan-55324": {
-    "title": "Haiwaan",
-    "slug": "haiwaan-55324",
-    "releaseAt": "2026-09-11",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003603/poster/lg/1/movie&uuid=F6708690-81DF-4BC0-8F1B-BB13B3CA34C8"
   },
   "halloween-49861": {
     "title": "Halloween",
@@ -518,15 +479,6 @@
       "To be announced"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
-  },
-  "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164": {
-    "title": "NCT 127 5TH TOUR \u2018NEO CITY : SEOUL - THE REDLINE\u2019 in CINEMAS",
-    "slug": "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164",
-    "releaseAt": "2026-09-20",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003589/poster/lg/1/movie&uuid=3BB28398-BFA6-44D6-AFAE-7BED4FB54D9C"
   },
   "nt-live-2026-fleabag-54772": {
     "title": "NT Live 2026 \u2013 Fleabag",
@@ -632,15 +584,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003354/poster/lg/1/movie&uuid=805E1F40-11B5-4943-AE69-E18644B235A3"
   },
-  "queen-at-sea-55001": {
-    "title": "Queen at Sea",
-    "slug": "queen-at-sea-55001",
-    "releaseAt": "2026-11-12",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003557/poster/lg/1/movie&uuid=F978E4E8-E22E-4438-AC21-7F3DEC44B5A0"
-  },
   "queen-budapest-54941": {
     "title": "Queen Budapest",
     "slug": "queen-budapest-54941",
@@ -650,16 +593,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/1/movie&uuid=FBD317D5-F286-491B-9FC6-6060B426B0AE"
   },
-  "sing-54990": {
-    "title": "Sing",
-    "slug": "sing-54990",
-    "releaseAt": "2026-09-20",
+  "singin-in-the-rain-54943": {
+    "title": "Singin' in the Rain",
+    "slug": "singin-in-the-rain-54943",
+    "releaseAt": "2026-09-17",
     "genres": [
-      "Animation",
-      "Family film",
+      "Comedy",
+      "Musical",
       "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003556/poster/lg/1/movie&uuid=3ACCAF5D-CE63-433D-844B-6D17E91D4331"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
   },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
