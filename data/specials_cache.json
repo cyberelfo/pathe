@@ -20,15 +20,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "heart-of-the-beast-52871": {
-    "title": "Heart of the Beast",
-    "slug": "heart-of-the-beast-52871",
-    "releaseAt": "2026-09-24",
+  "queen-at-sea-55001": {
+    "title": "Queen at Sea",
+    "slug": "queen-at-sea-55001",
+    "releaseAt": "2026-11-12",
     "genres": [
-      "Adventure",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003557/poster/lg/1/movie&uuid=F978E4E8-E22E-4438-AC21-7F3DEC44B5A0"
   },
   "akira-4k-restoration-52063": {
     "title": "Akira (4K Restoration)",
@@ -38,26 +37,6 @@
       "Action"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
-  },
-  "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
-    "title": "Shaun het Schaap: Het Beest van de Boerderij",
-    "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
-    "releaseAt": "2026-10-07",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
-  },
-  "whisper-of-the-heart-4k-restoration-55139": {
-    "title": "Whisper of the Heart (4K Restoration)",
-    "slug": "whisper-of-the-heart-4k-restoration-55139",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Animation",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
   },
   "daayra-55463": {
     "title": "Daayra",
@@ -69,15 +48,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003654/poster/lg/1/movie&uuid=F1199230-0EF4-41B3-AF97-91904FCC0D5C"
   },
-  "arrietty-4k-restoration-55138": {
-    "title": "Arrietty (4K Restoration)",
-    "slug": "arrietty-4k-restoration-55138",
-    "releaseAt": "2026-09-17",
+  "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
+    "title": "Shaun het Schaap: Het Beest van de Boerderij",
+    "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
+    "releaseAt": "2026-10-07",
     "genres": [
-      "Adventure",
-      "Animation"
+      "Animation",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003583/poster/lg/1/movie&uuid=B83372D2-994C-4F33-B50D-40B73BDB11C3"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
@@ -89,16 +68,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
-  "haiwaan-55324": {
-    "title": "Haiwaan",
-    "slug": "haiwaan-55324",
-    "releaseAt": "2026-09-11",
+  "singin-in-the-rain-54943": {
+    "title": "Singin' in the Rain",
+    "slug": "singin-in-the-rain-54943",
+    "releaseAt": "2026-09-17",
     "genres": [
-      "Action",
-      "Crime",
-      "Drama"
+      "Comedy",
+      "Musical",
+      "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003603/poster/lg/1/movie&uuid=F6708690-81DF-4BC0-8F1B-BB13B3CA34C8"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
   },
   "hallowiebe-overdrive-51322": {
     "title": "HalloWiebe: Overdrive",
@@ -111,41 +90,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
   },
-  "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164": {
-    "title": "NCT 127 5TH TOUR \u2018NEO CITY : SEOUL - THE REDLINE\u2019 in CINEMAS",
-    "slug": "nct-127-5th-tour-neo-city-seoul-the-redline-in-cinemas-55164",
-    "releaseAt": "2026-09-20",
+  "arrietty-4k-restoration-55138": {
+    "title": "Arrietty (4K Restoration)",
+    "slug": "arrietty-4k-restoration-55138",
+    "releaseAt": "2026-09-17",
     "genres": [
-      "Music"
+      "Adventure",
+      "Animation"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003589/poster/lg/1/movie&uuid=3BB28398-BFA6-44D6-AFAE-7BED4FB54D9C"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003583/poster/lg/1/movie&uuid=B83372D2-994C-4F33-B50D-40B73BDB11C3"
   },
-  "500-miles-54539": {
-    "title": "500 Miles",
-    "slug": "500-miles-54539",
-    "releaseAt": "2026-09-24",
+  "haiwaan-55324": {
+    "title": "Haiwaan",
+    "slug": "haiwaan-55324",
+    "releaseAt": "2026-09-11",
     "genres": [
+      "Action",
+      "Crime",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003487/poster/lg/1/movie&uuid=D7491CCD-041B-4ED9-91F5-5F2897853E23"
-  },
-  "de-gaulle-resistance-54456": {
-    "title": "De Gaulle: R\u00e9sistance",
-    "slug": "de-gaulle-resistance-54456",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
-  },
-  "queen-at-sea-55001": {
-    "title": "Queen at Sea",
-    "slug": "queen-at-sea-55001",
-    "releaseAt": "2026-11-12",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003557/poster/lg/1/movie&uuid=F978E4E8-E22E-4438-AC21-7F3DEC44B5A0"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003603/poster/lg/1/movie&uuid=F6708690-81DF-4BC0-8F1B-BB13B3CA34C8"
   },
   "130-jaar-film-in-den-haag-koninklijke-filmsterren-55056": {
     "title": "130 jaar film in Den Haag: Koninklijke Filmsterren",
@@ -156,6 +120,34 @@
       "Dutch"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003572/poster/lg/1/movie&uuid=BE22BA0A-DE2C-43A3-B8B1-C1A5F291A705"
+  },
+  "de-gaulle-resistance-54456": {
+    "title": "De Gaulle: R\u00e9sistance",
+    "slug": "de-gaulle-resistance-54456",
+    "releaseAt": "2026-08-06",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
+  },
+  "the-cycle-of-love-54875": {
+    "title": "The Cycle of Love",
+    "slug": "the-cycle-of-love-54875",
+    "releaseAt": "2026-10-01",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003537/poster/lg/3/movie&uuid=61D5E558-D933-4A35-BFBF-0DFED05A94A2"
+  },
+  "whisper-of-the-heart-4k-restoration-55139": {
+    "title": "Whisper of the Heart (4K Restoration)",
+    "slug": "whisper-of-the-heart-4k-restoration-55139",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Animation",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003584/poster/lg/1/movie&uuid=F61C0B64-501F-40A6-A4B5-BDFA7722578E"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
@@ -409,6 +401,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003070/poster/lg/2/movie&uuid=AFC9DAB3-64B6-4D96-8784-00D70944FBF9"
   },
+  "heart-of-the-beast-52871": {
+    "title": "Heart of the Beast",
+    "slug": "heart-of-the-beast-52871",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
+  },
   "het-vergeten-eiland-nederlandse-versie-52138": {
     "title": "Het Vergeten Eiland (Nederlandse versie)",
     "slug": "het-vergeten-eiland-nederlandse-versie-52138",
@@ -462,7 +464,7 @@
     "genres": [
       "Documentary"
     ],
-    "posterUrl": null
+    "posterUrl": "https://media.pathe.nl/movie/id/55569/backdrop/277729/lg/1/meatball.jpg"
   },
   "met-opera-2026-27-cosi-fan-tutte-52695": {
     "title": "Met Opera 2026-27: Cos\u00ec fan tutte",
@@ -593,17 +595,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/1/movie&uuid=FBD317D5-F286-491B-9FC6-6060B426B0AE"
   },
-  "singin-in-the-rain-54943": {
-    "title": "Singin' in the Rain",
-    "slug": "singin-in-the-rain-54943",
-    "releaseAt": "2026-09-17",
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
-  },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
     "slug": "sound-sessions-olivia-dean-the-art-of-loving-53424",
@@ -660,15 +651,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003608/poster/lg/1/movie&uuid=08D5DAFD-730E-432D-BEEF-3445D327D0D9"
   },
-  "the-cycle-of-love-54875": {
-    "title": "The Cycle of Love",
-    "slug": "the-cycle-of-love-54875",
-    "releaseAt": "2026-10-01",
-    "genres": [
-      "Documentary"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003537/poster/lg/3/movie&uuid=61D5E558-D933-4A35-BFBF-0DFED05A94A2"
-  },
   "the-elo-encounter-face-the-music-50869": {
     "title": "The Elo Encounter - Face the Music",
     "slug": "the-elo-encounter-face-the-music-50869",
@@ -704,6 +686,17 @@
     "releaseAt": "2027-01-16",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003389/poster/lg/1/movie&uuid=EA8CA0CD-533C-4AE5-9156-693A19FD4D41"
+  },
+  "the-paradise-55565": {
+    "title": "The Paradise",
+    "slug": "the-paradise-55565",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003665/poster/lg/1/movie&uuid=106911AC-D56B-452B-96C1-A2CDF403FEAD"
   },
   "the-shining-45th-anniversary-41147": {
     "title": "The Shining (45th Anniversary)",
