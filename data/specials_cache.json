@@ -40,15 +40,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003548/poster/lg/1/movie&uuid=BD43A5B3-FD46-4B94-BB82-2093A6B6DBBB"
   },
-  "akira-4k-restoration-52063": {
-    "title": "Akira (4K Restoration)",
-    "slug": "akira-4k-restoration-52063",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Action"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
-  },
   "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
     "title": "Shaun het Schaap: Het Beest van de Boerderij",
     "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
@@ -59,15 +50,24 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
   },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
+  "akira-4k-restoration-52063": {
+    "title": "Akira (4K Restoration)",
+    "slug": "akira-4k-restoration-52063",
+    "releaseAt": "2026-09-10",
     "genres": [
-      "Animation",
-      "Kids film"
+      "Action"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
+  },
+  "heart-of-the-beast-52871": {
+    "title": "Heart of the Beast",
+    "slug": "heart-of-the-beast-52871",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
   },
   "daayra-55463": {
     "title": "Daayra",
@@ -90,14 +90,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
   },
-  "queen-at-sea-55001": {
-    "title": "Queen at Sea",
-    "slug": "queen-at-sea-55001",
-    "releaseAt": "2026-11-12",
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
     "genres": [
-      "Drama"
+      "Animation",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003557/poster/lg/1/movie&uuid=F978E4E8-E22E-4438-AC21-7F3DEC44B5A0"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
   "whisper-of-the-heart-4k-restoration-55139": {
     "title": "Whisper of the Heart (4K Restoration)",
@@ -138,6 +139,35 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003603/poster/lg/1/movie&uuid=F6708690-81DF-4BC0-8F1B-BB13B3CA34C8"
+  },
+  "queen-at-sea-55001": {
+    "title": "Queen at Sea",
+    "slug": "queen-at-sea-55001",
+    "releaseAt": "2026-11-12",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003557/poster/lg/1/movie&uuid=F978E4E8-E22E-4438-AC21-7F3DEC44B5A0"
+  },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
+  },
+  "terminator-2-judgment-day-35th-anniversary-54865": {
+    "title": "Terminator 2: Judgment Day (35th Anniversary)",
+    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
@@ -421,16 +451,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003666/poster/lg/1/movie&uuid=8D8049F7-4119-4B24-9D8A-DCE861052085"
   },
-  "heart-of-the-beast-52871": {
-    "title": "Heart of the Beast",
-    "slug": "heart-of-the-beast-52871",
-    "releaseAt": "2026-09-24",
-    "genres": [
-      "Adventure",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
-  },
   "het-vergeten-eiland-nederlandse-versie-52138": {
     "title": "Het Vergeten Eiland (Nederlandse versie)",
     "slug": "het-vergeten-eiland-nederlandse-versie-52138",
@@ -661,17 +681,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003505/poster/lg/1/movie&uuid=8E784C52-17FE-4D58-8A07-70386015C68C"
-  },
-  "terminator-2-judgment-day-35th-anniversary-54865": {
-    "title": "Terminator 2: Judgment Day (35th Anniversary)",
-    "slug": "terminator-2-judgment-day-35th-anniversary-54865",
-    "releaseAt": "2026-09-03",
-    "genres": [
-      "Action",
-      "Drama",
-      "Science Fiction"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003536/poster/lg/2/movie&uuid=BBD7DD06-A52C-426F-8F0A-CAAB0C2D3A53"
   },
   "the-animals-friends-last-farewell-tour-2027-52622": {
     "title": "The Animals & Friends: Last Farewell Tour 2027",
