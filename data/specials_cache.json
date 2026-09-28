@@ -1,4 +1,33 @@
 {
+  "resident-evil-49600": {
+    "title": "Resident Evil",
+    "slug": "resident-evil-49600",
+    "releaseAt": "2026-09-17",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003036/poster/lg/2/movie&uuid=B8DF513F-CE5E-40F3-A441-BED27D7C3DF8"
+  },
+  "heart-of-the-beast-52871": {
+    "title": "Heart of the Beast",
+    "slug": "heart-of-the-beast-52871",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/3/movie&uuid=41778A49-34F2-432A-A18E-7CEFD3530120"
+  },
+  "mystery-classic-47098": {
+    "title": "Mystery Classic",
+    "slug": "mystery-classic-47098",
+    "releaseAt": "2025-09-30",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
+  },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
     "slug": "bumba-het-circusorkest-54613",
@@ -9,6 +38,17 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
+  },
+  "forgotten-island-originele-versie-50684": {
+    "title": "Forgotten Island (Originele Versie)",
+    "slug": "forgotten-island-originele-versie-50684",
+    "releaseAt": "2026-10-01",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003169/poster/lg/6/movie&uuid=16C255F1-AD07-4351-966C-0EF61B5810F9"
   },
   "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
     "title": "Shaun het Schaap: Het Beest van de Boerderij",
@@ -29,17 +69,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
   },
-  "forgotten-island-originele-versie-50684": {
-    "title": "Forgotten Island (Originele Versie)",
-    "slug": "forgotten-island-originele-versie-50684",
-    "releaseAt": "2026-10-01",
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Family film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003169/poster/lg/5/movie&uuid=1CA34CAA-56B3-4EE0-9025-3E9A59B690E4"
-  },
   "hallowiebe-overdrive-51322": {
     "title": "HalloWiebe: Overdrive",
     "slug": "hallowiebe-overdrive-51322",
@@ -51,26 +80,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
   },
-  "cabaret-1972-54955": {
-    "title": "Cabaret (1972)",
-    "slug": "cabaret-1972-54955",
-    "releaseAt": "2026-09-24",
-    "genres": [
-      "Drama",
-      "Musical"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003550/poster/lg/1/movie&uuid=5297D979-BA33-4189-84D4-A940EF7C3614"
-  },
-  "bohemian-rhapsody-41483": {
-    "title": "Bohemian Rhapsody",
-    "slug": "bohemian-rhapsody-41483",
-    "releaseAt": "2026-08-24",
-    "genres": [
-      "Drama",
-      "Musical"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001142/poster/lg/1/movie&uuid=CFFAD90D-2BAE-4BA9-940D-D58C2BFA0732"
-  },
   "het-vergeten-eiland-nederlandse-versie-52138": {
     "title": "Het Vergeten Eiland (Nederlandse versie)",
     "slug": "het-vergeten-eiland-nederlandse-versie-52138",
@@ -80,15 +89,6 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
-  },
-  "akira-4k-restoration-52063": {
-    "title": "Akira (4K Restoration)",
-    "slug": "akira-4k-restoration-52063",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Action"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
   },
   "arrietty-4k-restoration-55138": {
     "title": "Arrietty (4K Restoration)",
@@ -110,6 +110,35 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003665/poster/lg/1/movie&uuid=106911AC-D56B-452B-96C1-A2CDF403FEAD"
+  },
+  "akira-4k-restoration-52063": {
+    "title": "Akira (4K Restoration)",
+    "slug": "akira-4k-restoration-52063",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Action"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003348/poster/lg/2/movie&uuid=0F483EDB-391F-4AE4-80D9-16D91F147F00"
+  },
+  "cabaret-1972-54955": {
+    "title": "Cabaret (1972)",
+    "slug": "cabaret-1972-54955",
+    "releaseAt": "2026-09-24",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003550/poster/lg/1/movie&uuid=5297D979-BA33-4189-84D4-A940EF7C3614"
+  },
+  "bohemian-rhapsody-41483": {
+    "title": "Bohemian Rhapsody",
+    "slug": "bohemian-rhapsody-41483",
+    "releaseAt": "2026-08-24",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001142/poster/lg/1/movie&uuid=CFFAD90D-2BAE-4BA9-940D-D58C2BFA0732"
   },
   "daayra-55463": {
     "title": "Daayra",
@@ -200,7 +229,7 @@
     "slug": "ballet-swan-lake-41949",
     "releaseAt": "2026-12-13",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000492/poster/lg/3/movie&uuid=C2CFD7D4-F30E-4A1F-BB62-1550387C7163"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000492/poster/lg/4/movie&uuid=A7DA381A-6223-4BCB-A91C-C3C36A9EC01A"
   },
   "beatlestory-2027-the-fabulous-tribute-show-52621": {
     "title": "BeatleStory 2027 - The Fabulous Tribute Show",
@@ -238,7 +267,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/18/movie&uuid=46611202-BDA9-42B6-8703-619D66204A2E"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003195/poster/lg/19/movie&uuid=7DF70562-339B-4170-A0F3-17FB54D2E48D"
   },
   "coco-nl-41432": {
     "title": "Coco (NL)",
@@ -267,7 +296,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003199/poster/lg/4/movie&uuid=FBABD7C4-A309-43CE-9ACA-8E85F5894855"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003199/poster/lg/5/movie&uuid=ADD78BBE-D63A-44D4-AFDF-597BC2E4DA61"
   },
   "colony-55609": {
     "title": "Colony",
@@ -303,7 +332,7 @@
     "slug": "de-k3-tributeband-alle-kleuren-51608",
     "releaseAt": "2026-12-12",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/17/movie&uuid=9E2278B7-ED69-4683-9E32-E39883B02170"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/18/movie&uuid=020897A8-4199-4BD6-9453-2260C612A3C8"
   },
   "de-tatta-s-daan-55268": {
     "title": "De Tatta's: Daan",
@@ -431,6 +460,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
   },
+  "kuzma-55313": {
+    "title": "Kuzma",
+    "slug": "kuzma-55313",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Biopic"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003598/poster/lg/1/movie&uuid=71274EE8-55B4-4476-8BDA-E570026681A9"
+  },
   "linkin-park-unshatter-55010": {
     "title": "LINKIN PARK: UNSHATTER",
     "slug": "linkin-park-unshatter-55010",
@@ -465,14 +503,16 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003409/poster/lg/2/movie&uuid=54E9F684-364D-4A4F-AC5E-0DBA8E61F197"
   },
-  "mystery-classic-47098": {
-    "title": "Mystery Classic",
-    "slug": "mystery-classic-47098",
-    "releaseAt": "2025-09-30",
+  "monster-mia-52627": {
+    "title": "Monster Mia",
+    "slug": "monster-mia-52627",
+    "releaseAt": "2026-10-07",
     "genres": [
-      "To be announced"
+      "Animation",
+      "Fantasy",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002622/poster/lg/53/movie&uuid=38882D0A-4DDB-48DE-B153-D2A69C2C2582"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003398/poster/lg/1/movie&uuid=86586FB6-4CCE-4970-BB53-A11809846D7D"
   },
   "nt-live-2026-fleabag-54772": {
     "title": "NT Live 2026 \u2013 Fleabag",
@@ -518,7 +558,7 @@
     "slug": "opera-macbeth-52696",
     "releaseAt": "2026-10-17",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/12/movie&uuid=E2711B9B-8C8E-4559-9FAD-F7F7F5AD908E"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/13/movie&uuid=E8E2B5E2-959A-4B28-9485-F3388BC2829F"
   },
   "opera-manon-52700": {
     "title": "Opera: Manon",
@@ -546,7 +586,7 @@
     "slug": "opera-samson-et-dalila-52697",
     "releaseAt": "2026-12-03",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003411/poster/lg/5/movie&uuid=EFDB7B0A-59DB-4616-A4E4-ACFF70E3CB0A"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003411/poster/lg/6/movie&uuid=FB2E56CF-DB44-45FB-8F72-D41244D33F00"
   },
   "opera-silent-night-52699": {
     "title": "Opera: Silent Night",
@@ -569,7 +609,7 @@
     "genres": [
       "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003048/poster/lg/1/movie&uuid=5627D2F0-136A-4409-9419-928CD685C889"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003048/poster/lg/2/movie&uuid=D9DE6C75-2BB2-491B-9FE9-F7C15CD38FFE"
   },
   "ozzy-black-sabbath-back-to-the-beginning-55544": {
     "title": "Ozzy & Black Sabbath: Back to the Beginning",
@@ -688,7 +728,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/12/movie&uuid=3058BAB1-9B31-419C-AFAA-F83D76D3B83A"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/13/movie&uuid=2C2EB4E7-3A95-4159-A594-EC80557F3C35"
   },
   "the-exorcist-55348": {
     "title": "The Exorcist",
@@ -785,7 +825,7 @@
       "Drama",
       "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003207/poster/lg/2/movie&uuid=014ADD18-72CD-46AB-A493-AF228D1B6D55"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003207/poster/lg/3/movie&uuid=69158583-9A44-40DB-9A9A-31CE68F887B2"
   },
   "wen-er-maar-aan-54928": {
     "title": "Wen Er Maar Aan",
