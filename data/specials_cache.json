@@ -39,15 +39,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
   },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
+  "de-tatta-s-daan-55268": {
+    "title": "De Tatta's: Daan",
+    "slug": "de-tatta-s-daan-55268",
+    "releaseAt": "2026-10-08",
     "genres": [
-      "Drama",
-      "War"
+      "Comedy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003596/poster/lg/1/movie&uuid=CE251B69-2F4F-4A34-8BDC-53E305224AE2"
   },
   "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
     "title": "Shaun het Schaap: Het Beest van de Boerderij",
@@ -58,6 +57,16 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
+  },
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
   "yugly-54846": {
     "title": "Yugly",
@@ -84,20 +93,10 @@
     "slug": "hallowiebe-overdrive-51322",
     "releaseAt": "2026-09-23",
     "genres": [
-      "Adventure",
       "Comedy",
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
-  },
-  "de-tatta-s-daan-55268": {
-    "title": "De Tatta's: Daan",
-    "slug": "de-tatta-s-daan-55268",
-    "releaseAt": "2026-10-08",
-    "genres": [
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003596/poster/lg/1/movie&uuid=CE251B69-2F4F-4A34-8BDC-53E305224AE2"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -458,6 +457,15 @@
       "Biopic"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003598/poster/lg/1/movie&uuid=71274EE8-55B4-4476-8BDA-E570026681A9"
+  },
+  "maspalomas-55875": {
+    "title": "Maspalomas",
+    "slug": "maspalomas-55875",
+    "releaseAt": "2026-09-03",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003694/poster/lg/1/movie&uuid=080C35BE-16BE-4C27-B162-CCC483BBC5D5"
   },
   "maximapark-49920": {
     "title": "Maximapark",
