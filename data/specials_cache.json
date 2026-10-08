@@ -237,6 +237,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
   },
+  "clayface-49630": {
+    "title": "Clayface",
+    "slug": "clayface-49630",
+    "releaseAt": "2026-10-22",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003049/poster/lg/2/movie&uuid=E0FAF0F4-B940-407E-A1C2-DADF65130F67"
+  },
   "coco-nl-41432": {
     "title": "Coco (NL)",
     "slug": "coco-nl-41432",
@@ -377,6 +387,15 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003681/poster/lg/1/movie&uuid=924C199B-3433-44D4-8D16-272C7BFBD0BB"
+  },
+  "juf-braaksel-en-het-meesterbrein-51375": {
+    "title": "Juf Braaksel en het Meesterbrein",
+    "slug": "juf-braaksel-en-het-meesterbrein-51375",
+    "releaseAt": "2026-12-09",
+    "genres": [
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003264/poster/lg/1/movie&uuid=31550BBE-E9C4-4EAF-8BF6-E8B332F9DC35"
   },
   "just-like-elton-2026-48783": {
     "title": "Just Like Elton 2026",
