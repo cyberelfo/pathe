@@ -9,15 +9,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003425/poster/lg/4/movie&uuid=CD4989FC-79E1-4241-A635-7B82441AB625"
   },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
+  "het-vergeten-eiland-nederlandse-versie-52138": {
+    "title": "Het Vergeten Eiland (Nederlandse versie)",
+    "slug": "het-vergeten-eiland-nederlandse-versie-52138",
+    "releaseAt": "2026-10-01",
     "genres": [
-      "Drama",
-      "War"
+      "Animation",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
   },
   "forgotten-island-originele-versie-50684": {
     "title": "Forgotten Island (Originele Versie)",
@@ -30,45 +30,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003169/poster/lg/6/movie&uuid=16C255F1-AD07-4351-966C-0EF61B5810F9"
   },
-  "avengers-endgame-encore-51723": {
-    "title": "Avengers: Endgame Encore",
-    "slug": "avengers-endgame-encore-51723",
-    "releaseAt": "2026-09-23",
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
     "genres": [
-      "Action",
-      "Adventure"
+      "Drama",
+      "War"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003305/poster/lg/2/movie&uuid=545A8075-42C4-4351-A1D2-04DDFFC57C3D"
-  },
-  "bumba-het-circusorkest-54613": {
-    "title": "Bumba: Het Circusorkest",
-    "slug": "bumba-het-circusorkest-54613",
-    "releaseAt": "2026-09-09",
-    "genres": [
-      "Family film",
-      "Fantasy",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
-  },
-  "het-vergeten-eiland-nederlandse-versie-52138": {
-    "title": "Het Vergeten Eiland (Nederlandse versie)",
-    "slug": "het-vergeten-eiland-nederlandse-versie-52138",
-    "releaseAt": "2026-10-01",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
-  },
-  "de-gaulle-resistance-deel-1-54456": {
-    "title": "De Gaulle: R\u00e9sistance (deel 1)",
-    "slug": "de-gaulle-resistance-deel-1-54456",
-    "releaseAt": "2026-08-06",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003457/poster/lg/1/movie&uuid=D66B67AA-5F03-46BE-B893-6362B0D3D392"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
   "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
     "title": "Shaun het Schaap: Het Beest van de Boerderij",
@@ -90,12 +60,25 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
   },
-  "nt-live-2026-the-misanthrope-54771": {
-    "title": "NT Live 2026 \u2013 The Misanthrope",
-    "slug": "nt-live-2026-the-misanthrope-54771",
-    "releaseAt": "2026-10-08",
-    "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003522/poster/lg/1/movie&uuid=16FAFF68-92D5-427E-96A5-A17F4DA1A423"
+  "bumba-het-circusorkest-54613": {
+    "title": "Bumba: Het Circusorkest",
+    "slug": "bumba-het-circusorkest-54613",
+    "releaseAt": "2026-09-09",
+    "genres": [
+      "Family film",
+      "Fantasy",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
+  },
+  "queen-budapest-54941": {
+    "title": "Queen Budapest",
+    "slug": "queen-budapest-54941",
+    "releaseAt": "2026-10-07",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/2/movie&uuid=F8F2B02A-166B-4372-AA03-BDD330203C15"
   },
   "drishyam-the-conclusion-55621": {
     "title": "Drishyam: The Conclusion",
@@ -118,6 +101,35 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00000775/poster/lg/3/movie&uuid=3565892D-0CE4-4A7B-92B4-E9ED17470F7F"
   },
+  "sense-and-sensibility-50672": {
+    "title": "Sense and Sensibility",
+    "slug": "sense-and-sensibility-50672",
+    "releaseAt": "2026-10-15",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/2/movie&uuid=F374F8C9-AF4C-47F4-888D-D8ACC676A8E1"
+  },
+  "coco-nl-41432": {
+    "title": "Coco (NL)",
+    "slug": "coco-nl-41432",
+    "releaseAt": "2026-10-10",
+    "genres": [
+      "Adventure",
+      "Animation"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000772/poster/lg/2/movie&uuid=379EC50A-3B99-40A5-8867-C5AF71168737"
+  },
+  "hanuman-ansh-55566": {
+    "title": "Hanuman Ansh",
+    "slug": "hanuman-ansh-55566",
+    "releaseAt": "2026-09-11",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003666/poster/lg/1/movie&uuid=8D8049F7-4119-4B24-9D8A-DCE861052085"
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -127,6 +139,16 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
+  "youri-51374": {
+    "title": "Youri",
+    "slug": "youri-51374",
+    "releaseAt": "2026-10-15",
+    "genres": [
+      "Biopic",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003263/poster/lg/1/movie&uuid=279AC820-164B-4E88-A17A-75CFDBCAE030"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
@@ -247,16 +269,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003049/poster/lg/2/movie&uuid=E0FAF0F4-B940-407E-A1C2-DADF65130F67"
   },
-  "coco-nl-41432": {
-    "title": "Coco (NL)",
-    "slug": "coco-nl-41432",
-    "releaseAt": "2026-10-10",
-    "genres": [
-      "Adventure",
-      "Animation"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000772/poster/lg/2/movie&uuid=379EC50A-3B99-40A5-8867-C5AF71168737"
-  },
   "coco-ov-55347": {
     "title": "Coco (OV)",
     "slug": "coco-ov-55347",
@@ -286,6 +298,16 @@
       "Thriller"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003677/poster/lg/1/movie&uuid=A5D264C2-38AE-4E0A-A065-3D13D236B9B4"
+  },
+  "creatorsmp-hardcore-4-de-finale-56232": {
+    "title": "CREATORSMP HARDCORE 4 - DE FINALE",
+    "slug": "creatorsmp-hardcore-4-de-finale-56232",
+    "releaseAt": "2026-10-25",
+    "genres": [
+      "Dutch",
+      "Sport"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003706/poster/lg/1/movie&uuid=242D7AC5-0A6D-4B0C-92E0-4A9AF6C3B77E"
   },
   "de-k3-tributeband-alle-kleuren-51608": {
     "title": "De K3 tributeband \u2013 ALLE KLEUREN",
@@ -358,15 +380,6 @@
       "Thriller"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003070/poster/lg/2/movie&uuid=AFC9DAB3-64B6-4D96-8784-00D70944FBF9"
-  },
-  "hanuman-ansh-55566": {
-    "title": "Hanuman Ansh",
-    "slug": "hanuman-ansh-55566",
-    "releaseAt": "2026-09-11",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003666/poster/lg/1/movie&uuid=8D8049F7-4119-4B24-9D8A-DCE861052085"
   },
   "hotel-transylvania-nl-55350": {
     "title": "Hotel Transylvania (NL)",
@@ -465,6 +478,13 @@
     "releaseAt": "2026-12-10",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003523/poster/lg/2/movie&uuid=A8540714-62FC-41B0-92B9-8078255DDF15"
+  },
+  "nt-live-2026-the-misanthrope-54771": {
+    "title": "NT Live 2026 \u2013 The Misanthrope",
+    "slug": "nt-live-2026-the-misanthrope-54771",
+    "releaseAt": "2026-10-08",
+    "genres": [],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003522/poster/lg/1/movie&uuid=16FAFF68-92D5-427E-96A5-A17F4DA1A423"
   },
   "opera-carmen-36956": {
     "title": "Opera: Carmen",
@@ -585,15 +605,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003354/poster/lg/1/movie&uuid=805E1F40-11B5-4943-AE69-E18644B235A3"
   },
-  "queen-budapest-54941": {
-    "title": "Queen Budapest",
-    "slug": "queen-budapest-54941",
-    "releaseAt": "2026-10-07",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/2/movie&uuid=F8F2B02A-166B-4372-AA03-BDD330203C15"
-  },
   "rammstein-live-in-mexico-city-55543": {
     "title": "Rammstein - Live in Mexico City",
     "slug": "rammstein-live-in-mexico-city-55543",
@@ -602,16 +613,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003660/poster/lg/1/movie&uuid=4590327E-F2C6-4882-BDF8-E886C2FA5277"
-  },
-  "sense-and-sensibility-50672": {
-    "title": "Sense and Sensibility",
-    "slug": "sense-and-sensibility-50672",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/2/movie&uuid=F374F8C9-AF4C-47F4-888D-D8ACC676A8E1"
   },
   "seventeen-world-tour-new-55614": {
     "title": "SEVENTEEN WORLD TOUR 'NEW_'",
@@ -783,15 +784,5 @@
     "releaseAt": "2026-11-14",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003283/poster/lg/3/movie&uuid=E8A01484-44EF-4AFA-B6B3-F65B1756848D"
-  },
-  "youri-51374": {
-    "title": "Youri",
-    "slug": "youri-51374",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Biopic",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003263/poster/lg/1/movie&uuid=279AC820-164B-4E88-A17A-75CFDBCAE030"
   }
 }
