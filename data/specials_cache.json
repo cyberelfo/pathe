@@ -10,17 +10,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003169/poster/lg/6/movie&uuid=16C255F1-AD07-4351-966C-0EF61B5810F9"
   },
-  "primetime-55036": {
-    "title": "Primetime",
-    "slug": "primetime-55036",
-    "releaseAt": "2026-10-29",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003565/poster/lg/2/movie&uuid=0D335F3D-E72F-4352-B0A7-E841240CE18D"
-  },
   "het-vergeten-eiland-nederlandse-versie-52138": {
     "title": "Het Vergeten Eiland (Nederlandse versie)",
     "slug": "het-vergeten-eiland-nederlandse-versie-52138",
@@ -41,6 +30,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
+  },
   "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
     "title": "Shaun het Schaap: Het Beest van de Boerderij",
     "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
@@ -50,6 +48,16 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
+  },
+  "the-shining-1980-41147": {
+    "title": "The Shining (1980)",
+    "slug": "the-shining-1980-41147",
+    "releaseAt": "2026-02-05",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000775/poster/lg/3/movie&uuid=3565892D-0CE4-4A7B-92B4-E9ED17470F7F"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -62,16 +70,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "always-lalisa-55306": {
-    "title": "ALWAYS LALISA",
-    "slug": "always-lalisa-55306",
-    "releaseAt": "2026-10-12",
-    "genres": [
-      "Documentary",
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003597/poster/lg/1/movie&uuid=96AE1CB8-AEE2-42A9-9CA1-50138E7F5F79"
-  },
   "drishyam-the-conclusion-55621": {
     "title": "Drishyam: The Conclusion",
     "slug": "drishyam-the-conclusion-55621",
@@ -83,15 +81,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003682/poster/lg/1/movie&uuid=C4BFF6EE-A77F-4877-B71F-DF0BC2F37338"
   },
-  "the-shining-1980-41147": {
-    "title": "The Shining (1980)",
-    "slug": "the-shining-1980-41147",
-    "releaseAt": "2026-02-05",
+  "sense-and-sensibility-50672": {
+    "title": "Sense and Sensibility",
+    "slug": "sense-and-sensibility-50672",
+    "releaseAt": "2026-10-15",
     "genres": [
       "Drama",
-      "Thriller"
+      "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000775/poster/lg/3/movie&uuid=3565892D-0CE4-4A7B-92B4-E9ED17470F7F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/2/movie&uuid=F374F8C9-AF4C-47F4-888D-D8ACC676A8E1"
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
@@ -103,22 +101,22 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
-  "sense-and-sensibility-50672": {
-    "title": "Sense and Sensibility",
-    "slug": "sense-and-sensibility-50672",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/2/movie&uuid=F374F8C9-AF4C-47F4-888D-D8ACC676A8E1"
-  },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
     "slug": "abba-gold-europe-xmas-show-51959",
     "releaseAt": "2026-12-17",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003324/poster/lg/1/movie&uuid=96373902-29D2-47E7-95BA-7A3F823A0E9B"
+  },
+  "always-lalisa-55306": {
+    "title": "ALWAYS LALISA",
+    "slug": "always-lalisa-55306",
+    "releaseAt": "2026-10-12",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003597/poster/lg/1/movie&uuid=96AE1CB8-AEE2-42A9-9CA1-50138E7F5F79"
   },
   "andre-rieu-s-2026-christmas-concert-let-it-snow-55146": {
     "title": "Andr\u00e9 Rieu's 2026 Christmas Concert: Let It Snow",
@@ -181,7 +179,7 @@
     "slug": "ballet-swan-lake-41949",
     "releaseAt": "2026-12-13",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000492/poster/lg/5/movie&uuid=FA2455C5-9E59-4BAC-82D0-864DF9125EAB"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000492/poster/lg/6/movie&uuid=5B635DAA-E030-43E8-BB00-7FD04BB34C34"
   },
   "beatlestory-2027-the-fabulous-tribute-show-52621": {
     "title": "BeatleStory 2027 - The Fabulous Tribute Show",
@@ -231,6 +229,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003049/poster/lg/2/movie&uuid=E0FAF0F4-B940-407E-A1C2-DADF65130F67"
   },
+  "club-kid-55079": {
+    "title": "Club Kid",
+    "slug": "club-kid-55079",
+    "releaseAt": "2026-11-12",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003574/poster/lg/1/movie&uuid=212CB028-B9F8-4228-BB29-E48899A3C040"
+  },
   "coco-nl-41432": {
     "title": "Coco (NL)",
     "slug": "coco-nl-41432",
@@ -258,7 +266,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003199/poster/lg/6/movie&uuid=C3A37777-2380-442A-9293-544A74298664"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003199/poster/lg/7/movie&uuid=BD93B52C-3B35-4447-ACAE-FBFFAD8D878A"
   },
   "colony-55609": {
     "title": "Colony",
@@ -270,6 +278,16 @@
       "Thriller"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003677/poster/lg/1/movie&uuid=A5D264C2-38AE-4E0A-A065-3D13D236B9B4"
+  },
+  "coward-55008": {
+    "title": "Coward",
+    "slug": "coward-55008",
+    "releaseAt": "2026-10-22",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003561/poster/lg/1/movie&uuid=E5B581ED-084E-40F1-9304-6758F7841E0F"
   },
   "creatorsmp-hardcore-4-de-finale-56232": {
     "title": "CREATORSMP HARDCORE 4 - DE FINALE",
@@ -286,7 +304,7 @@
     "slug": "de-k3-tributeband-alle-kleuren-51608",
     "releaseAt": "2026-12-12",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/19/movie&uuid=17B58657-AA0A-454F-B58B-981B4EBC66EC"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/20/movie&uuid=0513B50A-BD54-4E8C-9EFC-8A514A6E0F5D"
   },
   "dune-part-three-49620": {
     "title": "Dune: Part Three",
@@ -373,6 +391,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003681/poster/lg/1/movie&uuid=924C199B-3433-44D4-8D16-272C7BFBD0BB"
   },
+  "i-love-boosters-56223": {
+    "title": "I Love Boosters",
+    "slug": "i-love-boosters-56223",
+    "releaseAt": "2026-11-05",
+    "genres": [
+      "Adventure",
+      "Romance",
+      "Science Fiction"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003703/poster/lg/1/movie&uuid=92E59904-05D8-4B08-BD4F-B9FE7319F8D0"
+  },
   "juf-braaksel-en-het-meesterbrein-51375": {
     "title": "Juf Braaksel en het Meesterbrein",
     "slug": "juf-braaksel-en-het-meesterbrein-51375",
@@ -400,6 +429,16 @@
       "Kids film"
     ],
     "posterUrl": null
+  },
+  "lalka-the-doll-56228": {
+    "title": "Lalka (The Doll)",
+    "slug": "lalka-the-doll-56228",
+    "releaseAt": "2026-10-15",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003704/poster/lg/1/movie&uuid=C82DA8B3-328C-4C18-8DEC-40D86EA8E796"
   },
   "maspalomas-55875": {
     "title": "Maspalomas",
@@ -435,6 +474,16 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003409/poster/lg/2/movie&uuid=54E9F684-364D-4A4F-AC5E-0DBA8E61F197"
   },
+  "nayyi-navelli-56229": {
+    "title": "Nayyi Navelli",
+    "slug": "nayyi-navelli-56229",
+    "releaseAt": "2026-10-16",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003705/poster/lg/1/movie&uuid=06832163-F9CA-40E9-B046-574EAFAF3076"
+  },
   "nt-live-2026-fleabag-54772": {
     "title": "NT Live 2026 \u2013 Fleabag",
     "slug": "nt-live-2026-fleabag-54772",
@@ -461,7 +510,7 @@
     "slug": "opera-macbeth-52696",
     "releaseAt": "2026-10-17",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/14/movie&uuid=B036B425-B30F-4254-B56B-2FEADB132B09"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003410/poster/lg/15/movie&uuid=FB75BBF7-EB85-4999-A898-54DA2E8234D2"
   },
   "opera-manon-52700": {
     "title": "Opera: Manon",
@@ -489,7 +538,7 @@
     "slug": "opera-samson-et-dalila-52697",
     "releaseAt": "2026-12-03",
     "genres": [],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003411/poster/lg/7/movie&uuid=BD404B00-9C42-4CC0-9FDE-6E0386AE3D4A"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003411/poster/lg/8/movie&uuid=6F974334-A91F-40D1-BC76-B0E3AD33A15F"
   },
   "opera-silent-night-52699": {
     "title": "Opera: Silent Night",
@@ -512,7 +561,7 @@
     "genres": [
       "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003048/poster/lg/2/movie&uuid=D9DE6C75-2BB2-491B-9FE9-F7C15CD38FFE"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003048/poster/lg/3/movie&uuid=49EE7709-7A2F-4095-B8F2-3E7DC425423A"
   },
   "ozzy-black-sabbath-back-to-the-beginning-55544": {
     "title": "Ozzy & Black Sabbath: Back to the Beginning",
@@ -550,6 +599,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003354/poster/lg/1/movie&uuid=805E1F40-11B5-4943-AE69-E18644B235A3"
   },
+  "queen-budapest-54941": {
+    "title": "Queen Budapest",
+    "slug": "queen-budapest-54941",
+    "releaseAt": "2026-10-07",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/2/movie&uuid=F8F2B02A-166B-4372-AA03-BDD330203C15"
+  },
   "rammstein-live-in-mexico-city-55543": {
     "title": "Rammstein - Live in Mexico City",
     "slug": "rammstein-live-in-mexico-city-55543",
@@ -567,15 +625,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003678/poster/lg/1/movie&uuid=336B8F88-0AFB-4055-B6A2-34078333B3B7"
-  },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
-    "genres": [
-      "To be announced"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
   },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
@@ -651,7 +700,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/14/movie&uuid=DE735986-0E5A-47B1-ABDC-DEA0BB93D43A"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/15/movie&uuid=8121CADE-AA54-40EE-BE3A-5E55DB06A433"
   },
   "the-exorcist-55348": {
     "title": "The Exorcist",
