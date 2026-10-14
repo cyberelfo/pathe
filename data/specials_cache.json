@@ -1,13 +1,13 @@
 {
-  "het-vergeten-eiland-nederlandse-versie-52138": {
-    "title": "Het Vergeten Eiland (Nederlandse versie)",
-    "slug": "het-vergeten-eiland-nederlandse-versie-52138",
-    "releaseAt": "2026-10-01",
+  "sense-and-sensibility-50672": {
+    "title": "Sense and Sensibility",
+    "slug": "sense-and-sensibility-50672",
+    "releaseAt": "2026-10-15",
     "genres": [
-      "Animation",
-      "Kids film"
+      "Drama",
+      "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/2/movie&uuid=F374F8C9-AF4C-47F4-888D-D8ACC676A8E1"
   },
   "forgotten-island-originele-versie-50684": {
     "title": "Forgotten Island (Originele Versie)",
@@ -20,15 +20,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003169/poster/lg/6/movie&uuid=16C255F1-AD07-4351-966C-0EF61B5810F9"
   },
-  "shaun-het-schaap-het-beest-van-de-boerderij-50836": {
-    "title": "Shaun het Schaap: Het Beest van de Boerderij",
-    "slug": "shaun-het-schaap-het-beest-van-de-boerderij-50836",
-    "releaseAt": "2026-10-07",
+  "het-vergeten-eiland-nederlandse-versie-52138": {
+    "title": "Het Vergeten Eiland (Nederlandse versie)",
+    "slug": "het-vergeten-eiland-nederlandse-versie-52138",
+    "releaseAt": "2026-10-01",
     "genres": [
       "Animation",
       "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003193/poster/lg/1/movie&uuid=2E971207-955D-4D6E-9970-A7CB1EB4F361"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
   },
   "pressure-51722": {
     "title": "Pressure",
@@ -51,16 +51,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "sense-and-sensibility-50672": {
-    "title": "Sense and Sensibility",
-    "slug": "sense-and-sensibility-50672",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/2/movie&uuid=F374F8C9-AF4C-47F4-888D-D8ACC676A8E1"
-  },
   "always-lalisa-55306": {
     "title": "ALWAYS LALISA",
     "slug": "always-lalisa-55306",
@@ -71,15 +61,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003597/poster/lg/1/movie&uuid=96AE1CB8-AEE2-42A9-9CA1-50138E7F5F79"
   },
-  "the-shining-1980-41147": {
-    "title": "The Shining (1980)",
-    "slug": "the-shining-1980-41147",
-    "releaseAt": "2026-02-05",
+  "coco-ov-55347": {
+    "title": "Coco (OV)",
+    "slug": "coco-ov-55347",
+    "releaseAt": "2026-10-15",
     "genres": [
-      "Drama",
-      "Thriller"
+      "Adventure",
+      "Animation"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000775/poster/lg/3/movie&uuid=3565892D-0CE4-4A7B-92B4-E9ED17470F7F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003606/poster/lg/2/movie&uuid=F12A27BD-7FEA-4E12-BC8F-5841DA3B1E03"
   },
   "drishyam-the-conclusion-55621": {
     "title": "Drishyam: The Conclusion",
@@ -92,15 +82,24 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003682/poster/lg/1/movie&uuid=C4BFF6EE-A77F-4877-B71F-DF0BC2F37338"
   },
-  "youri-51374": {
-    "title": "Youri",
-    "slug": "youri-51374",
+  "the-shining-1980-41147": {
+    "title": "The Shining (1980)",
+    "slug": "the-shining-1980-41147",
+    "releaseAt": "2026-02-05",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000775/poster/lg/3/movie&uuid=3565892D-0CE4-4A7B-92B4-E9ED17470F7F"
+  },
+  "the-exorcist-55348": {
+    "title": "The Exorcist",
+    "slug": "the-exorcist-55348",
     "releaseAt": "2026-10-15",
     "genres": [
-      "Biopic",
-      "Drama"
+      "Horror"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003263/poster/lg/1/movie&uuid=279AC820-164B-4E88-A17A-75CFDBCAE030"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003607/poster/lg/3/movie&uuid=EB72B23E-B03F-4E76-A63B-595243B078D1"
   },
   "maximapark-49920": {
     "title": "Maximapark",
@@ -259,16 +258,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00000772/poster/lg/2/movie&uuid=379EC50A-3B99-40A5-8867-C5AF71168737"
   },
-  "coco-ov-55347": {
-    "title": "Coco (OV)",
-    "slug": "coco-ov-55347",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Adventure",
-      "Animation"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003606/poster/lg/2/movie&uuid=F12A27BD-7FEA-4E12-BC8F-5841DA3B1E03"
-  },
   "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
     "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
     "slug": "coldplace-tribute-to-coldplay-parachutes-tour-50872",
@@ -426,9 +415,7 @@
     "slug": "i-love-boosters-56223",
     "releaseAt": "2026-11-05",
     "genres": [
-      "Adventure",
-      "Romance",
-      "Science Fiction"
+      "Comedy"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003703/poster/lg/1/movie&uuid=92E59904-05D8-4B08-BD4F-B9FE7319F8D0"
   },
@@ -459,6 +446,51 @@
       "Drama"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003704/poster/lg/1/movie&uuid=C82DA8B3-328C-4C18-8DEC-40D86EA8E796"
+  },
+  "makandra-ritme-55633": {
+    "title": "Makandra: Ritme",
+    "slug": "makandra-ritme-55633",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003689/poster/lg/1/movie&uuid=58FE0547-E036-4E3F-B479-D99C9A9DF657"
+  },
+  "makandra-roots-55629": {
+    "title": "Makandra: Roots",
+    "slug": "makandra-roots-55629",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003685/poster/lg/1/movie&uuid=78816E04-93EB-4093-81FC-00FDEA427BAD"
+  },
+  "makandra-spiritualiteit-55631": {
+    "title": "Makandra: Spiritualiteit",
+    "slug": "makandra-spiritualiteit-55631",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003687/poster/lg/1/movie&uuid=5E0652F8-574B-48E3-949F-8C2B7E5B71F3"
+  },
+  "makandra-toekomst-55632": {
+    "title": "Makandra: Toekomst",
+    "slug": "makandra-toekomst-55632",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003688/poster/lg/1/movie&uuid=6FD63D2D-689C-4C8E-AB82-9E9224AD7769"
+  },
+  "makandra-verbinding-55630": {
+    "title": "Makandra: Verbinding",
+    "slug": "makandra-verbinding-55630",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003686/poster/lg/1/movie&uuid=63969AF8-4998-4FE5-B476-DBFF1CC3EE85"
   },
   "maspalomas-55875": {
     "title": "Maspalomas",
@@ -730,15 +762,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003196/poster/lg/15/movie&uuid=8121CADE-AA54-40EE-BE3A-5E55DB06A433"
-  },
-  "the-exorcist-55348": {
-    "title": "The Exorcist",
-    "slug": "the-exorcist-55348",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Horror"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003607/poster/lg/3/movie&uuid=EB72B23E-B03F-4E76-A63B-595243B078D1"
   },
   "the-hunger-games-marathon-2026-48827": {
     "title": "The Hunger Games Marathon 2026",
