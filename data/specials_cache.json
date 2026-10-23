@@ -1,4 +1,14 @@
 {
+  "clayface-49630": {
+    "title": "Clayface",
+    "slug": "clayface-49630",
+    "releaseAt": "2026-10-22",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003049/poster/lg/2/movie&uuid=E0FAF0F4-B940-407E-A1C2-DADF65130F67"
+  },
   "sense-and-sensibility-50672": {
     "title": "Sense and Sensibility",
     "slug": "sense-and-sensibility-50672",
@@ -7,7 +17,7 @@
       "Drama",
       "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/2/movie&uuid=F374F8C9-AF4C-47F4-888D-D8ACC676A8E1"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/3/movie&uuid=274A5F3F-D8F5-44A0-AFC4-37EC4654A63C"
   },
   "het-vergeten-eiland-nederlandse-versie-52138": {
     "title": "Het Vergeten Eiland (Nederlandse versie)",
@@ -19,24 +29,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003352/poster/lg/5/movie&uuid=B4CA67BC-BF34-42EF-878C-D3A54AFF6DC5"
   },
-  "sneak-night-36028": {
-    "title": "Sneak Night",
-    "slug": "sneak-night-36028",
-    "releaseAt": "2025-01-01",
+  "resident-evil-49600": {
+    "title": "Resident Evil",
+    "slug": "resident-evil-49600",
+    "releaseAt": "2026-09-17",
     "genres": [
-      "To be announced"
+      "Horror",
+      "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003036/poster/lg/2/movie&uuid=B8DF513F-CE5E-40F3-A441-BED27D7C3DF8"
   },
-  "hallowiebe-overdrive-51322": {
-    "title": "HalloWiebe: Overdrive",
-    "slug": "hallowiebe-overdrive-51322",
-    "releaseAt": "2026-09-23",
+  "coyote-vs-acme-ov-41030": {
+    "title": "Coyote vs. Acme (OV)",
+    "slug": "coyote-vs-acme-ov-41030",
+    "releaseAt": "2026-10-28",
     "genres": [
-      "Comedy",
-      "Kids film"
+      "Adventure",
+      "Animation",
+      "Comedy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003243/poster/lg/1/movie&uuid=9B4F0A10-B05C-4DA6-887F-51F3532D0673"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000300/poster/lg/1/movie&uuid=75E01C8B-6F1E-4384-AA2D-634933CC4A39"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -49,15 +61,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "the-exorcist-55348": {
-    "title": "The Exorcist",
-    "slug": "the-exorcist-55348",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Horror"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003607/poster/lg/3/movie&uuid=EB72B23E-B03F-4E76-A63B-595243B078D1"
-  },
   "pressure-51722": {
     "title": "Pressure",
     "slug": "pressure-51722",
@@ -68,25 +71,56 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
-  "coco-ov-55347": {
-    "title": "Coco (OV)",
-    "slug": "coco-ov-55347",
-    "releaseAt": "2026-10-15",
+  "primetime-55036": {
+    "title": "Primetime",
+    "slug": "primetime-55036",
+    "releaseAt": "2026-10-29",
     "genres": [
-      "Adventure",
-      "Animation"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003606/poster/lg/2/movie&uuid=F12A27BD-7FEA-4E12-BC8F-5841DA3B1E03"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003565/poster/lg/2/movie&uuid=0D335F3D-E72F-4352-B0A7-E841240CE18D"
   },
-  "coco-nl-41432": {
-    "title": "Coco (NL)",
-    "slug": "coco-nl-41432",
-    "releaseAt": "2026-10-10",
+  "coyote-vs-acme-nl-56341": {
+    "title": "Coyote vs. Acme (NL)",
+    "slug": "coyote-vs-acme-nl-56341",
+    "releaseAt": "2026-10-28",
     "genres": [
       "Adventure",
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003716/poster/lg/1/movie&uuid=A16CA855-BB7A-4DDC-9D60-717C29E1739F"
+  },
+  "pehla-pyaar-doosri-baar-56282": {
+    "title": "Pehla Pyaar Doosri Baar",
+    "slug": "pehla-pyaar-doosri-baar-56282",
+    "releaseAt": "2026-10-23",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003709/poster/lg/2/movie&uuid=5941F2BE-0C5A-4D4F-A4A3-A8E3D4499C12"
+  },
+  "gupi-ve-gulmeyen-kral-55920": {
+    "title": "Gupi ve G\u00fclmeyen Kral",
+    "slug": "gupi-ve-gulmeyen-kral-55920",
+    "releaseAt": "2026-10-22",
+    "genres": [
       "Animation"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000772/poster/lg/2/movie&uuid=379EC50A-3B99-40A5-8867-C5AF71168737"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003695/poster/lg/1/movie&uuid=7874F97A-3A55-4A1E-A7C9-93EEB6ACEF9A"
+  },
+  "halloween-49861": {
+    "title": "Halloween",
+    "slug": "halloween-49861",
+    "releaseAt": "2025-10-31",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003070/poster/lg/2/movie&uuid=AFC9DAB3-64B6-4D96-8784-00D70944FBF9"
   },
   "nayyi-navelli-56229": {
     "title": "Nayyi Navelli",
@@ -99,34 +133,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003705/poster/lg/1/movie&uuid=06832163-F9CA-40E9-B046-574EAFAF3076"
   },
-  "i-love-boosters-56223": {
-    "title": "I Love Boosters",
-    "slug": "i-love-boosters-56223",
-    "releaseAt": "2026-11-05",
-    "genres": [
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003703/poster/lg/1/movie&uuid=92E59904-05D8-4B08-BD4F-B9FE7319F8D0"
-  },
-  "soy-55746": {
-    "title": "Soy",
-    "slug": "soy-55746",
+  "prahaar-56281": {
+    "title": "Prahaar",
+    "slug": "prahaar-56281",
     "releaseAt": "2026-10-16",
     "genres": [
-      "Horror",
-      "Turkish film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003691/poster/lg/1/movie&uuid=88F82EC1-F324-4E06-925E-FC3B79B905EE"
-  },
-  "coward-55008": {
-    "title": "Coward",
-    "slug": "coward-55008",
-    "releaseAt": "2026-10-22",
-    "genres": [
+      "Biopic",
       "Drama",
       "War"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003561/poster/lg/1/movie&uuid=E5B581ED-084E-40F1-9304-6758F7841E0F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003708/poster/lg/1/movie&uuid=B0F04778-3ECC-450A-990F-1F70643F3421"
+  },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
   "drishyam-the-conclusion-55621": {
     "title": "Drishyam: The Conclusion",
@@ -138,6 +164,37 @@
       "Mystery"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003682/poster/lg/1/movie&uuid=C4BFF6EE-A77F-4877-B71F-DF0BC2F37338"
+  },
+  "lalka-the-doll-56228": {
+    "title": "Lalka (The Doll)",
+    "slug": "lalka-the-doll-56228",
+    "releaseAt": "2026-10-15",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003704/poster/lg/1/movie&uuid=C82DA8B3-328C-4C18-8DEC-40D86EA8E796"
+  },
+  "soy-55746": {
+    "title": "Soy",
+    "slug": "soy-55746",
+    "releaseAt": "2026-10-16",
+    "genres": [
+      "Horror",
+      "Turkish film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003691/poster/lg/1/movie&uuid=88F82EC1-F324-4E06-925E-FC3B79B905EE"
+  },
+  "the-craft-55349": {
+    "title": "The Craft",
+    "slug": "the-craft-55349",
+    "releaseAt": "2026-10-22",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003608/poster/lg/2/movie&uuid=B1A514EA-9DA3-4206-B03E-B65184B05B0C"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
@@ -257,21 +314,12 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003359/poster/lg/1/movie&uuid=C1B9BC3F-6B68-40CE-836F-25AC2177B76E"
   },
-  "clayface-49630": {
-    "title": "Clayface",
-    "slug": "clayface-49630",
-    "releaseAt": "2026-10-22",
-    "genres": [
-      "Drama",
-      "Horror"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003049/poster/lg/2/movie&uuid=E0FAF0F4-B940-407E-A1C2-DADF65130F67"
-  },
   "club-kid-55079": {
     "title": "Club Kid",
     "slug": "club-kid-55079",
     "releaseAt": "2026-11-12",
     "genres": [
+      "Comedy",
       "Drama",
       "Romance"
     ],
@@ -297,28 +345,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003677/poster/lg/1/movie&uuid=A5D264C2-38AE-4E0A-A065-3D13D236B9B4"
   },
-  "coyote-vs-acme-nl-56341": {
-    "title": "Coyote vs. Acme (NL)",
-    "slug": "coyote-vs-acme-nl-56341",
-    "releaseAt": "2026-10-28",
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003716/poster/lg/1/movie&uuid=A16CA855-BB7A-4DDC-9D60-717C29E1739F"
-  },
-  "coyote-vs-acme-ov-41030": {
-    "title": "Coyote vs. Acme (OV)",
-    "slug": "coyote-vs-acme-ov-41030",
-    "releaseAt": "2026-10-28",
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000300/poster/lg/1/movie&uuid=75E01C8B-6F1E-4384-AA2D-634933CC4A39"
-  },
   "creatorsmp-hardcore-4-de-finale-56232": {
     "title": "CREATORSMP HARDCORE 4 - DE FINALE",
     "slug": "creatorsmp-hardcore-4-de-finale-56232",
@@ -335,16 +361,6 @@
     "releaseAt": "2026-12-12",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/21/movie&uuid=4D1862E7-D5CE-4327-92DF-A096AB53D431"
-  },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
   "dune-part-three-49620": {
     "title": "Dune: Part Three",
@@ -402,24 +418,15 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003513/poster/lg/1/movie&uuid=112B6596-1C75-4B0F-959D-13A70C351682"
   },
-  "gupi-ve-gulmeyen-kral-55920": {
-    "title": "Gupi ve G\u00fclmeyen Kral",
-    "slug": "gupi-ve-gulmeyen-kral-55920",
-    "releaseAt": "2026-10-22",
+  "godzilla-minus-one-2023-japanese-english-subs-36464": {
+    "title": "Godzilla Minus One (2023)  Japanese, English subs",
+    "slug": "godzilla-minus-one-2023-japanese-english-subs-36464",
+    "releaseAt": "2023-12-01",
     "genres": [
-      "Animation"
+      "Action",
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003695/poster/lg/1/movie&uuid=7874F97A-3A55-4A1E-A7C9-93EEB6ACEF9A"
-  },
-  "halloween-49861": {
-    "title": "Halloween",
-    "slug": "halloween-49861",
-    "releaseAt": "2025-10-31",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003070/poster/lg/2/movie&uuid=AFC9DAB3-64B6-4D96-8784-00D70944FBF9"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001568/poster/lg/9/movie&uuid=1F9D709F-1775-4C14-8715-5ABC8E7594B1"
   },
   "hotel-transylvania-nl-55350": {
     "title": "Hotel Transylvania (NL)",
@@ -441,6 +448,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003681/poster/lg/1/movie&uuid=924C199B-3433-44D4-8D16-272C7BFBD0BB"
   },
+  "i-love-boosters-56223": {
+    "title": "I Love Boosters",
+    "slug": "i-love-boosters-56223",
+    "releaseAt": "2026-11-05",
+    "genres": [
+      "Comedy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003703/poster/lg/1/movie&uuid=92E59904-05D8-4B08-BD4F-B9FE7319F8D0"
+  },
   "juf-braaksel-en-het-meesterbrein-51375": {
     "title": "Juf Braaksel en het Meesterbrein",
     "slug": "juf-braaksel-en-het-meesterbrein-51375",
@@ -458,16 +474,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
-  },
-  "lalka-the-doll-56228": {
-    "title": "Lalka (The Doll)",
-    "slug": "lalka-the-doll-56228",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003704/poster/lg/1/movie&uuid=C82DA8B3-328C-4C18-8DEC-40D86EA8E796"
   },
   "makandra-ritme-55633": {
     "title": "Makandra: Ritme",
@@ -646,15 +652,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003661/poster/lg/1/movie&uuid=E52B181A-CC50-4087-8DAD-305458F59967"
   },
-  "pathe-festival-2026-55584": {
-    "title": "Path\u00e9 Festival 2026",
-    "slug": "pathe-festival-2026-55584",
-    "releaseAt": "2026-11-01",
-    "genres": [
-      "To be announced"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003671/poster/lg/1/movie&uuid=4887023E-54FB-408D-90CA-BB2C11B8781D"
-  },
   "pathe-live-on-stage-erik-wegewijs-55626": {
     "title": "Path\u00e9 Live On Stage: Erik Wegewijs",
     "slug": "pathe-live-on-stage-erik-wegewijs-55626",
@@ -664,38 +661,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003683/poster/lg/1/movie&uuid=C6881DF7-0C46-4790-95B8-616FB9A7F2FA"
   },
-  "pehla-pyaar-doosri-baar-56282": {
-    "title": "Pehla Pyaar Doosri Baar",
-    "slug": "pehla-pyaar-doosri-baar-56282",
-    "releaseAt": "2026-10-23",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003709/poster/lg/1/movie&uuid=E2068F43-CC2C-4AAA-B795-47C79E75B4D0"
-  },
-  "prahaar-56281": {
-    "title": "Prahaar",
-    "slug": "prahaar-56281",
-    "releaseAt": "2026-10-16",
-    "genres": [
-      "Biopic",
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003708/poster/lg/1/movie&uuid=B0F04778-3ECC-450A-990F-1F70643F3421"
-  },
-  "primetime-55036": {
-    "title": "Primetime",
-    "slug": "primetime-55036",
-    "releaseAt": "2026-10-29",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003565/poster/lg/2/movie&uuid=0D335F3D-E72F-4352-B0A7-E841240CE18D"
-  },
   "puur-de-nijs-ode-aan-rob-de-nijs-52143": {
     "title": "PUUR DE NIJS \u2013 Ode aan Rob de Nijs",
     "slug": "puur-de-nijs-ode-aan-rob-de-nijs-52143",
@@ -704,15 +669,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003354/poster/lg/1/movie&uuid=805E1F40-11B5-4943-AE69-E18644B235A3"
-  },
-  "queen-budapest-54941": {
-    "title": "Queen Budapest",
-    "slug": "queen-budapest-54941",
-    "releaseAt": "2026-10-07",
-    "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003546/poster/lg/2/movie&uuid=F8F2B02A-166B-4372-AA03-BDD330203C15"
   },
   "ramayana-55571": {
     "title": "Ramayana",
@@ -788,17 +744,6 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003456/poster/lg/1/movie&uuid=2F55F86D-E8CA-413A-B84E-A4479EE41898"
-  },
-  "the-craft-55349": {
-    "title": "The Craft",
-    "slug": "the-craft-55349",
-    "releaseAt": "2026-10-22",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003608/poster/lg/2/movie&uuid=B1A514EA-9DA3-4206-B03E-B65184B05B0C"
   },
   "the-discovery-of-heaven-25th-anniversary-55634": {
     "title": "The Discovery Of Heaven (25th Anniversary)",
