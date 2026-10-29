@@ -1,4 +1,14 @@
 {
+  "other-mommy-49629": {
+    "title": "Other Mommy",
+    "slug": "other-mommy-49629",
+    "releaseAt": "2026-10-29",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003048/poster/lg/4/movie&uuid=11795351-4BA9-49C1-9507-E99D6F9D580F"
+  },
   "clayface-49630": {
     "title": "Clayface",
     "slug": "clayface-49630",
@@ -8,16 +18,6 @@
       "Horror"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003049/poster/lg/2/movie&uuid=E0FAF0F4-B940-407E-A1C2-DADF65130F67"
-  },
-  "whalefall-49595": {
-    "title": "Whalefall",
-    "slug": "whalefall-49595",
-    "releaseAt": "2026-10-14",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003032/poster/lg/2/movie&uuid=1F7E3002-71DF-4000-8C91-1B713DC26E29"
   },
   "sense-and-sensibility-50672": {
     "title": "Sense and Sensibility",
@@ -29,6 +29,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/3/movie&uuid=274A5F3F-D8F5-44A0-AFC4-37EC4654A63C"
   },
+  "whalefall-49595": {
+    "title": "Whalefall",
+    "slug": "whalefall-49595",
+    "releaseAt": "2026-10-14",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003032/poster/lg/2/movie&uuid=1F7E3002-71DF-4000-8C91-1B713DC26E29"
+  },
   "resident-evil-49600": {
     "title": "Resident Evil",
     "slug": "resident-evil-49600",
@@ -38,17 +48,6 @@
       "Thriller"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003036/poster/lg/2/movie&uuid=B8DF513F-CE5E-40F3-A441-BED27D7C3DF8"
-  },
-  "coyote-vs-acme-ov-41030": {
-    "title": "Coyote vs. Acme (OV)",
-    "slug": "coyote-vs-acme-ov-41030",
-    "releaseAt": "2026-10-28",
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000300/poster/lg/1/movie&uuid=75E01C8B-6F1E-4384-AA2D-634933CC4A39"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -61,37 +60,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "the-craft-55349": {
-    "title": "The Craft",
-    "slug": "the-craft-55349",
-    "releaseAt": "2026-10-22",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003608/poster/lg/2/movie&uuid=B1A514EA-9DA3-4206-B03E-B65184B05B0C"
-  },
-  "primetime-55036": {
-    "title": "Primetime",
-    "slug": "primetime-55036",
+  "catli-2-56154": {
+    "title": "\u00c7atli 2",
+    "slug": "catli-2-56154",
     "releaseAt": "2026-10-29",
     "genres": [
+      "Biopic",
       "Crime",
-      "Drama",
-      "Thriller"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003565/poster/lg/2/movie&uuid=0D335F3D-E72F-4352-B0A7-E841240CE18D"
-  },
-  "halloween-49861": {
-    "title": "Halloween",
-    "slug": "halloween-49861",
-    "releaseAt": "2025-10-31",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003070/poster/lg/2/movie&uuid=AFC9DAB3-64B6-4D96-8784-00D70944FBF9"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003698/poster/lg/1/movie&uuid=4137D0F4-7101-405F-A5AC-EFF4F615762C"
   },
   "pressure-51722": {
     "title": "Pressure",
@@ -103,14 +81,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
-  "ozzy-black-sabbath-back-to-the-beginning-55544": {
-    "title": "Ozzy & Black Sabbath: Back to the Beginning",
-    "slug": "ozzy-black-sabbath-back-to-the-beginning-55544",
-    "releaseAt": "2026-10-28",
+  "the-texas-chain-saw-massacre-50th-anniversary-55525": {
+    "title": "The Texas Chain Saw Massacre 50th Anniversary",
+    "slug": "the-texas-chain-saw-massacre-50th-anniversary-55525",
+    "releaseAt": "2026-10-29",
     "genres": [
-      "Music"
+      "Horror",
+      "Thriller"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003661/poster/lg/1/movie&uuid=E52B181A-CC50-4087-8DAD-305458F59967"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003657/poster/lg/2/movie&uuid=34A3DC9F-0C66-4DF9-936D-D672E36CE4E8"
   },
   "gupi-ve-gulmeyen-kral-55920": {
     "title": "Gupi ve G\u00fclmeyen Kral",
@@ -130,14 +109,46 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003681/poster/lg/1/movie&uuid=924C199B-3433-44D4-8D16-272C7BFBD0BB"
   },
-  "enhypen-world-tour-blood-saga-55616": {
-    "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
-    "slug": "enhypen-world-tour-blood-saga-55616",
+  "seventeen-world-tour-new-55614": {
+    "title": "SEVENTEEN WORLD TOUR 'NEW_'",
+    "slug": "seventeen-world-tour-new-55614",
     "releaseAt": "2026-10-24",
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003680/poster/lg/1/movie&uuid=3ACE59B9-06F2-49A4-A90B-887111469C7D"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003678/poster/lg/1/movie&uuid=336B8F88-0AFB-4055-B6A2-34078333B3B7"
+  },
+  "halloween-49861": {
+    "title": "Halloween",
+    "slug": "halloween-49861",
+    "releaseAt": "2025-10-31",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003070/poster/lg/2/movie&uuid=AFC9DAB3-64B6-4D96-8784-00D70944FBF9"
+  },
+  "demon-hunters-56350": {
+    "title": "Demon Hunters",
+    "slug": "demon-hunters-56350",
+    "releaseAt": "2026-10-29",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003717/poster/lg/1/movie&uuid=9B97D0C7-400D-4455-AC93-9CEC13B4E26D"
+  },
+  "hotel-transylvania-nl-55350": {
+    "title": "Hotel Transylvania (NL)",
+    "slug": "hotel-transylvania-nl-55350",
+    "releaseAt": "2026-10-30",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003609/poster/lg/2/movie&uuid=E9010E98-9FFB-4928-A6C8-E9C145637A21"
   },
   "i-love-boosters-56223": {
     "title": "I Love Boosters",
@@ -148,75 +159,24 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003703/poster/lg/1/movie&uuid=92E59904-05D8-4B08-BD4F-B9FE7319F8D0"
   },
-  "soy-55746": {
-    "title": "Soy",
-    "slug": "soy-55746",
-    "releaseAt": "2026-10-16",
-    "genres": [
-      "Horror",
-      "Turkish film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003691/poster/lg/1/movie&uuid=88F82EC1-F324-4E06-925E-FC3B79B905EE"
-  },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
-  },
-  "insidious-out-of-the-further-42389": {
-    "title": "Insidious: Out of the Further",
-    "slug": "insidious-out-of-the-further-42389",
-    "releaseAt": "2026-08-20",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002146/poster/lg/3/movie&uuid=A10FFCD4-DB2A-4E6F-B20D-291422FAF269"
-  },
-  "maximapark-49920": {
-    "title": "Maximapark",
-    "slug": "maximapark-49920",
-    "releaseAt": "2025-10-16",
-    "genres": [
-      "Documentary"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003074/poster/lg/7/movie&uuid=1D940B9E-2466-429C-ADD1-068404536494"
-  },
-  "prahaar-56281": {
-    "title": "Prahaar",
-    "slug": "prahaar-56281",
-    "releaseAt": "2026-10-16",
-    "genres": [
-      "Biopic",
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003708/poster/lg/1/movie&uuid=B0F04778-3ECC-450A-990F-1F70643F3421"
-  },
-  "seventeen-world-tour-new-55614": {
-    "title": "SEVENTEEN WORLD TOUR 'NEW_'",
-    "slug": "seventeen-world-tour-new-55614",
-    "releaseAt": "2026-10-24",
+  "ozzy-black-sabbath-back-to-the-beginning-55544": {
+    "title": "Ozzy & Black Sabbath: Back to the Beginning",
+    "slug": "ozzy-black-sabbath-back-to-the-beginning-55544",
+    "releaseAt": "2026-10-28",
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003678/poster/lg/1/movie&uuid=336B8F88-0AFB-4055-B6A2-34078333B3B7"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003661/poster/lg/1/movie&uuid=E52B181A-CC50-4087-8DAD-305458F59967"
   },
-  "the-discovery-of-heaven-25th-anniversary-55634": {
-    "title": "The Discovery Of Heaven (25th Anniversary)",
-    "slug": "the-discovery-of-heaven-25th-anniversary-55634",
-    "releaseAt": "2026-10-22",
+  "the-christophers-54455": {
+    "title": "The Christophers",
+    "slug": "the-christophers-54455",
+    "releaseAt": "2026-07-30",
     "genres": [
       "Drama",
-      "Fantasy"
+      "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003690/poster/lg/1/movie&uuid=2B320D64-EB5C-45D5-A03D-54BA83C90804"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003456/poster/lg/1/movie&uuid=2F55F86D-E8CA-413A-B84E-A4479EE41898"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
@@ -259,6 +219,17 @@
       "Documentary"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003699/poster/lg/2/movie&uuid=411B192B-E6F5-49A5-B46A-87DB19B988AE"
+  },
+  "arthur-christmas-56773": {
+    "title": "Arthur Christmas",
+    "slug": "arthur-christmas-56773",
+    "releaseAt": "2026-11-30",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003723/poster/lg/2/movie&uuid=7D0387D4-CD59-40E7-A29A-333CBE0696C9"
   },
   "ballet-la-bayadere-52960": {
     "title": "Ballet: La Bayadere",
@@ -326,17 +297,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003359/poster/lg/2/movie&uuid=EB051C3E-5EA8-442F-81C5-A4A48A4402A5"
   },
-  "catli-2-56154": {
-    "title": "\u00c7atli 2",
-    "slug": "catli-2-56154",
-    "releaseAt": "2026-10-29",
-    "genres": [
-      "Biopic",
-      "Crime",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003698/poster/lg/1/movie&uuid=4137D0F4-7101-405F-A5AC-EFF4F615762C"
-  },
   "club-kid-55079": {
     "title": "Club Kid",
     "slug": "club-kid-55079",
@@ -375,16 +335,15 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/22/movie&uuid=23ED7D99-B918-416D-A3E6-7D33C0499BF2"
   },
-  "demon-hunters-56350": {
-    "title": "Demon Hunters",
-    "slug": "demon-hunters-56350",
-    "releaseAt": "2026-10-29",
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
     "genres": [
-      "Action",
-      "Drama",
-      "Romance"
+      "Animation",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003717/poster/lg/1/movie&uuid=9B97D0C7-400D-4455-AC93-9CEC13B4E26D"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
   "dune-part-three-49620": {
     "title": "Dune: Part Three",
@@ -397,13 +356,24 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003041/poster/lg/1/movie&uuid=4EC50B6F-84F5-4205-9081-6132DBC494DC"
   },
+  "elf-44126": {
+    "title": "Elf",
+    "slug": "elf-44126",
+    "releaseAt": "2026-11-14",
+    "genres": [
+      "Family film",
+      "Fantasy",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002481/poster/lg/4/movie&uuid=4C88F9FB-08DC-4407-82E1-CF674708927C"
+  },
   "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628": {
     "title": "Feestelijk Plezier met Peppa: De Bioscoopbelevenis",
     "slug": "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628",
     "releaseAt": "2026-11-21",
     "genres": [
       "Animation",
-      "Family film"
+      "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003684/poster/lg/1/movie&uuid=4D9E2835-6B94-41B7-9A78-FAAEDA957F08"
   },
@@ -456,16 +426,37 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003702/poster/lg/1/movie&uuid=1DDFEE70-6C4C-4F64-8982-8F4F99C54166"
   },
-  "hotel-transylvania-nl-55350": {
-    "title": "Hotel Transylvania (NL)",
-    "slug": "hotel-transylvania-nl-55350",
-    "releaseAt": "2026-10-30",
+  "gooische-vrouwen-44098": {
+    "title": "Gooische Vrouwen",
+    "slug": "gooische-vrouwen-44098",
+    "releaseAt": "2026-11-19",
     "genres": [
-      "Animation",
-      "Comedy",
-      "Kids film"
+      "Drama",
+      "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003609/poster/lg/2/movie&uuid=E9010E98-9FFB-4928-A6C8-E9C145637A21"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002450/poster/lg/5/movie&uuid=093E2E3A-2801-4E14-A14F-08D43356FCAF"
+  },
+  "gooische-vrouwen-2-56771": {
+    "title": "Gooische Vrouwen 2",
+    "slug": "gooische-vrouwen-2-56771",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003721/poster/lg/2/movie&uuid=9E0A5004-593B-46B6-9150-6AF473BBCB29"
+  },
+  "insidious-out-of-the-further-42389": {
+    "title": "Insidious: Out of the Further",
+    "slug": "insidious-out-of-the-further-42389",
+    "releaseAt": "2026-08-20",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002146/poster/lg/3/movie&uuid=A10FFCD4-DB2A-4E6F-B20D-291422FAF269"
   },
   "juf-braaksel-en-het-meesterbrein-51375": {
     "title": "Juf Braaksel en het Meesterbrein",
@@ -539,6 +530,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003694/poster/lg/1/movie&uuid=080C35BE-16BE-4C27-B162-CCC483BBC5D5"
   },
+  "maximapark-49920": {
+    "title": "Maximapark",
+    "slug": "maximapark-49920",
+    "releaseAt": "2025-10-16",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003074/poster/lg/7/movie&uuid=1D940B9E-2466-429C-ADD1-068404536494"
+  },
   "meatball-haagse-beeldrevolutie-55569": {
     "title": "Meatball, Haagse beeldrevolutie",
     "slug": "meatball-haagse-beeldrevolutie-55569",
@@ -547,6 +547,17 @@
       "Documentary"
     ],
     "posterUrl": "https://media.pathe.nl/movie/id/55569/backdrop/277729/lg/2/meatball-logo.png"
+  },
+  "night-at-the-museum-56772": {
+    "title": "Night at the Museum",
+    "slug": "night-at-the-museum-56772",
+    "releaseAt": "2026-11-23",
+    "genres": [
+      "Adventure",
+      "Family film",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003722/poster/lg/2/movie&uuid=8763EF08-4AF8-4C75-A170-DD5D1D6252B6"
   },
   "nt-live-2026-fleabag-54772": {
     "title": "NT Live 2026 \u2013 Fleabag",
@@ -618,15 +629,25 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00001861/poster/lg/14/movie&uuid=F85503CE-3717-4004-A139-A9F3DBC80D0F"
   },
-  "other-mommy-49629": {
-    "title": "Other Mommy",
-    "slug": "other-mommy-49629",
-    "releaseAt": "2026-10-29",
+  "paddington-2-nl-56792": {
+    "title": "Paddington 2 (NL)",
+    "slug": "paddington-2-nl-56792",
+    "releaseAt": "2026-11-12",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Comedy",
+      "Family film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003048/poster/lg/4/movie&uuid=11795351-4BA9-49C1-9507-E99D6F9D580F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003725/poster/lg/3/movie&uuid=34A61345-44B2-4A7A-9759-8A51075570CA"
+  },
+  "paddington-2-ov-44184": {
+    "title": "Paddington 2 (OV)",
+    "slug": "paddington-2-ov-44184",
+    "releaseAt": "2017-12-06",
+    "genres": [
+      "Adventure",
+      "Family film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002272/poster/lg/7/movie&uuid=76C1EFF5-9CCB-4C04-85E0-B2E9AB0FE053"
   },
   "pathe-live-on-stage-erik-wegewijs-55626": {
     "title": "Path\u00e9 Live On Stage: Erik Wegewijs",
@@ -646,6 +667,17 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003709/poster/lg/2/movie&uuid=5941F2BE-0C5A-4D4F-A4A3-A8E3D4499C12"
+  },
+  "prahaar-56281": {
+    "title": "Prahaar",
+    "slug": "prahaar-56281",
+    "releaseAt": "2026-10-16",
+    "genres": [
+      "Biopic",
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003708/poster/lg/1/movie&uuid=B0F04778-3ECC-450A-990F-1F70643F3421"
   },
   "puur-de-nijs-ode-aan-rob-de-nijs-52143": {
     "title": "PUUR DE NIJS \u2013 Ode aan Rob de Nijs",
@@ -676,6 +708,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003660/poster/lg/1/movie&uuid=4590327E-F2C6-4882-BDF8-E886C2FA5277"
   },
+  "sneak-night-36028": {
+    "title": "Sneak Night",
+    "slug": "sneak-night-36028",
+    "releaseAt": "2025-01-01",
+    "genres": [
+      "To be announced"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
+  },
   "sound-sessions-olivia-dean-the-art-of-loving-53424": {
     "title": "Sound Sessions: Olivia Dean - The Art of Loving",
     "slug": "sound-sessions-olivia-dean-the-art-of-loving-53424",
@@ -703,16 +744,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003393/poster/lg/1/movie&uuid=B800F71B-16E4-43E2-B5F5-D3DF309741D9"
   },
-  "the-christophers-54455": {
-    "title": "The Christophers",
-    "slug": "the-christophers-54455",
-    "releaseAt": "2026-07-30",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003456/poster/lg/1/movie&uuid=2F55F86D-E8CA-413A-B84E-A4479EE41898"
-  },
   "the-hunger-games-marathon-2026-48827": {
     "title": "The Hunger Games Marathon 2026",
     "slug": "the-hunger-games-marathon-2026-48827",
@@ -731,15 +762,16 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003389/poster/lg/1/movie&uuid=EA8CA0CD-533C-4AE5-9156-693A19FD4D41"
   },
-  "the-texas-chain-saw-massacre-50th-anniversary-55525": {
-    "title": "The Texas Chain Saw Massacre 50th Anniversary",
-    "slug": "the-texas-chain-saw-massacre-50th-anniversary-55525",
-    "releaseAt": "2026-10-29",
+  "the-polar-express-43089": {
+    "title": "The Polar Express",
+    "slug": "the-polar-express-43089",
+    "releaseAt": "2026-11-05",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Adventure",
+      "Comedy",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003657/poster/lg/2/movie&uuid=34A3DC9F-0C66-4DF9-936D-D672E36CE4E8"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002223/poster/lg/4/movie&uuid=1ED94449-1B57-4C99-94DB-5523F1F446EB"
   },
   "thunder-from-down-under-2027-52619": {
     "title": "Thunder from Down Under 2027",
