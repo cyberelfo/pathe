@@ -29,6 +29,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003660/poster/lg/1/movie&uuid=4590327E-F2C6-4882-BDF8-E886C2FA5277"
   },
+  "wild-horse-nine-52208": {
+    "title": "Wild Horse Nine",
+    "slug": "wild-horse-nine-52208",
+    "releaseAt": "2026-11-05",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003360/poster/lg/1/movie&uuid=292B5003-534A-41CD-9DCD-1005B7CF6C4B"
+  },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
     "slug": "bumba-het-circusorkest-54613",
@@ -39,16 +49,6 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
-  },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
   "catli-2-56154": {
     "title": "\u00c7atli 2",
@@ -61,25 +61,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003698/poster/lg/1/movie&uuid=4137D0F4-7101-405F-A5AC-EFF4F615762C"
   },
-  "wild-horse-nine-52208": {
-    "title": "Wild Horse Nine",
-    "slug": "wild-horse-nine-52208",
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+  },
+  "ramayana-55571": {
+    "title": "Ramayana",
+    "slug": "ramayana-55571",
     "releaseAt": "2026-11-05",
     "genres": [
-      "Comedy",
+      "Action",
+      "Adventure",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003360/poster/lg/1/movie&uuid=292B5003-534A-41CD-9DCD-1005B7CF6C4B"
-  },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003669/poster/lg/5/movie&uuid=B5987CBF-408B-4EBE-8408-7A4B7DB048E1"
   },
   "gupi-ve-gulmeyen-kral-55920": {
     "title": "Gupi ve G\u00fclmeyen Kral",
@@ -227,7 +228,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/mx/56829/lg/1/media"
+    "posterUrl": "https://media.pathe.nl/movie/mx/56829/lg/2/media"
   },
   "calle-malaga-52946": {
     "title": "Calle Malaga",
@@ -275,6 +276,16 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/23/movie&uuid=0EDDF959-E67F-441D-8F05-D6FD0EC2107F"
   },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
   "dune-part-three-49620": {
     "title": "Dune: Part Three",
     "slug": "dune-part-three-49620",
@@ -308,7 +319,7 @@
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003684/poster/lg/1/movie&uuid=4D9E2835-6B94-41B7-9A78-FAAEDA957F08"
   },
   "george-michael-the-faith-tour-54969": {
-    "title": "George Michael: The Faith Tour",
+    "title": "George Michael - The Faith Tour",
     "slug": "george-michael-the-faith-tour-54969",
     "releaseAt": "2026-11-05",
     "genres": [
@@ -574,17 +585,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003354/poster/lg/1/movie&uuid=805E1F40-11B5-4943-AE69-E18644B235A3"
   },
-  "ramayana-55571": {
-    "title": "Ramayana",
-    "slug": "ramayana-55571",
-    "releaseAt": "2026-11-05",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003669/poster/lg/5/movie&uuid=B5987CBF-408B-4EBE-8408-7A4B7DB048E1"
-  },
   "sneak-night-36028": {
     "title": "Sneak Night",
     "slug": "sneak-night-36028",
@@ -630,6 +630,15 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003456/poster/lg/1/movie&uuid=2F55F86D-E8CA-413A-B84E-A4479EE41898"
+  },
+  "the-devils-56769": {
+    "title": "The Devils",
+    "slug": "the-devils-56769",
+    "releaseAt": "2026-11-12",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003719/poster/lg/1/movie&uuid=E6882765-160E-4DB0-BAAA-A3F4BC21EFAB"
   },
   "the-hunger-games-marathon-2026-48827": {
     "title": "The Hunger Games Marathon 2026",
