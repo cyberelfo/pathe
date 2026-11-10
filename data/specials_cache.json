@@ -1,24 +1,13 @@
 {
-  "sense-and-sensibility-50672": {
-    "title": "Sense and Sensibility",
-    "slug": "sense-and-sensibility-50672",
-    "releaseAt": "2026-10-15",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/3/movie&uuid=274A5F3F-D8F5-44A0-AFC4-37EC4654A63C"
-  },
-  "ramayana-55571": {
-    "title": "Ramayana",
-    "slug": "ramayana-55571",
-    "releaseAt": "2026-11-05",
+  "carnaval-52207": {
+    "title": "Carnaval",
+    "slug": "carnaval-52207",
+    "releaseAt": "2026-11-11",
     "genres": [
       "Action",
-      "Adventure",
-      "Drama"
+      "Comedy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003669/poster/lg/5/movie&uuid=B5987CBF-408B-4EBE-8408-7A4B7DB048E1"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003359/poster/lg/3/movie&uuid=C060CE93-B551-4E1C-B3C1-DB76CA42F712"
   },
   "sneak-night-36028": {
     "title": "Sneak Night",
@@ -39,14 +28,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003554/poster/lg/2/movie&uuid=8A4B9D96-462C-4A2C-B19D-E74FAEDC8586"
   },
-  "calle-malaga-52946": {
-    "title": "Calle Malaga",
-    "slug": "calle-malaga-52946",
-    "releaseAt": "2026-06-11",
+  "ramayana-55571": {
+    "title": "Ramayana",
+    "slug": "ramayana-55571",
+    "releaseAt": "2026-11-05",
     "genres": [
+      "Action",
+      "Adventure",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003669/poster/lg/5/movie&uuid=B5987CBF-408B-4EBE-8408-7A4B7DB048E1"
+  },
+  "sense-and-sensibility-50672": {
+    "title": "Sense and Sensibility",
+    "slug": "sense-and-sensibility-50672",
+    "releaseAt": "2026-10-15",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/3/movie&uuid=274A5F3F-D8F5-44A0-AFC4-37EC4654A63C"
   },
   "are-we-alone-56163": {
     "title": "Are We Alone?",
@@ -68,6 +69,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
+  "laatbloeier-51994": {
+    "title": "Laatbloeier",
+    "slug": "laatbloeier-51994",
+    "releaseAt": "2026-11-12",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003333/poster/lg/1/movie&uuid=EB22B7A6-BBA5-4467-AE9F-B7C85553603E"
+  },
   "catli-2-56154": {
     "title": "\u00c7atli 2",
     "slug": "catli-2-56154",
@@ -79,15 +90,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003698/poster/lg/1/movie&uuid=4137D0F4-7101-405F-A5AC-EFF4F615762C"
   },
-  "i-love-boosters-56223": {
-    "title": "I Love Boosters",
-    "slug": "i-love-boosters-56223",
-    "releaseAt": "2026-11-05",
-    "genres": [
-      "Comedy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003703/poster/lg/1/movie&uuid=92E59904-05D8-4B08-BD4F-B9FE7319F8D0"
-  },
   "pressure-51722": {
     "title": "Pressure",
     "slug": "pressure-51722",
@@ -98,6 +100,17 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
+  "the-polar-express-43089": {
+    "title": "The Polar Express",
+    "slug": "the-polar-express-43089",
+    "releaseAt": "2024-12-05",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002223/poster/lg/4/movie&uuid=1ED94449-1B57-4C99-94DB-5523F1F446EB"
+  },
   "makandra-verbinding-55630": {
     "title": "Makandra: Verbinding",
     "slug": "makandra-verbinding-55630",
@@ -107,26 +120,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003686/poster/lg/1/movie&uuid=63969AF8-4998-4FE5-B476-DBFF1CC3EE85"
   },
-  "club-kid-55079": {
-    "title": "Club Kid",
-    "slug": "club-kid-55079",
-    "releaseAt": "2026-11-12",
+  "gupi-ve-gulmeyen-kral-55920": {
+    "title": "Gupi ve G\u00fclmeyen Kral",
+    "slug": "gupi-ve-gulmeyen-kral-55920",
+    "releaseAt": "2026-10-22",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
+      "Animation"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003574/poster/lg/1/movie&uuid=212CB028-B9F8-4228-BB29-E48899A3C040"
-  },
-  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
-    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
-    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
-    "releaseAt": "2026-06-24",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003695/poster/lg/1/movie&uuid=7874F97A-3A55-4A1E-A7C9-93EEB6ACEF9A"
   },
   "the-texas-chain-saw-massacre-50th-anniversary-55525": {
     "title": "The Texas Chain Saw Massacre 50th Anniversary",
@@ -220,15 +221,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003727/poster/lg/1/movie&uuid=3537D28B-3433-421E-84C4-4196ACA57A27"
   },
-  "carnaval-52207": {
-    "title": "Carnaval",
-    "slug": "carnaval-52207",
-    "releaseAt": "2026-11-11",
+  "calle-malaga-52946": {
+    "title": "Calle Malaga",
+    "slug": "calle-malaga-52946",
+    "releaseAt": "2026-06-11",
     "genres": [
-      "Action",
-      "Comedy"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003359/poster/lg/3/movie&uuid=C060CE93-B551-4E1C-B3C1-DB76CA42F712"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
   },
   "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
     "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
@@ -246,6 +246,38 @@
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003284/poster/lg/24/movie&uuid=6922364C-7F73-4DEC-AEF9-7CE5E1D7A356"
   },
+  "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
+    "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
+    "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
+    "releaseAt": "2026-06-24",
+    "genres": [
+      "Animation",
+      "Kids film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
+  },
+  "dune-double-bill-38059": {
+    "title": "Dune Double Bill",
+    "slug": "dune-double-bill-38059",
+    "releaseAt": "2026-12-10",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001758/poster/lg/8/movie&uuid=47333989-2B6F-4A51-9889-A9F99FD5D5B6"
+  },
+  "dune-double-bill-imax-38058": {
+    "title": "Dune Double Bill IMAX",
+    "slug": "dune-double-bill-imax-38058",
+    "releaseAt": "2026-12-10",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001757/poster/lg/10/movie&uuid=FC2D8E2B-AA0C-422E-8819-DCEE1E919A23"
+  },
   "dune-part-three-49620": {
     "title": "Dune: Part Three",
     "slug": "dune-part-three-49620",
@@ -257,15 +289,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003041/poster/lg/2/movie&uuid=6E4D02D3-E979-4926-BAB4-B40BD767CC42"
   },
-  "dzien-dziecka-56970": {
-    "title": "Dzien Dziecka",
-    "slug": "dzien-dziecka-56970",
+  "dzien-dziecka-ksiedza-jana-kaczkowskiego-56970": {
+    "title": "Dzien dziecka ksiedza Jana Kaczkowskiego",
+    "slug": "dzien-dziecka-ksiedza-jana-kaczkowskiego-56970",
     "releaseAt": "2026-11-12",
     "genres": [
-      "Documentary",
-      "Polish film"
+      "Documentary"
     ],
-    "posterUrl": null
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003737/poster/lg/1/movie&uuid=9FEF4BC7-1146-4EA2-AFF7-16C9FBEDA17A"
   },
   "elf-44126": {
     "title": "Elf",
@@ -316,15 +347,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003721/poster/lg/2/movie&uuid=9E0A5004-593B-46B6-9150-6AF473BBCB29"
   },
-  "gupi-ve-gulmeyen-kral-55920": {
-    "title": "Gupi ve G\u00fclmeyen Kral",
-    "slug": "gupi-ve-gulmeyen-kral-55920",
-    "releaseAt": "2026-10-22",
-    "genres": [
-      "Animation"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003695/poster/lg/1/movie&uuid=7874F97A-3A55-4A1E-A7C9-93EEB6ACEF9A"
-  },
   "i-play-rocky-56070": {
     "title": "I Play Rocky",
     "slug": "i-play-rocky-56070",
@@ -352,16 +374,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
-  },
-  "laatbloeier-51994": {
-    "title": "Laatbloeier",
-    "slug": "laatbloeier-51994",
-    "releaseAt": "2026-11-12",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003333/poster/lg/1/movie&uuid=EB22B7A6-BBA5-4467-AE9F-B7C85553603E"
   },
   "makandra-ritme-55633": {
     "title": "Makandra: Ritme",
@@ -572,17 +584,6 @@
     "releaseAt": "2027-01-16",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003389/poster/lg/1/movie&uuid=EA8CA0CD-533C-4AE5-9156-693A19FD4D41"
-  },
-  "the-polar-express-43089": {
-    "title": "The Polar Express",
-    "slug": "the-polar-express-43089",
-    "releaseAt": "2024-12-05",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002223/poster/lg/4/movie&uuid=1ED94449-1B57-4C99-94DB-5523F1F446EB"
   },
   "thunder-from-down-under-2027-52619": {
     "title": "Thunder from Down Under 2027",
