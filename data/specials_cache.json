@@ -20,15 +20,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003669/poster/lg/5/movie&uuid=B5987CBF-408B-4EBE-8408-7A4B7DB048E1"
   },
-  "are-we-alone-56163": {
-    "title": "Are We Alone?",
-    "slug": "are-we-alone-56163",
-    "releaseAt": "2026-11-03",
-    "genres": [
-      "Documentary"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003699/poster/lg/3/movie&uuid=7A9A9EF8-1641-4901-B19A-F7FDF6434B4A"
-  },
   "george-michael-the-faith-tour-54969": {
     "title": "George Michael - The Faith Tour",
     "slug": "george-michael-the-faith-tour-54969",
@@ -39,15 +30,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003554/poster/lg/2/movie&uuid=8A4B9D96-462C-4A2C-B19D-E74FAEDC8586"
   },
-  "calle-malaga-52946": {
-    "title": "Calle Malaga",
-    "slug": "calle-malaga-52946",
-    "releaseAt": "2026-06-11",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
-  },
   "sense-and-sensibility-50672": {
     "title": "Sense and Sensibility",
     "slug": "sense-and-sensibility-50672",
@@ -57,6 +39,15 @@
       "Romance"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/3/movie&uuid=274A5F3F-D8F5-44A0-AFC4-37EC4654A63C"
+  },
+  "are-we-alone-56163": {
+    "title": "Are We Alone?",
+    "slug": "are-we-alone-56163",
+    "releaseAt": "2026-11-03",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003699/poster/lg/3/movie&uuid=7A9A9EF8-1641-4901-B19A-F7FDF6434B4A"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -108,6 +99,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003688/poster/lg/1/movie&uuid=6FD63D2D-689C-4C8E-AB82-9E9224AD7769"
   },
+  "calle-malaga-52946": {
+    "title": "Calle Malaga",
+    "slug": "calle-malaga-52946",
+    "releaseAt": "2026-06-11",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
+  },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
     "slug": "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704",
@@ -117,16 +117,6 @@
       "Kids film"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
-  },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
   "paddington-2-nl-56792": {
     "title": "Paddington 2 (NL)",
@@ -138,6 +128,26 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003725/poster/lg/3/movie&uuid=34A61345-44B2-4A7A-9759-8A51075570CA"
   },
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+  },
+  "130-jaar-film-in-den-haag-bioscoop-asta-57034": {
+    "title": "130 jaar film in Den Haag: Bioscoop Asta",
+    "slug": "130-jaar-film-in-den-haag-bioscoop-asta-57034",
+    "releaseAt": "2026-11-23",
+    "genres": [
+      "Documentary",
+      "Dutch"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003743/poster/lg/1/movie&uuid=077B0197-1A63-40D3-A3A4-F11941D7D4AB"
+  },
   "130-jaar-film-in-den-haag-filmsterritis-57035": {
     "title": "130 jaar film in Den Haag: Filmsterritis",
     "slug": "130-jaar-film-in-den-haag-filmsterritis-57035",
@@ -146,7 +156,7 @@
       "Documentary",
       "Dutch"
     ],
-    "posterUrl": null
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003744/poster/lg/1/movie&uuid=DCF7D377-8985-4707-AC95-C666DF0FF7A9"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
