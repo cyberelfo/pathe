@@ -18,24 +18,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00000601/poster/lg/70/movie&uuid=EF5E1475-A31F-4D1C-A216-2011DFDAC7F5"
   },
-  "paddington-2-ov-44184": {
-    "title": "Paddington 2 (OV)",
-    "slug": "paddington-2-ov-44184",
-    "releaseAt": "2017-12-06",
+  "elf-44126": {
+    "title": "Elf",
+    "slug": "elf-44126",
+    "releaseAt": "2026-11-14",
     "genres": [
-      "Adventure",
-      "Family film"
+      "Comedy",
+      "Fantasy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002272/poster/lg/7/movie&uuid=76C1EFF5-9CCB-4C04-85E0-B2E9AB0FE053"
-  },
-  "calle-malaga-52946": {
-    "title": "Calle Malaga",
-    "slug": "calle-malaga-52946",
-    "releaseAt": "2026-06-11",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002481/poster/lg/4/movie&uuid=4C88F9FB-08DC-4407-82E1-CF674708927C"
   },
   "ramayana-55571": {
     "title": "Ramayana",
@@ -48,15 +39,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003669/poster/lg/5/movie&uuid=B5987CBF-408B-4EBE-8408-7A4B7DB048E1"
   },
-  "george-michael-the-faith-tour-54969": {
-    "title": "George Michael - The Faith Tour",
-    "slug": "george-michael-the-faith-tour-54969",
-    "releaseAt": "2026-11-05",
+  "bumba-het-circusorkest-54613": {
+    "title": "Bumba: Het Circusorkest",
+    "slug": "bumba-het-circusorkest-54613",
+    "releaseAt": "2026-09-09",
     "genres": [
-      "Documentary",
-      "Music"
+      "Family film",
+      "Fantasy",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003554/poster/lg/2/movie&uuid=8A4B9D96-462C-4A2C-B19D-E74FAEDC8586"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
   "are-we-alone-56163": {
     "title": "Are We Alone?",
@@ -86,17 +78,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003719/poster/lg/1/movie&uuid=E6882765-160E-4DB0-BAAA-A3F4BC21EFAB"
   },
-  "bumba-het-circusorkest-54613": {
-    "title": "Bumba: Het Circusorkest",
-    "slug": "bumba-het-circusorkest-54613",
-    "releaseAt": "2026-09-09",
-    "genres": [
-      "Family film",
-      "Fantasy",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
-  },
   "catli-2-56154": {
     "title": "\u00c7atli 2",
     "slug": "catli-2-56154",
@@ -118,6 +99,45 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
+  "george-michael-the-faith-tour-54969": {
+    "title": "George Michael - The Faith Tour",
+    "slug": "george-michael-the-faith-tour-54969",
+    "releaseAt": "2026-11-05",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003554/poster/lg/2/movie&uuid=8A4B9D96-462C-4A2C-B19D-E74FAEDC8586"
+  },
+  "paddington-2-ov-44184": {
+    "title": "Paddington 2 (OV)",
+    "slug": "paddington-2-ov-44184",
+    "releaseAt": "2017-12-06",
+    "genres": [
+      "Adventure",
+      "Family film"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002272/poster/lg/7/movie&uuid=76C1EFF5-9CCB-4C04-85E0-B2E9AB0FE053"
+  },
+  "maximapark-49920": {
+    "title": "Maximapark",
+    "slug": "maximapark-49920",
+    "releaseAt": "2025-10-16",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003074/poster/lg/7/movie&uuid=1D940B9E-2466-429C-ADD1-068404536494"
+  },
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+  },
   "130-jaar-film-in-den-haag-bioscoop-asta-57034": {
     "title": "130 jaar film in Den Haag: Bioscoop Asta",
     "slug": "130-jaar-film-in-den-haag-bioscoop-asta-57034",
@@ -137,6 +157,16 @@
       "Dutch"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003744/poster/lg/1/movie&uuid=DCF7D377-8985-4707-AC95-C666DF0FF7A9"
+  },
+  "2-aile-arasinda-56822": {
+    "title": "2 Aile Arasinda",
+    "slug": "2-aile-arasinda-56822",
+    "releaseAt": "2026-12-03",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003726/poster/lg/1/movie&uuid=55471B48-7A89-42C8-AD18-88D3B244A35E"
   },
   "abba-gold-europe-xmas-show-51959": {
     "title": "Abba Gold Europe Xmas Show",
@@ -229,6 +259,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003745/poster/lg/1/movie&uuid=EB943FA9-3343-4249-A22D-9B7751FCF4AB"
   },
+  "calle-malaga-52946": {
+    "title": "Calle Malaga",
+    "slug": "calle-malaga-52946",
+    "releaseAt": "2026-06-11",
+    "genres": [
+      "Drama"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
+  },
   "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
     "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
     "slug": "coldplace-tribute-to-coldplay-parachutes-tour-50872",
@@ -285,16 +324,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003737/poster/lg/1/movie&uuid=9FEF4BC7-1146-4EA2-AFF7-16C9FBEDA17A"
   },
-  "elf-44126": {
-    "title": "Elf",
-    "slug": "elf-44126",
-    "releaseAt": "2026-11-14",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002481/poster/lg/4/movie&uuid=4C88F9FB-08DC-4407-82E1-CF674708927C"
-  },
   "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628": {
     "title": "Feestelijk Plezier met Peppa: De Bioscoopbelevenis",
     "slug": "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628",
@@ -350,15 +379,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00002920/poster/lg/5/movie&uuid=7BF8DED3-8CCF-4988-85EE-04D5C173162D"
-  },
-  "maximapark-49920": {
-    "title": "Maximapark",
-    "slug": "maximapark-49920",
-    "releaseAt": "2025-10-16",
-    "genres": [
-      "Documentary"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003074/poster/lg/7/movie&uuid=1D940B9E-2466-429C-ADD1-068404536494"
   },
   "meet-the-parents-focker-in-law-48666": {
     "title": "Meet the Parents: Focker-In-Law",
@@ -461,16 +481,6 @@
       "Music"
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003683/poster/lg/1/movie&uuid=C6881DF7-0C46-4790-95B8-616FB9A7F2FA"
-  },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
   },
   "puur-de-nijs-ode-aan-rob-de-nijs-52143": {
     "title": "PUUR DE NIJS \u2013 Ode aan Rob de Nijs",
