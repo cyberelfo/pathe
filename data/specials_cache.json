@@ -9,15 +9,24 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003333/poster/lg/1/movie&uuid=EB22B7A6-BBA5-4467-AE9F-B7C85553603E"
   },
-  "elf-44126": {
-    "title": "Elf",
-    "slug": "elf-44126",
-    "releaseAt": "2026-11-14",
+  "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628": {
+    "title": "Feestelijk Plezier met Peppa: De Bioscoopbelevenis",
+    "slug": "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628",
+    "releaseAt": "2026-11-21",
     "genres": [
-      "Comedy",
-      "Fantasy"
+      "Animation",
+      "Kids film"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002481/poster/lg/4/movie&uuid=4C88F9FB-08DC-4407-82E1-CF674708927C"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003684/poster/lg/1/movie&uuid=4D9E2835-6B94-41B7-9A78-FAAEDA957F08"
+  },
+  "bts-world-tour-arirang-in-kaohsiung-live-viewing-56829": {
+    "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+    "slug": "bts-world-tour-arirang-in-kaohsiung-live-viewing-56829",
+    "releaseAt": "2026-11-21",
+    "genres": [
+      "Music"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003727/poster/lg/1/movie&uuid=3537D28B-3433-421E-84C4-4196ACA57A27"
   },
   "ramayana-55571": {
     "title": "Ramayana",
@@ -30,6 +39,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003669/poster/lg/5/movie&uuid=B5987CBF-408B-4EBE-8408-7A4B7DB048E1"
   },
+  "are-we-alone-56163": {
+    "title": "Are We Alone?",
+    "slug": "are-we-alone-56163",
+    "releaseAt": "2026-11-03",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003699/poster/lg/3/movie&uuid=7A9A9EF8-1641-4901-B19A-F7FDF6434B4A"
+  },
   "sense-and-sensibility-50672": {
     "title": "Sense and Sensibility",
     "slug": "sense-and-sensibility-50672",
@@ -40,23 +58,44 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003165/poster/lg/3/movie&uuid=274A5F3F-D8F5-44A0-AFC4-37EC4654A63C"
   },
-  "are-we-alone-56163": {
-    "title": "Are We Alone?",
-    "slug": "are-we-alone-56163",
-    "releaseAt": "2026-11-03",
-    "genres": [
-      "Documentary"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003699/poster/lg/3/movie&uuid=7A9A9EF8-1641-4901-B19A-F7FDF6434B4A"
-  },
-  "the-devils-56769": {
-    "title": "The Devils",
-    "slug": "the-devils-56769",
-    "releaseAt": "2026-11-12",
+  "spinoza-54541": {
+    "title": "Spinoza",
+    "slug": "spinoza-54541",
+    "releaseAt": "2026-11-19",
     "genres": [
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003719/poster/lg/1/movie&uuid=E6882765-160E-4DB0-BAAA-A3F4BC21EFAB"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003489/poster/lg/1/movie&uuid=854956FA-F3D9-40B4-ACBE-6FE656138E6F"
+  },
+  "cakallarla-dans-8-sututgart-cikarmasi-57040": {
+    "title": "\u00c7akallarla Dans 8: Sututgart \u00c7ikarmasi",
+    "slug": "cakallarla-dans-8-sututgart-cikarmasi-57040",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Comedy"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003745/poster/lg/1/movie&uuid=EB943FA9-3343-4249-A22D-9B7751FCF4AB"
+  },
+  "gooische-vrouwen-44098": {
+    "title": "Gooische Vrouwen",
+    "slug": "gooische-vrouwen-44098",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002450/poster/lg/5/movie&uuid=093E2E3A-2801-4E14-A14F-08D43356FCAF"
+  },
+  "gooische-vrouwen-2-56771": {
+    "title": "Gooische vrouwen 2",
+    "slug": "gooische-vrouwen-2-56771",
+    "releaseAt": "2026-11-19",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003721/poster/lg/2/movie&uuid=9E0A5004-593B-46B6-9150-6AF473BBCB29"
   },
   "bumba-het-circusorkest-54613": {
     "title": "Bumba: Het Circusorkest",
@@ -69,26 +108,14 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003504/poster/lg/11/movie&uuid=535D530E-521A-47A7-90CC-4ABDA4570874"
   },
-  "catli-2-56154": {
-    "title": "\u00c7atli 2",
-    "slug": "catli-2-56154",
-    "releaseAt": "2026-10-29",
+  "calle-malaga-52946": {
+    "title": "Calle Malaga",
+    "slug": "calle-malaga-52946",
+    "releaseAt": "2026-06-11",
     "genres": [
-      "Biopic",
-      "Crime",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003698/poster/lg/1/movie&uuid=4137D0F4-7101-405F-A5AC-EFF4F615762C"
-  },
-  "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628": {
-    "title": "Feestelijk Plezier met Peppa: De Bioscoopbelevenis",
-    "slug": "feestelijk-plezier-met-peppa-de-bioscoopbelevenis-55628",
-    "releaseAt": "2026-11-21",
-    "genres": [
-      "Animation",
-      "Kids film"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003684/poster/lg/1/movie&uuid=4D9E2835-6B94-41B7-9A78-FAAEDA957F08"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
   },
   "dikkie-dik-en-de-verdwenen-knuffel-re-release-52704": {
     "title": "Dikkie Dik en de verdwenen knuffel (re-release)",
@@ -100,6 +127,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003418/poster/lg/3/movie&uuid=DFB6181D-EC15-49E9-95E8-91B721C35A4F"
   },
+  "dzien-dziecka-ksiedza-jana-kaczkowskiego-56970": {
+    "title": "Dzien dziecka ksiedza Jana Kaczkowskiego",
+    "slug": "dzien-dziecka-ksiedza-jana-kaczkowskiego-56970",
+    "releaseAt": "2026-11-12",
+    "genres": [
+      "Documentary"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003737/poster/lg/1/movie&uuid=9FEF4BC7-1146-4EA2-AFF7-16C9FBEDA17A"
+  },
   "george-michael-the-faith-tour-54969": {
     "title": "George Michael - The Faith Tour",
     "slug": "george-michael-the-faith-tour-54969",
@@ -110,34 +146,23 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003554/poster/lg/2/movie&uuid=8A4B9D96-462C-4A2C-B19D-E74FAEDC8586"
   },
-  "maximapark-49920": {
-    "title": "Maximapark",
-    "slug": "maximapark-49920",
-    "releaseAt": "2025-10-16",
+  "meet-the-parents-focker-in-law-48666": {
+    "title": "Meet the Parents: Focker-In-Law",
+    "slug": "meet-the-parents-focker-in-law-48666",
+    "releaseAt": "2026-11-26",
     "genres": [
-      "Documentary"
+      "Comedy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003074/poster/lg/7/movie&uuid=1D940B9E-2466-429C-ADD1-068404536494"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002902/poster/lg/3/movie&uuid=BC48DCC9-AF09-4A25-BCB7-2B067B8A144C"
   },
-  "paddington-2-ov-44184": {
-    "title": "Paddington 2 (OV)",
-    "slug": "paddington-2-ov-44184",
-    "releaseAt": "2017-12-06",
+  "the-devils-56769": {
+    "title": "The Devils",
+    "slug": "the-devils-56769",
+    "releaseAt": "2026-11-12",
     "genres": [
-      "Adventure",
-      "Family film"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002272/poster/lg/7/movie&uuid=76C1EFF5-9CCB-4C04-85E0-B2E9AB0FE053"
-  },
-  "pressure-51722": {
-    "title": "Pressure",
-    "slug": "pressure-51722",
-    "releaseAt": "2026-09-10",
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003719/poster/lg/1/movie&uuid=E6882765-160E-4DB0-BAAA-A3F4BC21EFAB"
   },
   "130-jaar-film-in-den-haag-bioscoop-asta-57034": {
     "title": "130 jaar film in Den Haag: Bioscoop Asta",
@@ -262,32 +287,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003728/poster/lg/1/movie&uuid=F6C8E275-980A-44D8-8AA2-C807C98A0CB6"
   },
-  "bts-world-tour-arirang-in-kaohsiung-live-viewing-56829": {
-    "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
-    "slug": "bts-world-tour-arirang-in-kaohsiung-live-viewing-56829",
-    "releaseAt": "2026-11-21",
+  "catli-2-56154": {
+    "title": "\u00c7atli 2",
+    "slug": "catli-2-56154",
+    "releaseAt": "2026-10-29",
     "genres": [
-      "Music"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003727/poster/lg/1/movie&uuid=3537D28B-3433-421E-84C4-4196ACA57A27"
-  },
-  "cakallarla-dans-8-sututgart-cikarmasi-57040": {
-    "title": "\u00c7akallarla Dans 8: Sututgart \u00c7ikarmasi",
-    "slug": "cakallarla-dans-8-sututgart-cikarmasi-57040",
-    "releaseAt": "2026-11-19",
-    "genres": [
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003745/poster/lg/1/movie&uuid=EB943FA9-3343-4249-A22D-9B7751FCF4AB"
-  },
-  "calle-malaga-52946": {
-    "title": "Calle Malaga",
-    "slug": "calle-malaga-52946",
-    "releaseAt": "2026-06-11",
-    "genres": [
+      "Biopic",
+      "Crime",
       "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003442/poster/lg/1/movie&uuid=E72995D2-8066-4A3D-B8F5-2C687B38D782"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003698/poster/lg/1/movie&uuid=4137D0F4-7101-405F-A5AC-EFF4F615762C"
   },
   "coldplace-tribute-to-coldplay-parachutes-tour-50872": {
     "title": "Coldplace - Tribute to Coldplay Parachutes Tour",
@@ -336,42 +345,12 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003041/poster/lg/2/movie&uuid=6E4D02D3-E979-4926-BAB4-B40BD767CC42"
   },
-  "dzien-dziecka-ksiedza-jana-kaczkowskiego-56970": {
-    "title": "Dzien dziecka ksiedza Jana Kaczkowskiego",
-    "slug": "dzien-dziecka-ksiedza-jana-kaczkowskiego-56970",
-    "releaseAt": "2026-11-12",
-    "genres": [
-      "Documentary"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003737/poster/lg/1/movie&uuid=9FEF4BC7-1146-4EA2-AFF7-16C9FBEDA17A"
-  },
   "giant-the-play-54701": {
     "title": "GIANT \u2013 The Play",
     "slug": "giant-the-play-54701",
     "releaseAt": "2026-11-19",
     "genres": [],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003513/poster/lg/1/movie&uuid=112B6596-1C75-4B0F-959D-13A70C351682"
-  },
-  "gooische-vrouwen-44098": {
-    "title": "Gooische Vrouwen",
-    "slug": "gooische-vrouwen-44098",
-    "releaseAt": "2026-11-19",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002450/poster/lg/5/movie&uuid=093E2E3A-2801-4E14-A14F-08D43356FCAF"
-  },
-  "gooische-vrouwen-2-56771": {
-    "title": "Gooische vrouwen 2",
-    "slug": "gooische-vrouwen-2-56771",
-    "releaseAt": "2026-11-19",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003721/poster/lg/2/movie&uuid=9E0A5004-593B-46B6-9150-6AF473BBCB29"
   },
   "het-nederlands-filmorkest-maestro-del-cinema-57077": {
     "title": "Het Nederlands Filmorkest - Maestro del Cinema",
@@ -380,7 +359,7 @@
     "genres": [
       "Music"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003748/poster/lg/1/movie&uuid=84F8B71B-DE29-49A8-944E-990F8D5690A6"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003748/poster/lg/2/movie&uuid=D424BCAA-45D4-40A3-97E8-FA78F472408A"
   },
   "juf-braaksel-en-het-meesterbrein-51375": {
     "title": "Juf Braaksel en het Meesterbrein",
@@ -405,40 +384,42 @@
     "slug": "lord-of-the-rings-fellowship-of-the-ring-extended-36996",
     "releaseAt": "2026-12-03",
     "genres": [
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Drama",
+      "Fantasy"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001601/poster/lg/5/movie&uuid=A86E5A10-2BD6-4B07-ADAA-3C5BE33D8549"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001601/poster/lg/6/movie&uuid=0801364D-4185-4C54-B2A3-05F513C15968"
   },
   "lord-of-the-rings-return-of-the-king-extended-37000": {
     "title": "Lord of the Rings: Return of the King Extended",
     "slug": "lord-of-the-rings-return-of-the-king-extended-37000",
-    "releaseAt": "2023-11-02",
+    "releaseAt": "2026-12-03",
     "genres": [
       "Action",
       "Adventure",
-      "Fantasy"
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001605/poster/lg/4/movie&uuid=9E66731C-4F85-426F-A9AF-FE03628DB653"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001605/poster/lg/5/movie&uuid=4043FC3B-55FB-4C19-A5C9-18CF353F0A66"
   },
   "lord-of-the-rings-the-two-towers-extended-36998": {
     "title": "Lord of the Rings: The Two Towers Extended",
     "slug": "lord-of-the-rings-the-two-towers-extended-36998",
-    "releaseAt": "2023-11-02",
+    "releaseAt": "2026-12-03",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Drama"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001603/poster/lg/4/movie&uuid=48A22AFA-C189-4C48-844B-D935B6595BB2"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00001603/poster/lg/5/movie&uuid=F4AC051C-9FC0-4A81-AB7C-14E2BEB21DEC"
   },
-  "meet-the-parents-focker-in-law-48666": {
-    "title": "Meet the Parents: Focker-In-Law",
-    "slug": "meet-the-parents-focker-in-law-48666",
-    "releaseAt": "2026-11-26",
+  "maximapark-49920": {
+    "title": "Maximapark",
+    "slug": "maximapark-49920",
+    "releaseAt": "2025-10-16",
     "genres": [
-      "Comedy"
+      "Documentary"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00002902/poster/lg/3/movie&uuid=BC48DCC9-AF09-4A25-BCB7-2B067B8A144C"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003074/poster/lg/7/movie&uuid=1D940B9E-2466-429C-ADD1-068404536494"
   },
   "night-at-the-museum-56772": {
     "title": "Night at the Museum",
@@ -533,6 +514,16 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003683/poster/lg/1/movie&uuid=C6881DF7-0C46-4790-95B8-616FB9A7F2FA"
   },
+  "pressure-51722": {
+    "title": "Pressure",
+    "slug": "pressure-51722",
+    "releaseAt": "2026-09-10",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003304/poster/lg/2/movie&uuid=FF7F7EE0-5620-4BB4-8EEA-852FB577A1B5"
+  },
   "puur-de-nijs-ode-aan-rob-de-nijs-52143": {
     "title": "PUUR DE NIJS \u2013 Ode aan Rob de Nijs",
     "slug": "puur-de-nijs-ode-aan-rob-de-nijs-52143",
@@ -551,15 +542,6 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003450/poster/lg/1/movie&uuid=BAF32682-CCA0-4DFE-B979-B43A42837D1F"
   },
-  "spinoza-54541": {
-    "title": "Spinoza",
-    "slug": "spinoza-54541",
-    "releaseAt": "2026-11-19",
-    "genres": [
-      "Drama"
-    ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003489/poster/lg/1/movie&uuid=854956FA-F3D9-40B4-ACBE-6FE656138E6F"
-  },
   "the-animals-friends-last-farewell-tour-2027-52622": {
     "title": "The Animals & Friends: Last Farewell Tour 2027",
     "slug": "the-animals-friends-last-farewell-tour-2027-52622",
@@ -569,15 +551,15 @@
     ],
     "posterUrl": "https://media.pathe.nl/movie/alex/HO00003393/poster/lg/1/movie&uuid=B800F71B-16E4-43E2-B5F5-D3DF309741D9"
   },
-  "the-holiday-2006-57012": {
-    "title": "The Holiday (2006)",
-    "slug": "the-holiday-2006-57012",
+  "the-holiday-57012": {
+    "title": "The Holiday",
+    "slug": "the-holiday-57012",
     "releaseAt": "2026-12-17",
     "genres": [
       "Comedy",
       "Romance"
     ],
-    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003739/poster/lg/1/movie&uuid=FB696233-7314-44D6-8D34-65354C3EF718"
+    "posterUrl": "https://media.pathe.nl/movie/alex/HO00003739/poster/lg/2/movie&uuid=F42B024D-AC17-408B-AE83-F3BD90F2EDD7"
   },
   "the-music-of-live-aid-2027-52618": {
     "title": "The Music Of Live Aid 2027",
